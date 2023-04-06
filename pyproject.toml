@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "pre-commit-github-actions"
+version = "0.1.0"
+description = "tutorial for using pre-commit together with github actions"
+authors = ["pereza <alejandro.perez@socialbakers.com>"]
+readme = "README.md"
+packages = [{include = "pre_commit_github_actions"}]
+
+[tool.poetry.dependencies]
+python = "^3.11.2"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.1.1"
+flake8 = "^6.0.0"
+isort = "^5.12.0"
+pre-commit = "^3.2.2"
+pytest = "^7.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
