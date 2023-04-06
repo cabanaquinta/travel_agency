@@ -22,11 +22,6 @@ repos:
             language: system
             types: [python]
             files: my_python_code/fancy_python_code.*
-          - id: pytest
-            name: pytest
-            entry: poetry run pytest
-            language: system
-            types: [python]
 
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v4.4.0

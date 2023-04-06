@@ -45,3 +45,8 @@ jobs:
             #----------------------------------------------
             - name: Install project
               run: poetry install --no-interaction --no-root
+            #----------------------------------------------
+            # Testing
+            #----------------------------------------------
+            - name: Testin
+              run: poetry run pre-commit run --all-files
