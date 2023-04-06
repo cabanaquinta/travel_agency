@@ -1,0 +1,57 @@
+name: push_image_to_gcp_artifact_registry
+
+on:
+    push:
+        branches: [master, main, dev]
+    pull_request:
+        branches: [master, main, dev]
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+
+        -
+            name: code checkout
+            uses: actions/checkout@v2
+
+        -
+            name: install the gcloud cli
+            uses: google-github-actions/setup-gcloud@v0
+            with:
+                project_id: ${{ secrets.GOOGLE_PROJECT }}
+                service_account_key: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+                install_components: 'gke-gcloud-auth-plugin'
+                export_default_credentials: true
+
+        -
+            name: build and push the docker image
+            env:
+                GOOGLE_PROJECT: ${{ secrets.GOOGLE_PROJECT }}
+                IMAGE_NAME: latest-image-9
+            run: |
+                gcloud auth configure-docker europe-west6-docker.pkg.dev
+                docker build -t europe-west6-docker.pkg.dev/amazing-thought-394210/test/$IMAGE_NAME:2.6.5-python3.10 .
+                docker push europe-west6-docker.pkg.dev/amazing-thought-394210/test/$IMAGE_NAME:2.6.5-python3.10
+
+        -
+            name: install Python 3.10
+            uses: actions/setup-python@v4
+            with:
+                python-version: '3.10'
+        -
+            name: Install Prefect and Prefect GCP
+            run: |
+                python -m pip install --upgrade pip
+                pip install prefect prefect_gcp unidecode scrapy pandas
+        -
+            name: Prefect Auth
+            uses: PrefectHQ/actions-prefect-auth@v1
+            with:
+                prefect-api-key: ${{ secrets.PREFECT_API_KEY }}
+                # prefect-workspace: ${{ secrets.PREFECT_WORKSPACE }} alexroperez3gmailcom
+                prefect-workspace: alexroperez3gmailcom/travel-agency
+        -
+            name: Push Flows to Prefect Cloud
+            run: |
+                python ./prefect/deployment.py

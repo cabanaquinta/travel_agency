@@ -1,5 +1,5 @@
 default_language_version:
-    python: python3.11.2
+    python: python3.9
 
 repos:
     - repo: local
@@ -9,24 +9,19 @@ repos:
             entry: poetry run flake8
             language: system
             types: [python]
-            files: my_python_code/fancy_python_code.*
+
           - id: mypy
             name: mypy
-            entry: poetry run mypy
+            entry: poetry run mypy --no-namespace-packages
             language: system
             types: [python]
-            files: my_python_code/fancy_python_code.*
+
           - id: isort
             name: isort
             entry: poetry run isort
             language: system
             types: [python]
-            files: my_python_code/fancy_python_code.*
-          - id: pytest
-            name: pytest
-            entry: poetry run pytest
-            language: system
-            types: [python]
+
 
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v4.4.0
