@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "pre_commit_github_actions"}]
 
 [tool.poetry.dependencies]
-python = "^3.9.10"
+python = "^3.9"
 
 
 [tool.poetry.group.dev.dependencies]
