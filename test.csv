@@ -1,0 +1,974 @@
+,link,description,price,currency,start,end
+0,https://www.ryanair.com/cz/cs/booking/home/VIE/MRS/2023-09-22/2023-09-29/1/0/0/0,Vde - Marseille = 41 EUR / 990 K,990.0,CZK,Vde,Marseille
+1,https://www.pelikan.cz/cs/akcni-letenka/LCC-643?a_aid=6fef337b,Vde - Marseille = kalend termn,,CZK,Vde,Marseille
+2,https://www.ryanair.com/cz/cs/booking/home/BTS/BOJ/2023-10-05/2023-10-08/1/0/0/0,Bratislava - Burgas = 30 EUR / 720 K,720.0,CZK,Bratislava,Burgas
+3,https://www.pelikan.cz/cs/akcni-letenka/LCC-248?a_aid=6fef337b,Bratislava - Burgas = kalend termn,,CZK,Bratislava,Burgas
+4,https://wizzair.com/cs-cz#/booking/select-flight/VIE/TGD/2023-10-08/2023-10-15/1/0/0,Vde - Podgorica = 30 EUR / 720 K s WDC,720.0,CZK,Vde,Podgorica
+5,https://www.pelikan.cz/cs/akcni-letenka/LCC-1181?a_aid=6fef337b,Vde - Podgorica = kalend termn,,CZK,Vde,Podgorica
+6,https://www.pelikan.cz/cs/akcni-letenka/G-14659?a_aid=6fef337b,Praha - Mauricius = 13 990 K,13990.0,CZK,Praha,Mauricius
+7,https://www.ryanair.com/cz/cs/booking/home/PRG/BUD/2023-09-04/2023-09-10/1/0/0/0,Praha - Budape = 978 K,978.0,CZK,Praha,Budape
+8,https://www.pelikan.cz/cs/akcni-letenka/LCC-408?a_aid=6fef337b,Praha - Budape = kalend termn,,CZK,Praha,Budape
+9,https://wizzair.com/#/booking/select-flight/VIE/BCN/2023-10-09/2023-10-17/1/0/0,Vde - Barcelona = 25 EUR / 600 K s WDC,600.0,CZK,Vde,Barcelona
+10,https://www.pelikan.cz/cs/akcni-letenka/LCC-325?a_aid=6fef337b,Vde - Barcelona = kalend termn,,CZK,Vde,Barcelona
+11,https://www.pelikan.cz/cs/akcni-letenka/G-15124?a_aid=6fef337b,Budape - Melbourne = 17 990 K,17990.0,CZK,Budape,Melbourne
+12,https://www.pelikan.cz/cs/akcni-letenka/G-15123?a_aid=6fef337b,Budape - Sydney = 22 790 K,22790.0,CZK,Budape,Sydney
+13,https://www.pelikan.cz/cs/akcni-letenka/G-15152?a_aid=6fef337b,Budape - Auckland = 19 490 K,19490.0,CZK,Budape,Auckland
+14,https://www.pelikan.cz/cs/akcni-letenka/G-15122?a_aid=6fef337b,Budape - Auckland = 21 790 K,21790.0,CZK,Budape,Auckland
+15,https://www.ryanair.com/cz/cs/booking/home/BTS/SOF/2023-09-24/2023-09-26/1/0/0/0,Bratislava - Sofie = 35 EUR / 840 K,840.0,CZK,Bratislava,Sofie
+16,https://www.pelikan.cz/cs/akcni-letenka/LCC-1524?a_aid=6fef337b,Bratislava - Sofie = kalend termn,,CZK,Bratislava,Sofie
+17,https://www.ryanair.com/cz/cs/booking/home/VIE/PEG/2023-09-23/2023-09-26/1/0/0/0,Vde - Perugia = 36 EUR / 870 K,870.0,CZK,Vde,Perugia
+18,https://www.pelikan.cz/cs/akcni-letenka/LCC-1125?a_aid=6fef337b,Vde - Perugia = kalend termn,,CZK,Vde,Perugia
+19,https://wizzair.com/cs-cz#/booking/select-flight/PRG/CTA/2023-10-17/2023-10-24/1/0/0,Praha - Catania = 880 K s WDC,880.0,CZK,Praha,Catania
+20,https://www.pelikan.cz/cs/akcni-letenka/LCC-1452?a_aid=6fef337b,Praha - Catania = kalend termn,,CZK,Praha,Catania
+21,https://www.pelikan.cz/cs/akcni-letenka/G-15275?a_aid=6fef337b,Vde - Cancun = 12 690 K,12690.0,CZK,Vde,Cancun
+22,https://www.pelikan.cz/cs/akcni-letenka/G-15180?a_aid=6fef337b,Mnichov - Cancun = 12 490 K,12490.0,CZK,Mnichov,Cancun
+23,https://www.ryanair.com/cz/cs/booking/home/VIE/ZAD/2023-09-14/2023-09-21/1/0/0/0,Vde - Zadar = 38 EUR / 910 K,910.0,CZK,Vde,Zadar
+24,https://www.pelikan.cz/cs/akcni-letenka/LCC-1119?a_aid=6fef337b,Vde - Zadar = kalend termn,,CZK,Vde,Zadar
+25,https://wizzair.com/cs-cz#/booking/select-flight/VIE/CFU/2023-10-13/2023-10-25/1/0/0,Vde - Korfu = 28 EUR / 670 K,670.0,CZK,Vde,Korfu
+26,https://www.pelikan.cz/cs/akcni-letenka/LCC-1180?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+27,https://www.pelikan.cz/cs/akcni-letenka/G-15340?a_aid=6fef337b,Drany - San Jose = 10 990 K,10990.0,CZK,Drany,San Jose
+28,https://www.pelikan.cz/cs/akcni-letenka/G-15387?a_aid=6fef337b,Mnichov - San Jose = 11 790 K,11790.0,CZK,Mnichov,San Jose
+29,https://www.pelikan.cz/cs/akcni-letenka/G-15388?a_aid=6fef337b,Berln - San Jose = 10 990 K,10990.0,CZK,Berln,San Jose
+30,https://www.pelikan.cz/cs/akcni-letenka/G-15383?a_aid=6fef337b,Berln - Anchorage = 12 490 K,12490.0,CZK,Berln,Anchorage
+31,https://www.pelikan.cz/cs/akcni-letenka/G-15385?a_aid=6fef337b,Mnichov - Anchorage = 13 390 K,13390.0,CZK,Mnichov,Anchorage
+32,https://www.pelikan.cz/cs/akcni-letenka/G-14563?a_aid=6fef337b,Frankfurt - Anchorage = 12 490 K,12490.0,CZK,Frankfurt,Anchorage
+33,https://www.pelikan.cz/cs/akcni-letenka/G-15384?a_aid=6fef337b,Drany - Anchorage = 13 690 K,13690.0,CZK,Drany,Anchorage
+34,https://www.ryanair.com/cz/cs/booking/home/PRG/RHO/2023-08-02/2023-08-09/1/0/0/0,Praha - Rhodos = 1 523 K,1523.0,CZK,Praha,Rhodos
+35,https://www.pelikan.cz/cs/akcni-letenka/LCC-1105?a_aid=6fef337b,Praha - Rhodos = kalend termn,,CZK,Praha,Rhodos
+36,https://www.pelikan.cz/cs/akcni-letenka/G-15382?a_aid=6fef337b,Berln - Las Vegas = 9 990 K,9990.0,CZK,Berln,Las Vegas
+37,https://www.pelikan.cz/cs/akcni-letenka/G-15262?a_aid=6fef337b,Berln - New York = 9 290 K,9290.0,CZK,Berln,New York
+38,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 9 490 K,9490.0,CZK,Mnichov,New York
+39,https://www.pelikan.cz/cs/akcni-letenka/G-15378?a_aid=6fef337b,Berln - Filadelfie = 8 790 K,8790.0,CZK,Berln,Filadelfie
+40,https://www.pelikan.cz/cs/akcni-letenka/G-15326?a_aid=6fef337b,Mnichov - San Francisco = 11 990 K,11990.0,CZK,Mnichov,San Francisco
+41,https://www.eurowings.com/en/booking/flights/flight-search.html?source=web&destination=AGA&triptype=r&origin=PRG&fromdate=2023-11-08&todate=2023-11-15&adults=1,Praha - Agadir = 4 038 K,4038.0,CZK,Praha,Agadir
+42,https://www.pelikan.cz/cs/akcni-letenka/LCC-1729?a_aid=6fef337b,Praha - Agadir = kalend termn,,CZK,Praha,Agadir
+43,https://wizzair.com/cs-cz#/booking/select-flight/PRG/NAP/2023-10-10/2023-10-14/1/0/0,Praha - Neapol = 700 K s WDC,700.0,CZK,Praha,Neapol
+44,https://www.pelikan.cz/cs/akcni-letenka/LCC-1467?a_aid=6fef337b,Praha - Neapol = kalend termn,,CZK,Praha,Neapol
+45,https://www.ryanair.com/cz/cs/booking/home/PRG/JSI/2023-08-08/2023-08-22/1/0/0/0,Praha - Skiathos = 1 718 K,1718.0,CZK,Praha,Skiathos
+46,https://www.pelikan.cz/cs/akcni-letenka/LCC-1626?a_aid=6fef337b,Praha - Skiathos = kalend termn,,CZK,Praha,Skiathos
+47,https://www.pelikan.cz/cs/akcni-letenka/G-15379?a_aid=6fef337b,Praha - Marrke = 4 790 K,4790.0,CZK,Praha,Marrke
+48,https://www.pelikan.cz/cs/akcni-letenka/G-15378?a_aid=6fef337b,Berln - Filadelfie = 8 790 K,8790.0,CZK,Berln,Filadelfie
+49,https://www.pelikan.cz/cs/akcni-letenka/G-15262?a_aid=6fef337b,Berln - New York = 8 990 K,8990.0,CZK,Berln,New York
+50,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 9 490 K,9490.0,CZK,Mnichov,New York
+51,https://www.pelikan.cz/cs/akcni-letenka/G-15326?a_aid=6fef337b,Mnichov - San Francisco = 11 990 K,11990.0,CZK,Mnichov,San Francisco
+52,https://wizzair.com/#/booking/select-flight/KTW/KUT/2023-10-05/2023-10-12/1/0/0,Katovice - Kutaisi = 160 PLN / 880 K s WDC,880.0,CZK,Katovice,Kutaisi
+53,https://www.pelikan.cz/cs/akcni-letenka/LCC-287?a_aid=6fef337b,Katovice - Kutaisi = kalend termn,,CZK,Katovice,Kutaisi
+54,https://www.pelikan.cz/cs/akcni-letenka/G-15217?a_aid=6fef337b,Ostrava - Varava = 1 190 K,1190.0,CZK,Ostrava,Varava
+55,https://www.pelikan.cz/cs/akcni-letenka/G-15363?a_aid=6fef337b,Ostrava - Gdask = 2 190 K,2190.0,CZK,Ostrava,Gdask
+56,https://www.pelikan.cz/cs/akcni-letenka/G-15040?a_aid=6fef337b,Praha - Varava = 2 490 K,2490.0,CZK,Praha,Varava
+57,https://www.pelikan.cz/cs/akcni-letenka/G-15041?a_aid=6fef337b,Praha - Gdask = 2 790 K,2790.0,CZK,Praha,Gdask
+58,https://www.pelikan.cz/cs/akcni-letenka/G-14211?a_aid=6fef337b,Ostrava - Riga = 2 990 K,2990.0,CZK,Ostrava,Riga
+59,https://www.pelikan.cz/cs/akcni-letenka/G-14209?a_aid=6fef337b,Ostrava - Vilnius = 2 990 K,2990.0,CZK,Ostrava,Vilnius
+60,https://www.pelikan.cz/cs/akcni-letenka/G-14212?a_aid=6fef337b,Ostrava - Tallinn = 2 990 K,2990.0,CZK,Ostrava,Tallinn
+61,https://www.pelikan.cz/cs/akcni-letenka/G-15224?a_aid=6fef337b,Praha - Riga = 3 490 K,3490.0,CZK,Praha,Riga
+62,https://www.pelikan.cz/cs/akcni-letenka/G-15370?a_aid=6fef337b,Praha - Vilnius = 3 490 K,3490.0,CZK,Praha,Vilnius
+63,https://www.pelikan.cz/cs/akcni-letenka/G-15369?a_aid=6fef337b,Praha - Tallinn = 3 490 K,3490.0,CZK,Praha,Tallinn
+64,https://www.pelikan.cz/cs/akcni-letenka/G-15361?a_aid=6fef337b,Ostrava - Barcelona = 3 190 K,3190.0,CZK,Ostrava,Barcelona
+65,https://www.pelikan.cz/cs/akcni-letenka/G-14493?a_aid=6fef337b,Ostrava - Madrid = 3 290 K,3290.0,CZK,Ostrava,Madrid
+66,https://www.pelikan.cz/cs/akcni-letenka/G-15371?a_aid=6fef337b,Praha - Barcelona = 3 590 K,3590.0,CZK,Praha,Barcelona
+67,https://www.pelikan.cz/cs/akcni-letenka/G-15372?a_aid=6fef337b,Praha - Madrid = 3 590 K,3590.0,CZK,Praha,Madrid
+68,https://www.pelikan.cz/cs/akcni-letenka/G-15365?a_aid=6fef337b,Ostrava - Dubrovnk = 3 490 K,3490.0,CZK,Ostrava,Dubrovnk
+69,https://www.pelikan.cz/cs/akcni-letenka/G-15367?a_aid=6fef337b,Ostrava - Zheb = 3 490 K,3490.0,CZK,Ostrava,Zheb
+70,https://www.pelikan.cz/cs/akcni-letenka/G-15220?a_aid=6fef337b,Ostrava - Tel Aviv = 4 990 K,4990.0,CZK,Ostrava,Tel Aviv
+71,https://www.pelikan.cz/cs/akcni-letenka/G-15376?a_aid=6fef337b,Praha - Alr = 3 390 K,3390.0,CZK,Praha,Alr
+72,https://www.pelikan.cz/cs/akcni-letenka/G-15100?a_aid=6fef337b,Praha - Alr = 3 790 K,3790.0,CZK,Praha,Alr
+73,https://www.pelikan.cz/cs/akcni-letenka/G-14813?a_aid=6fef337b,Praha - Tunis = 3 990 K,3990.0,CZK,Praha,Tunis
+74,https://www.pelikan.cz/cs/akcni-letenka/G-15362?a_aid=6fef337b,Vde - Soul - Mnichov = 9 590 K,9590.0,CZK,Vde,Soul
+75,https://www.pelikan.cz/cs/akcni-letenka/G-15234?a_aid=6fef337b,Vde - Soul - Vde = 11 590 K,11590.0,CZK,Vde,Soul
+76,https://wizzair.com/#/booking/select-flight/PRG/LTN/2023-10-07/2023-10-11/1/0/0,Praha - Londn = 720 K s WDC,720.0,CZK,Praha,Londn
+77,https://www.pelikan.cz/cs/akcni-letenka/LCC-383?a_aid=6fef337b,Praha - Londn = kalend termn,,CZK,Praha,Londn
+78,https://www.pelikan.cz/cs/akcni-letenka/G-14644?a_aid=6fef337b,Bratislava - Athny = 1 990 K,1990.0,CZK,Bratislava,Athny
+79,https://www.pelikan.cz/cs/akcni-letenka/G-14626?a_aid=6fef337b,Bratislava - Heraklion = 3 590 K,3590.0,CZK,Bratislava,Heraklion
+80,https://www.pelikan.cz/cs/akcni-letenka/G-15358?a_aid=6fef337b,Bratislava - Larnaca = 3 790 K,3790.0,CZK,Bratislava,Larnaca
+81,https://www.pelikan.cz/cs/akcni-letenka/G-15357?a_aid=6fef337b,Bratislava - Khira = 5 990 K,5990.0,CZK,Bratislava,Khira
+82,https://www.pelikan.cz/cs/akcni-letenka/G-15360?a_aid=6fef337b,Berln - New York = 8 990 K (pm spoj),8990.0,CZK,Berln,New York
+83,https://wizzair.com/#/booking/select-flight/VIE/TIA/2023-10-07/2023-10-10/1/0/0,Vde - Tirana = 30 EUR / 730 K s WDC,730.0,CZK,Vde,Tirana
+84,https://www.pelikan.cz/cs/akcni-letenka/LCC-1037?a_aid=6fef337b,Vde - Tirana = kalend termn,,CZK,Vde,Tirana
+85,https://wizzair.com/#/booking/select-flight/PRG/OTP/2023-10-13/2023-10-18/1/0/0,Praha - Bukure = 700 K s WDC,700.0,CZK,Praha,Bukure
+86,https://www.pelikan.cz/cs/akcni-letenka/LCC-1168?a_aid=6fef337b,Praha - Bukure = kalend termn,,CZK,Praha,Bukure
+87,https://www.ryanair.com/cz/cs/booking/home/BRQ/BGY/2023-09-01/2023-09-04/1/0/0/0,Brno - Bergamo = 780 K,780.0,CZK,Brno,Bergamo
+88,https://www.pelikan.cz/cs/akcni-letenka/LCC-275?a_aid=6fef337b,Brno - Bergamo = kalend termn,,CZK,Brno,Bergamo
+89,https://wizzair.com/#/booking/select-flight/VIE/NCE/2023-10-07/2023-10-11/1/0/0,Vde - Nice = 20 EUR / 490 K s WDC,490.0,CZK,Vde,Nice
+90,https://www.pelikan.cz/cs/akcni-letenka/LCC-219?a_aid=6fef337b,Vde - Nice = kalend termn,,CZK,Vde,Nice
+91,https://www.ryanair.com/cz/cs/booking/home/PRG/CPH/2023-10-17/2023-10-25/1/0/0/0,Praha - Koda = 974 K,974.0,CZK,Praha,Koda
+92,https://www.pelikan.cz/cs/akcni-letenka/LCC-391?a_aid=6fef337b,Praha - Koda = kalend termn,,CZK,Praha,Koda
+93,https://www.pelikan.cz/cs/akcni-letenka/G-15233?a_aid=6fef337b,Praha - Sao Miguel = 5 690 K,5690.0,CZK,Praha,Sao Miguel
+94,https://www.pelikan.cz/cs/akcni-letenka/G-15189?a_aid=6fef337b,Praha - Sao Miguel = 5 690 K,5690.0,CZK,Praha,Sao Miguel
+95,https://www.pelikan.cz/cs/akcni-letenka/G-14599?a_aid=6fef337b,Praha - Funchal = 4 490 K,4490.0,CZK,Praha,Funchal
+96,https://www.pelikan.cz/cs/akcni-letenka/G-15143?a_aid=6fef337b,Vde - Funchal = 4 690 K,4690.0,CZK,Vde,Funchal
+97,https://www.pelikan.cz/cs/akcni-letenka/G-15039?a_aid=6fef337b,Praha - Funchal = 5 290 K,5290.0,CZK,Praha,Funchal
+98,https://www.pelikan.cz/cs/akcni-letenka/G-15152?a_aid=6fef337b,Budape - Auckland = 19 490 K,19490.0,CZK,Budape,Auckland
+99,https://www.pelikan.cz/cs/akcni-letenka/G-15122?a_aid=6fef337b,Budape - Auckland = 19 790 K,19790.0,CZK,Budape,Auckland
+100,https://www.pelikan.cz/cs/akcni-letenka/G-15124?a_aid=6fef337b,Budape - Melbourne = 19 990 K,19990.0,CZK,Budape,Melbourne
+101,https://www.pelikan.cz/cs/akcni-letenka/G-15123?a_aid=6fef337b,Budape - Sydney = 22 790 K,22790.0,CZK,Budape,Sydney
+102,https://www.pelikan.cz/cs/akcni-letenka/G-14563?a_aid=6fef337b,Frankfurt - Anchorage = 12 490 K (pm spoj),12490.0,CZK,Frankfurt,Anchorage
+103,https://www.pelikan.cz/cs/akcni-letenka/G-15338?a_aid=6fef337b,Mnichov - San Jose = 11 990 K,11990.0,CZK,Mnichov,San Jose
+104,https://www.pelikan.cz/cs/akcni-letenka/G-14857?a_aid=6fef337b,Mnichov - San Jose = 12 990 K,12990.0,CZK,Mnichov,San Jose
+105,https://www.ryanair.com/cz/cs/booking/home/NUE/GRO/2023-09-12/2023-09-19/1/0/0/0,Norimberk - Girona = 41 EUR / 990 K,990.0,CZK,Norimberk,Girona
+106,https://www.pelikan.cz/cs/akcni-letenka/LCC-1572?a_aid=6fef337b,Norimberk - Girona = kalend termn,,CZK,Norimberk,Girona
+107,https://wizzair.com/#/booking/select-flight/PRG/EVN/2023-09-29/2023-10-06/1/0/0,Praha - Jerevan = 1 660 K s WDC,1660.0,CZK,Praha,Jerevan
+108,https://www.pelikan.cz/cs/akcni-letenka/LCC-1667?a_aid=6fef337b,Vde - Jerevan = kalend termn,,CZK,Vde,Jerevan
+109,https://www.pelikan.cz/cs/akcni-letenka/G-15343?a_aid=6fef337b,Norimberk - Seattle = 8 990 K,8990.0,CZK,Norimberk,Seattle
+110,https://www.pelikan.cz/cs/akcni-letenka/G-15344?a_aid=6fef337b,Norimberk - Seattle = 9 490 K,9490.0,CZK,Norimberk,Seattle
+111,https://www.pelikan.cz/cs/akcni-letenka/G-14464?a_aid=6fef337b,Berln - Seattle = 9 990 K,9990.0,CZK,Berln,Seattle
+112,https://www.pelikan.cz/cs/akcni-letenka/G-15336?a_aid=6fef337b,Norimberk - Phoenix = 8 990 K,8990.0,CZK,Norimberk,Phoenix
+113,https://www.pelikan.cz/cs/akcni-letenka/G-15337?a_aid=6fef337b,Mnichov - Phoenix = 9 490 K,9490.0,CZK,Mnichov,Phoenix
+114,https://www.pelikan.cz/cs/akcni-letenka/G-15331?a_aid=6fef337b,Berln - San Diego = 9 990 K (podzim),9990.0,CZK,Berln,San Diego
+115,https://www.pelikan.cz/cs/akcni-letenka/G-15332?a_aid=6fef337b,Berln - San Diego = 9 990 K (zima),9990.0,CZK,Berln,San Diego
+116,https://www.pelikan.cz/cs/akcni-letenka/G-15335?a_aid=6fef337b,Mnichov - San Diego = 10 390 K (podzim),10390.0,CZK,Mnichov,San Diego
+117,https://www.pelikan.cz/cs/akcni-letenka/G-15333?a_aid=6fef337b,Mnichov - San Diego = 10 390 K (zima),10390.0,CZK,Mnichov,San Diego
+118,https://wizzair.com/cs-cz#/booking/select-flight/PRG/CTA/2023-11-23/2023-11-30/1/0/0,Praha - Catania = 820 K s WDC,820.0,CZK,Praha,Catania
+119,https://www.pelikan.cz/cs/akcni-letenka/LCC-1452?a_aid=6fef337b,Praha - Catania = kalend termn,,CZK,Praha,Catania
+120,https://www.ryanair.com/cz/cs/booking/home/PRG/BUD/2023-09-14/2023-09-18/1/0/0/0,Praha - Budape = 738 K,738.0,CZK,Praha,Budape
+121,https://www.pelikan.cz/cs/akcni-letenka/LCC-408?a_aid=6fef337b,Praha - Budape = kalend termn,,CZK,Praha,Budape
+122,https://www.pelikan.cz/cs/akcni-letenka/G-15234?a_aid=6fef337b,Vde - Soul = 11 590 K,11590.0,CZK,Vde,Soul
+123,https://www.pelikan.cz/cs/akcni-letenka/G-15336?a_aid=6fef337b,Norimberk - Phoenix = 8 990 K,8990.0,CZK,Norimberk,Phoenix
+124,https://www.pelikan.cz/cs/akcni-letenka/G-15337?a_aid=6fef337b,Mnichov - Phoenix = 9 490 K,9490.0,CZK,Mnichov,Phoenix
+125,https://www.pelikan.cz/cs/akcni-letenka/G-15331?a_aid=6fef337b,Berln - San Diego = 9 990 K (podzim),9990.0,CZK,Berln,San Diego
+126,https://www.pelikan.cz/cs/akcni-letenka/G-15332?a_aid=6fef337b,Berln - San Diego = 9 990 K (zima),9990.0,CZK,Berln,San Diego
+127,https://www.pelikan.cz/cs/akcni-letenka/G-15335?a_aid=6fef337b,Mnichov - San Diego = 10 390 K (podzim),10390.0,CZK,Mnichov,San Diego
+128,https://www.pelikan.cz/cs/akcni-letenka/G-15333?a_aid=6fef337b,Mnichov - San Diego = 10 390 K (zima),10390.0,CZK,Mnichov,San Diego
+129,http://www.volotea.com/en/flight-offers/prague/nantes/,Praha - Nantes = 48 EUR / 1 150 K,1150.0,CZK,Praha,Nantes
+130,https://www.pelikan.cz/cs/akcni-letenka/LCC-412?a_aid=6fef337b,Praha - Nantes = kalend termn,,CZK,Praha,Nantes
+131,https://www.ryanair.com/cz/cs/booking/home/VIE/DBV/2023-10-18/2023-10-23/1/0/0/0,Vde - Dubrovnk = 30 EUR / 720 K,720.0,CZK,Vde,Dubrovnk
+132,https://www.pelikan.cz/cs/akcni-letenka/LCC-1086?a_aid=6fef337b,Vde - Dubrovnk = kalend termn,,CZK,Vde,Dubrovnk
+133,https://www.pelikan.cz/cs/akcni-letenka/G-15331?a_aid=6fef337b,Berln - San Diego = 9 990 K (podzim),9990.0,CZK,Berln,San Diego
+134,https://www.pelikan.cz/cs/akcni-letenka/G-15332?a_aid=6fef337b,Berln - San Diego = 9 990 K (zima),9990.0,CZK,Berln,San Diego
+135,https://www.pelikan.cz/cs/akcni-letenka/G-15335?a_aid=6fef337b,Mnichov - San Diego = 10 390 K (podzim),10390.0,CZK,Mnichov,San Diego
+136,https://www.pelikan.cz/cs/akcni-letenka/G-15333?a_aid=6fef337b,Mnichov - San Diego = 10 390 K (zima),10390.0,CZK,Mnichov,San Diego
+137,https://www.pelikan.cz/cs/akcni-letenka/G-15330?a_aid=6fef337b,Vde - New York = 9 990 K,9990.0,CZK,Vde,New York
+138,https://wizzair.com/#/booking/select-flight/VIE/SPU/2023-09-27/2023-10-04/1/0/0,Vde - Split = 25 EUR / 590 K s WDC,590.0,CZK,Vde,Split
+139,https://www.pelikan.cz/cs/akcni-letenka/LCC-1463?a_aid=6fef337b,Vde - Split = kalend termn,,CZK,Vde,Split
+140,https://www.ryanair.com/cz/cs/booking/home/PRG/CRL/2023-09-01/2023-09-05/1/0/0/0,Praha - Charleroi = 978 K,978.0,CZK,Praha,Charleroi
+141,https://www.pelikan.cz/cs/akcni-letenka/LCC-426?a_aid=6fef337b,Praha - Charleroi = kalend termn,,CZK,Praha,Charleroi
+142,https://www.pelikan.cz/cs/akcni-letenka/G-15079?a_aid=6fef337b,Praha - Gran Canaria = 3 690 K,3690.0,CZK,Praha,Gran Canaria
+143,https://www.pelikan.cz/cs/akcni-letenka/G-15078?a_aid=6fef337b,Praha - Tenerife = 3 690 K,3690.0,CZK,Praha,Tenerife
+144,https://www.pelikan.cz/cs/akcni-letenka/G-14599?a_aid=6fef337b,Praha - Funchal = 4 490 K,4490.0,CZK,Praha,Funchal
+145,https://www.pelikan.cz/cs/akcni-letenka/G-15143?a_aid=6fef337b,Vde - Funchal = 4 690 K,4690.0,CZK,Vde,Funchal
+146,https://www.pelikan.cz/cs/akcni-letenka/G-15101?a_aid=6fef337b,Praha - Alicante = 2 990 K,2990.0,CZK,Praha,Alicante
+147,https://www.pelikan.cz/cs/akcni-letenka/G-15168?a_aid=6fef337b,Praha - Funchal = 3 890 K,3890.0,CZK,Praha,Funchal
+148,https://wizzair.com/cs-cz#/booking/select-flight/VIE/BIO/2023-10-10/2023-10-17/1/0/0,Vde - Bilbao = 40 EUR / 960 K s WDC,960.0,CZK,Vde,Bilbao
+149,https://www.pelikan.cz/cs/akcni-letenka/LCC-1656?a_aid=6fef337b,Vde - Bilbao = kalend termn,,CZK,Vde,Bilbao
+150,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 9 490 K,9490.0,CZK,Mnichov,New York
+151,https://www.pelikan.cz/cs/akcni-letenka/G-15262?a_aid=6fef337b,Berln - New York = 8 990 K,8990.0,CZK,Berln,New York
+152,https://www.pelikan.cz/cs/akcni-letenka/G-14600?a_aid=6fef337b,Mnichov - Las Vegas = 10 390 K,10390.0,CZK,Mnichov,Las Vegas
+153,https://www.pelikan.cz/cs/akcni-letenka/G-14840?a_aid=6fef337b,Mnichov - Honolulu = 18 690 K,18690.0,CZK,Mnichov,Honolulu
+154,https://www.pelikan.cz/cs/akcni-letenka/G-14713?a_aid=6fef337b,Mnichov - Las Vegas / San Francisco - Mnichov = 11 490 K,11490.0,CZK,Mnichov,Las Vegas / San Francisco
+155,https://www.pelikan.cz/cs/akcni-letenka/G-14557?a_aid=6fef337b,Mnichov - Los Angeles / San Francisco - Mnichov = 12 790 K,12790.0,CZK,Mnichov,Los Angeles / San Francisco
+156,https://wizzair.com/#/booking/select-flight/VIE/OHD/2023-09-13/2023-09-20/1/0/0,Vde - Ochrid = 20 EUR / 480 K s WDC,480.0,CZK,Vde,Ochrid
+157,https://www.pelikan.cz/cs/akcni-letenka/LCC-177?a_aid=6fef337b,Vde - Ochrid = kalend termn,,CZK,Vde,Ochrid
+158,https://www.pelikan.cz/cs/akcni-letenka/G-14796?a_aid=6fef337b,Mnichov - Boa Vista = 7 690 K,7690.0,CZK,Mnichov,Boa Vista
+159,https://www.ryanair.com/cz/cs/booking/home/PRG/TRN/2023-10-18/2023-10-21/1/0/0/0,Praha - Turn = 962 K,962.0,CZK,Praha,Turn
+160,https://www.pelikan.cz/cs/akcni-letenka/LCC-1569?a_aid=6fef337b,Praha - Turn = kalend termn,,CZK,Praha,Turn
+161,https://www.pelikan.cz/cs/akcni-letenka/G-15061?a_aid=6fef337b,Berln - Miami = 9 790 K,9790.0,CZK,Berln,Miami
+162,https://www.pelikan.cz/cs/akcni-letenka/G-14835?a_aid=6fef337b,Mnichov - Miami = 9 990 K,9990.0,CZK,Mnichov,Miami
+163,https://www.pelikan.cz/cs/akcni-letenka/G-14464?a_aid=6fef337b,Berln - Seattle = 9 990 K,9990.0,CZK,Berln,Seattle
+164,https://www.ryanair.com/cz/cs/booking/home/VIE/MRS/2023-09-15/2023-09-22/1/0/0/0,Vde - Marseille = 41 EUR / 990 K,990.0,CZK,Vde,Marseille
+165,https://www.pelikan.cz/cs/akcni-letenka/LCC-643?a_aid=6fef337b,Vde - Marseille = kalend termn,,CZK,Vde,Marseille
+166,https://www.ryanair.com/cz/cs/booking/home/PRG/RMI/2023-10-18/2023-10-22/1/0/0/0,Praha - Rimini = 992 K,992.0,CZK,Praha,Rimini
+167,https://www.pelikan.cz/cs/akcni-letenka/LCC-1627?a_aid=6fef337b,Praha - Rimini = kalend termn,,CZK,Praha,Rimini
+168,https://www.pelikan.cz/cs/akcni-letenka/G-15290?a_aid=6fef337b,Budape - Tchaj-pej = 11 690 K,11690.0,CZK,Budape,Tchaj
+169,https://www.pelikan.cz/cs/akcni-letenka/G-15289?a_aid=6fef337b,Budape - Hong Kong = 11 990 K,11990.0,CZK,Budape,Hong Kong
+170,https://www.pelikan.cz/cs/akcni-letenka/G-15286?a_aid=6fef337b,Budape - Bangkok = 13 490 K,13490.0,CZK,Budape,Bangkok
+171,https://www.pelikan.cz/cs/akcni-letenka/G-15287?a_aid=6fef337b,Budape - Tokio = 13 690 K,13690.0,CZK,Budape,Tokio
+172,https://www.pelikan.cz/cs/akcni-letenka/G-15288?a_aid=6fef337b,Budape - Soul = 13 590 K,13590.0,CZK,Budape,Soul
+173,https://www.pelikan.cz/cs/akcni-letenka/G-15293?a_aid=6fef337b,Budape - Manila = 13 790 K,13790.0,CZK,Budape,Manila
+174,https://www.pelikan.cz/cs/akcni-letenka/G-15291?a_aid=6fef337b,Budape - Kuala Lumpur = 13 990 K,13990.0,CZK,Budape,Kuala Lumpur
+175,https://www.pelikan.cz/cs/akcni-letenka/G-15065?a_aid=6fef337b,Berln - Mexico City = 10 990 K,10990.0,CZK,Berln,Mexico City
+176,https://www.pelikan.cz/cs/akcni-letenka/G-14536?a_aid=6fef337b,Mnichov - Mexico City = 11 490 K,11490.0,CZK,Mnichov,Mexico City
+177,https://www.ryanair.com/cz/cs/booking/home/VIE/SUF/2023-10-09/2023-10-16/1/0/0/0,Vde - Lamezia Terme = 41 EUR / 990 K,990.0,CZK,Vde,Lamezia Terme
+178,https://www.pelikan.cz/cs/akcni-letenka/LCC-1088?a_aid=6fef337b,Vde - Lamezia Terme = kalend termn,,CZK,Vde,Lamezia Terme
+179,https://www.eurowings.com/en/booking/flights/flight-search.html?source=web&destination=FNC&triptype=r&origin=PRG&fromdate=2023-12-19&todate=2023-12-26&adults=1,Praha - Funchal = 3 908 K (pm let),3908.0,CZK,Praha,Funchal
+180,https://www.pelikan.cz/cs/akcni-letenka/LCC-1700?a_aid=6fef337b,Praha - Funchal = kalend termn,,CZK,Praha,Funchal
+181,https://wizzair.com/#/booking/select-flight/BTS/SKP/2023-09-08/2023-09-13/1/0/0,Bratislava - Skopje = 20 EUR / 480 K s WDC,480.0,CZK,Bratislava,Skopje
+182,https://www.pelikan.cz/cs/akcni-letenka/LCC-217?a_aid=6fef337b,Bratislava - Skopje = kalend termn,,CZK,Bratislava,Skopje
+183,https://wizzair.com/cs-cz#/booking/select-flight/PRG/MXP/2023-08-10/2023-08-17/1/0/0,Praha - Milno = 550 K s WDC,550.0,CZK,Praha,Milno
+184,https://www.pelikan.cz/cs/akcni-letenka/LCC-1528?a_aid=6fef337b,Praha - Milno = kalend termn,,CZK,Praha,Milno
+185,https://www.ryanair.com/cz/cs/booking/home/VIE/BNX/2023-08-17/2023-08-24/1/0/0/0,Vde - Banja Luka = 34 EUR / 820 K,820.0,CZK,Vde,Banja Luka
+186,https://www.pelikan.cz/cs/akcni-letenka/LCC-1082?a_aid=6fef337b,Vde - Banja Luka = kalend termn,,CZK,Vde,Banja Luka
+187,https://wizzair.com/cs-cz#/booking/select-flight/VIE/ZTH/2023-10-03/2023-10-10/1/0/0,Vde - Zakynthos = 40 EUR / 960 K s WDC,960.0,CZK,Vde,Zakynthos
+188,https://www.pelikan.cz/cs/akcni-letenka/LCC-1261?a_aid=6fef337b,Vde - Zakynthos = kalend termn,,CZK,Vde,Zakynthos
+189,https://www.ryanair.com/cz/cs/booking/home/PRG/TSF/2023-09-01/2023-09-06/1/0/0/0,Praha - Treviso = 912 K,912.0,CZK,Praha,Treviso
+190,https://www.pelikan.cz/cs/akcni-letenka/LCC-380?a_aid=6fef337b,Praha - Treviso = kalend termn,,CZK,Praha,Treviso
+191,https://www.pelikan.cz/cs/akcni-letenka/G-15212?a_aid=6fef337b,Vde - Manma = 5 990 K,5990.0,CZK,Vde,Manma
+192,https://www.pelikan.cz/cs/akcni-letenka/G-15210?a_aid=6fef337b,Praha - Manma = 7 490 K,7490.0,CZK,Praha,Manma
+193,https://www.pelikan.cz/cs/akcni-letenka/G-15214?a_aid=6fef337b,Praha - Bejrt = 5 990 K,5990.0,CZK,Praha,Bejrt
+194,https://www.pelikan.cz/cs/akcni-letenka/G-15209?a_aid=6fef337b,Vde - Dauh = 5 990 K,5990.0,CZK,Vde,Dauh
+195,https://www.pelikan.cz/cs/akcni-letenka/G-15206?a_aid=6fef337b,Vde - Kuwait City = 4 790 K,4790.0,CZK,Vde,Kuwait City
+196,https://www.pelikan.cz/cs/akcni-letenka/G-15203?a_aid=6fef337b,Praha - Rijd = 6 990 K,6990.0,CZK,Praha,Rijd
+197,https://www.pelikan.cz/cs/akcni-letenka/G-15036?a_aid=6fef337b,Praha - ard = 5 990 K,5990.0,CZK,Praha,ard
+198,https://www.pelikan.cz/cs/akcni-letenka/G-15208?a_aid=6fef337b,Vde - Ab Dhab = 5 990 K,5990.0,CZK,Vde,Ab Dhab
+199,https://www.pelikan.cz/cs/akcni-letenka/G-15211?a_aid=6fef337b,Praha - Ab Dhab = 7 290 K,7290.0,CZK,Praha,Ab Dhab
+200,https://www.pelikan.cz/cs/akcni-letenka/G-14776?a_aid=6fef337b,Praha - Muscat = 5 990 K,5990.0,CZK,Praha,Muscat
+201,https://www.pelikan.cz/cs/akcni-letenka/G-15035?a_aid=6fef337b,Vde - Muscat = 5 990 K,5990.0,CZK,Vde,Muscat
+202,https://www.pelikan.cz/cs/akcni-letenka/G-15202?a_aid=6fef337b,Praha - Muscat = 7 290 K,7290.0,CZK,Praha,Muscat
+203,https://www.pelikan.cz/cs/akcni-letenka/G-15207?a_aid=6fef337b,Vde - Tehern = 4 990 K,4990.0,CZK,Vde,Tehern
+204,https://www.pelikan.cz/cs/akcni-letenka/G-15205?a_aid=6fef337b,Praha - Tehern = 6 890 K,6890.0,CZK,Praha,Tehern
+205,https://www.pelikan.cz/cs/akcni-letenka/G-14857?a_aid=6fef337b,Mnichov - San Jose = 12 990 K,12990.0,CZK,Mnichov,San Jose
+206,https://www.ryanair.com/cz/cs/booking/home/VIE/MLA/2023-10-10/2023-10-20/1/0/0/0,Vde - Malta = 41 EUR / 990 K,990.0,CZK,Vde,Malta
+207,https://www.pelikan.cz/cs/akcni-letenka/LCC-1090?a_aid=6fef337b,Vde - Malta = kalend termn,,CZK,Vde,Malta
+208,https://wizzair.com/#/booking/select-flight/KRK/OSL/2023-08-24/2023-08-27/1/0/0,Krakov - Oslo = 80 PLN / 430 K s WDC,430.0,CZK,Krakov,Oslo
+209,https://www.pelikan.cz/cs/akcni-letenka/LCC-266?a_aid=6fef337b,Krakov - Oslo = kalend termn,,CZK,Krakov,Oslo
+210,https://www.ryanair.com/cz/cs/booking/home/BTS/ZAG/2023-08-10/2023-08-12/1/0/0/0,Bratislava - Zheb = 30 EUR / 720 K,720.0,CZK,Bratislava,Zheb
+211,https://www.pelikan.cz/cs/akcni-letenka/LCC-1525?a_aid=6fef337b,Bratislava - Zheb = kalend termn,,CZK,Bratislava,Zheb
+212,https://www.pelikan.cz/cs/akcni-letenka/G-14659?a_aid=6fef337b,Praha - Mauricius = 13 990 K,13990.0,CZK,Praha,Mauricius
+213,https://wizzair.com/cs-cz#/booking/select-flight/VIE/DBV/2023-09-03/2023-09-13/1/0/0,Vde - Dubrovnk = 27 EUR / 640 K s WDC,640.0,CZK,Vde,Dubrovnk
+214,https://www.pelikan.cz/cs/akcni-letenka/LCC-1462?a_aid=6fef337b,Vde - Dubrovnk = kalend termn,,CZK,Vde,Dubrovnk
+215,https://wizzair.com/cs-cz#/booking/select-flight/PRG/NAP/2023-09-21/2023-09-28/1/0/0,Praha - Neapol = 669 K s WDC,669.0,CZK,Praha,Neapol
+216,https://www.pelikan.cz/cs/akcni-letenka/LCC-1467?a_aid=6fef337b,Praha - Neapol = kalend termn,,CZK,Praha,Neapol
+217,https://www.pelikan.cz/cs/akcni-letenka/G-15228?a_aid=6fef337b,Praha - Rio de Janeiro = 14 690 K,14690.0,CZK,Praha,Rio de Janeiro
+218,https://www.pelikan.cz/cs/akcni-letenka/G-14787?a_aid=6fef337b,Praha - Sao Paulo = 14 790 K,14790.0,CZK,Praha,Sao Paulo
+219,https://www.pelikan.cz/cs/akcni-letenka/G-15106?a_aid=6fef337b,Praha - Malta = 3 990 K,3990.0,CZK,Praha,Malta
+220,https://www.pelikan.cz/cs/akcni-letenka/G-14396?a_aid=6fef337b,Praha - Malta = 3 290 K,3290.0,CZK,Praha,Malta
+221,https://www.pelikan.cz/cs/akcni-letenka/G-15171?a_aid=6fef337b,Praha - Malta = 2 990 K (min. 2 osoby),2990.0,CZK,Praha,Malta
+222,https://wizzair.com/#/booking/select-flight/VIE/BCN/2023-10-10/2023-10-18/1/0/0,Vde - Barcelona = 33 EUR / 790 K s WDC,790.0,CZK,Vde,Barcelona
+223,https://www.pelikan.cz/cs/akcni-letenka/LCC-325?a_aid=6fef337b,Vde - Barcelona = kalend termn,,CZK,Vde,Barcelona
+224,https://www.ryanair.com/cz/cs/booking/home/PRG/GOT/2023-08-23/2023-08-23/1/0/0/0,Praha - Gteborg = 971 K,971.0,CZK,Praha,Gteborg
+225,https://www.pelikan.cz/cs/akcni-letenka/LCC-421?a_aid=6fef337b,Praha - Gteborg = kalend termn,,CZK,Praha,Gteborg
+226,https://www.pelikan.cz/cs/akcni-letenka/G-15182?a_aid=6fef337b,Mnichov - Roatn = 11 590 K,11590.0,CZK,Mnichov,Roatn
+227,https://www.pelikan.cz/cs/akcni-letenka/G-15261?a_aid=6fef337b,Krakov - Tunis = 2 990 K,2990.0,CZK,Krakov,Tunis
+228,https://www.pelikan.cz/cs/akcni-letenka/G-14813?a_aid=6fef337b,Praha - Tunis = 3 990 K,3990.0,CZK,Praha,Tunis
+229,https://www.pelikan.cz/cs/akcni-letenka/G-15100?a_aid=6fef337b,Praha - Alr = 3 990 K,3990.0,CZK,Praha,Alr
+230,https://www.pelikan.cz/cs/akcni-letenka/G-15081?a_aid=6fef337b,Praha - Marrke = 4 290 K,4290.0,CZK,Praha,Marrke
+231,https://wizzair.com/cs-cz#/booking/select-flight/VIE/CFU/2023-10-04/2023-10-11/1/0/0,Vde - Korfu = 25 EUR / 600 K,600.0,CZK,Vde,Korfu
+232,https://www.pelikan.cz/cs/akcni-letenka/LCC-1180?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+233,https://www.ryanair.com/cz/cs/booking/home/VIE/PUY/2023-08-14/2023-08-21/1/0/0/0,Vde - Pula = 40 EUR / 950 K,950.0,CZK,Vde,Pula
+234,https://www.pelikan.cz/cs/akcni-letenka/LCC-1344?a_aid=6fef337b,Vde - Pula = kalend termn,,CZK,Vde,Pula
+235,https://www.pelikan.cz/cs/akcni-letenka/G-15121?a_aid=6fef337b,Mnichov - Guatemala City = 11 490 K,11490.0,CZK,Mnichov,Guatemala City
+236,https://www.ryanair.com/cz/cs/booking/home/BTS/SKG/2023-09-30/2023-10-07/1/0/0/0,Bratislava - Solu = 41 EUR / 990 K,990.0,CZK,Bratislava,Solu
+237,https://www.pelikan.cz/cs/akcni-letenka/LCC-209?a_aid=6fef337b,Bratislava - Solu = kalend termn,,CZK,Bratislava,Solu
+238,http://www.volotea.com/en/flight-offers/prague/lyon/,Praha - Lyon = 58 EUR / 1 390 K,1390.0,CZK,Praha,Lyon
+239,https://www.pelikan.cz/cs/akcni-letenka/LCC-1679?a_aid=6fef337b,Praha - Lyon = kalend termn,,CZK,Praha,Lyon
+240,https://wizzair.com/cs-cz#/booking/select-flight/VIE/BOJ/2023-09-19/2023-09-30/1/0/0,Vde - Burgas = 23 EUR / 550 K s WDC,550.0,CZK,Vde,Burgas
+241,https://www.pelikan.cz/cs/akcni-letenka/LCC-1266?a_aid=6fef337b,Vde - Burgas = kalend termn,,CZK,Vde,Burgas
+242,https://www.pelikan.cz/cs/akcni-letenka/G-15161?a_aid=6fef337b,Mnichov - Male = 12 990 K,12990.0,CZK,Mnichov,Male
+243,https://wizzair.com/cs-cz#/booking/select-flight/VIE/ZTH/2023-10-07/2023-10-14/1/0/0,Vde - Zakynthos = 40 EUR / 950 K s WDC,950.0,CZK,Vde,Zakynthos
+244,https://www.pelikan.cz/cs/akcni-letenka/LCC-1261?a_aid=6fef337b,Vde - Zakynthos = kalend termn,,CZK,Vde,Zakynthos
+245,https://www.pelikan.cz/cs/akcni-letenka/G-15217?a_aid=6fef337b,Ostrava - Varava = 1 390 K,1390.0,CZK,Ostrava,Varava
+246,https://www.pelikan.cz/cs/akcni-letenka/G-14148?a_aid=6fef337b,Ostrava - Gdask = 2 090 K,2090.0,CZK,Ostrava,Gdask
+247,https://www.pelikan.cz/cs/akcni-letenka/G-14212?a_aid=6fef337b,Ostrava - Tallinn = 2 990 K,2990.0,CZK,Ostrava,Tallinn
+248,https://www.pelikan.cz/cs/akcni-letenka/G-14211?a_aid=6fef337b,Ostrava - Riga = 2 990 K,2990.0,CZK,Ostrava,Riga
+249,https://www.pelikan.cz/cs/akcni-letenka/G-14209?a_aid=6fef337b,Ostrava - Vilnius = 2 990 K,2990.0,CZK,Ostrava,Vilnius
+250,https://www.ryanair.com/cz/cs/booking/home/NUE/GRO/2023-09-10/2023-09-16/1/0/0/0,Norimberk - Girona = 42 EUR / 1 000 K,1000.0,CZK,Norimberk,Girona
+251,https://www.pelikan.cz/cs/akcni-letenka/LCC-1572?a_aid=6fef337b,Norimberk - Girona = kalend termn,,CZK,Norimberk,Girona
+252,https://www.pelikan.cz/cs/akcni-letenka/G-15226?a_aid=6fef337b,Praha - Khira = 5 990 K,5990.0,CZK,Praha,Khira
+253,https://www.pelikan.cz/cs/akcni-letenka/G-15222?a_aid=6fef337b,Ostrava - Khira = 5 490 K,5490.0,CZK,Ostrava,Khira
+254,https://www.pelikan.cz/cs/akcni-letenka/G-15220?a_aid=6fef337b,Ostrava - Tel Aviv = 4 990 K,4990.0,CZK,Ostrava,Tel Aviv
+255,https://www.pelikan.cz/cs/akcni-letenka/G-15036?a_aid=6fef337b,Praha - ard = 5 990 K,5990.0,CZK,Praha,ard
+256,https://www.pelikan.cz/cs/akcni-letenka/G-15208?a_aid=6fef337b,Vde - Ab Dhab = 5 990 K,5990.0,CZK,Vde,Ab Dhab
+257,https://www.pelikan.cz/cs/akcni-letenka/G-15211?a_aid=6fef337b,Praha - Ab Dhab = 7 290 K,7290.0,CZK,Praha,Ab Dhab
+258,https://www.pelikan.cz/cs/akcni-letenka/G-14776?a_aid=6fef337b,Praha - Muscat = 5 990 K,5990.0,CZK,Praha,Muscat
+259,https://www.pelikan.cz/cs/akcni-letenka/G-15035?a_aid=6fef337b,Vde - Muscat = 5 990 K,5990.0,CZK,Vde,Muscat
+260,https://www.pelikan.cz/cs/akcni-letenka/G-15202?a_aid=6fef337b,Praha - Muscat = 7 290 K,7290.0,CZK,Praha,Muscat
+261,https://www.pelikan.cz/cs/akcni-letenka/G-15207?a_aid=6fef337b,Vde - Tehern = 4 990 K,4990.0,CZK,Vde,Tehern
+262,https://www.pelikan.cz/cs/akcni-letenka/G-15205?a_aid=6fef337b,Praha - Tehern = 6 890 K,6890.0,CZK,Praha,Tehern
+263,https://www.pelikan.cz/cs/akcni-letenka/G-15212?a_aid=6fef337b,Vde - Manma = 5 990 K,5990.0,CZK,Vde,Manma
+264,https://www.pelikan.cz/cs/akcni-letenka/G-15210?a_aid=6fef337b,Praha - Manma = 7 490 K,7490.0,CZK,Praha,Manma
+265,https://www.pelikan.cz/cs/akcni-letenka/G-15214?a_aid=6fef337b,Praha - Bejrt = 5 990 K,5990.0,CZK,Praha,Bejrt
+266,https://www.pelikan.cz/cs/akcni-letenka/G-15203?a_aid=6fef337b,Praha - Rijd = 6 990 K,6990.0,CZK,Praha,Rijd
+267,https://www.pelikan.cz/cs/akcni-letenka/G-15209?a_aid=6fef337b,Vde - Dauh = 5 990 K,5990.0,CZK,Vde,Dauh
+268,https://www.pelikan.cz/cs/akcni-letenka/G-15206?a_aid=6fef337b,Vde - Kuwait City = 4 790 K,4790.0,CZK,Vde,Kuwait City
+269,https://wizzair.com/#/booking/select-flight/VIE/BCN/2023-10-17/2023-10-19/1/0/0,Vde - Barcelona = 40 EUR / 950 K s WDC,950.0,CZK,Vde,Barcelona
+270,https://www.pelikan.cz/cs/akcni-letenka/LCC-325?a_aid=6fef337b,Vde - Barcelona = kalend termn,,CZK,Vde,Barcelona
+271,https://wizzair.com/#/booking/select-flight/VIE/SPU/2023-08-28/2023-09-08/1/0/0,Vde - Split = 25 EUR / 590 K s WDC,590.0,CZK,Vde,Split
+272,https://www.pelikan.cz/cs/akcni-letenka/LCC-1463?a_aid=6fef337b,Vde - Split = kalend termn,,CZK,Vde,Split
+273,https://www.pelikan.cz/cs/akcni-letenka/G-15225?a_aid=6fef337b,Praha - Tbilisi = 4 990 K,4990.0,CZK,Praha,Tbilisi
+274,https://www.pelikan.cz/cs/akcni-letenka/G-15219?a_aid=6fef337b,Ostrava - Tbilisi = 4 490 K,4490.0,CZK,Ostrava,Tbilisi
+275,https://www.pelikan.cz/cs/akcni-letenka/G-15227?a_aid=6fef337b,Praha - Jerevan = 5 990 K,5990.0,CZK,Praha,Jerevan
+276,https://www.pelikan.cz/cs/akcni-letenka/G-15218?a_aid=6fef337b,Ostrava - Jerevan = 4 490 K,4490.0,CZK,Ostrava,Jerevan
+277,https://www.pelikan.cz/cs/akcni-letenka/G-14566?a_aid=6fef337b,Praha - Baku = 5 990 K,5990.0,CZK,Praha,Baku
+278,https://www.pelikan.cz/cs/akcni-letenka/G-15221?a_aid=6fef337b,Ostrava - Baku = 5 490 K,5490.0,CZK,Ostrava,Baku
+279,https://www.pelikan.cz/cs/akcni-letenka/G-15213?a_aid=6fef337b,Praha - Kar = 6 990 K,6990.0,CZK,Praha,Kar
+280,https://www.ryanair.com/cz/cs/booking/home/NUE/IBZ/2023-07-10/2023-07-24/1/0/0/0,Norimberk - Ibiza = 42 EUR / 990 K,990.0,CZK,Norimberk,Ibiza
+281,https://www.pelikan.cz/cs/akcni-letenka/LCC-1559?a_aid=6fef337b,Norimberk - Ibiza = kalend termn,,CZK,Norimberk,Ibiza
+282,https://www.pelikan.cz/cs/akcni-letenka/G-15215?a_aid=6fef337b,Berln - Zanzibar = 11 490 K,11490.0,CZK,Berln,Zanzibar
+283,https://www.pelikan.cz/cs/akcni-letenka/G-15129?a_aid=6fef337b,Vde - Zanzibar = 13 490 K,13490.0,CZK,Vde,Zanzibar
+284,https://www.pelikan.cz/cs/akcni-letenka/G-14505?a_aid=6fef337b,Ostrava - Toronto = 9 990 K,9990.0,CZK,Ostrava,Toronto
+285,https://www.pelikan.cz/cs/akcni-letenka/G-14207?a_aid=6fef337b,Ostrava - Miami = 12 990 K,12990.0,CZK,Ostrava,Miami
+286,https://www.pelikan.cz/cs/akcni-letenka/G-14159?a_aid=6fef337b,Ostrava - Chicago = 10 990 K,10990.0,CZK,Ostrava,Chicago
+287,https://www.pelikan.cz/cs/akcni-letenka/G-14158?a_aid=6fef337b,Ostrava - New York = 10 990 K,10990.0,CZK,Ostrava,New York
+288,https://www.pelikan.cz/cs/akcni-letenka/G-14206?a_aid=6fef337b,Ostrava - New York = 10 990 K,10990.0,CZK,Ostrava,New York
+289,https://www.pelikan.cz/cs/akcni-letenka/G-14776?a_aid=6fef337b,Praha - Muscat = 5 990 K,5990.0,CZK,Praha,Muscat
+290,https://www.pelikan.cz/cs/akcni-letenka/G-15035?a_aid=6fef337b,Vde - Muscat = 5 990 K,5990.0,CZK,Vde,Muscat
+291,https://www.pelikan.cz/cs/akcni-letenka/G-15202?a_aid=6fef337b,Praha - Muscat = 7 290 K,7290.0,CZK,Praha,Muscat
+292,https://www.ryanair.com/cz/cs/booking/home/VIE/PUY/2023-09-24/2023-09-28/1/0/0/0,Vde - Pula = 36 EUR / 860 K,860.0,CZK,Vde,Pula
+293,https://www.pelikan.cz/cs/akcni-letenka/LCC-1344?a_aid=6fef337b,Vde - Pula = kalend termn,,CZK,Vde,Pula
+294,https://www.pelikan.cz/cs/akcni-letenka/G-14489?a_aid=6fef337b,Ostrava - Dill = 9 990 K,9990.0,CZK,Ostrava,Dill
+295,https://www.pelikan.cz/cs/akcni-letenka/G-14598?a_aid=6fef337b,Praha - Dill = 10 790 K,10790.0,CZK,Praha,Dill
+296,https://www.pelikan.cz/cs/akcni-letenka/G-15200?a_aid=6fef337b,Praha - Sevilla = 2 890 K,2890.0,CZK,Praha,Sevilla
+297,https://www.pelikan.cz/cs/akcni-letenka/G-15165?a_aid=6fef337b,Praha - Florencie = 3 690 K,3690.0,CZK,Praha,Florencie
+298,https://www.pelikan.cz/cs/akcni-letenka/G-15166?a_aid=6fef337b,Praha - Sarajevo = 3 990 K,3990.0,CZK,Praha,Sarajevo
+299,https://www.pelikan.cz/cs/akcni-letenka/G-15201?a_aid=6fef337b,Praha - Olbia = 3 290 K,3290.0,CZK,Praha,Olbia
+300,https://www.pelikan.cz/cs/akcni-letenka/G-15190?a_aid=6fef337b,Praha - Olbia = 3 990 K,3990.0,CZK,Praha,Olbia
+301,https://www.pelikan.cz/cs/akcni-letenka/G-15084?a_aid=6fef337b,Praha - Olbia = 5 490 K,5490.0,CZK,Praha,Olbia
+302,https://www.pelikan.cz/cs/akcni-letenka/G-14428?a_aid=6fef337b,Praha - Olbia = 7 790 K,7790.0,CZK,Praha,Olbia
+303,https://www.ryanair.com/cz/cs/booking/home/NUE/ZAD/2023-07-04/2023-07-11/1/0/0/0,Norimberk- Zadar = 40 EUR / 950 K,950.0,CZK,Norimberk,Zadar
+304,https://www.pelikan.cz/cs/akcni-letenka/LCC-952?a_aid=6fef337b,Norimberk - Zadar = kalend termn,,CZK,Norimberk,Zadar
+305,https://wizzair.com/#/booking/select-flight/PRG/EVN/2023-09-11/2023-09-18/1/0/0,Praha - Jerevan = 1 780 K s WDC,1780.0,CZK,Praha,Jerevan
+306,https://www.pelikan.cz/cs/akcni-letenka/LCC-1667?a_aid=6fef337b,Vde - Jerevan = kalend termn,,CZK,Vde,Jerevan
+307,https://www.pelikan.cz/cs/akcni-letenka/G-15193?a_aid=6fef337b,Praha - Lanzarote = 4 490 K,4490.0,CZK,Praha,Lanzarote
+308,https://www.pelikan.cz/cs/akcni-letenka/G-15168?a_aid=6fef337b,Praha - Funchal = 3 790 K,3790.0,CZK,Praha,Funchal
+309,https://www.pelikan.cz/cs/akcni-letenka/G-14630?a_aid=6fef337b,Mnichov - Austin = 9 990 K,9990.0,CZK,Mnichov,Austin
+310,https://www.pelikan.cz/cs/akcni-letenka/G-15199?a_aid=6fef337b,Berln - Austin = 9 990 K,9990.0,CZK,Berln,Austin
+311,https://www.ryanair.com/cz/cs/booking/home/BRQ/BGY/2023-07-28/2023-07-31/1/0/0/0,Brno - Bergamo = 994 K,994.0,CZK,Brno,Bergamo
+312,https://www.pelikan.cz/cs/akcni-letenka/LCC-275?a_aid=6fef337b,Brno - Bergamo = kalend termn,,CZK,Brno,Bergamo
+313,https://www.pelikan.cz/cs/akcni-letenka/G-15168?a_aid=6fef337b,Praha - Funchal = 3 790 K,3790.0,CZK,Praha,Funchal
+314,https://wizzair.com/cs-cz#/booking/select-flight/VIE/ZTH/2023-09-23/2023-09-30/1/0/0,Vde - Zakynthos = 50 EUR / 1 190 K s WDC,1190.0,CZK,Vde,Zakynthos
+315,https://www.pelikan.cz/cs/akcni-letenka/LCC-1261?a_aid=6fef337b,Vde - Zakynthos = kalend termn,,CZK,Vde,Zakynthos
+316,https://www.pelikan.cz/cs/akcni-letenka/G-15184?a_aid=6fef337b,Berln - Lima = 14 990 K,14990.0,CZK,Berln,Lima
+317,https://www.pelikan.cz/cs/akcni-letenka/G-15185?a_aid=6fef337b,Mnichov - Lima = 15 790 K,15790.0,CZK,Mnichov,Lima
+318,https://wizzair.com/cs-cz#/booking/select-flight/VIE/TGD/2023-09-14/2023-09-21/1/0/0,Vde - Podgorica = 30 EUR / 720 K s WDC,720.0,CZK,Vde,Podgorica
+319,https://www.pelikan.cz/cs/akcni-letenka/LCC-1181?a_aid=6fef337b,Vde - Podgorica = kalend termn,,CZK,Vde,Podgorica
+320,https://www.pelikan.cz/cs/akcni-letenka/G-15186?a_aid=6fef337b,Budape - Rio de Janeiro = 11 990 K,11990.0,CZK,Budape,Rio de Janeiro
+321,https://www.pelikan.cz/cs/akcni-letenka/G-14565?a_aid=6fef337b,Ostrava - Baku = 6 790 K,6790.0,CZK,Ostrava,Baku
+322,https://wizzair.com/#/booking/select-flight/PRG/LTN/2023-09-19/2023-09-24/1/0/0,Praha - Londn = 790 K s WDC,790.0,CZK,Praha,Londn
+323,https://www.pelikan.cz/cs/akcni-letenka/LCC-383?a_aid=6fef337b,Praha - Londn = kalend termn,,CZK,Praha,Londn
+324,https://wizzair.com/#/booking/select-flight/KTW/KUT/2023-08-31/2023-09-07/1/0/0,Katovice - Kutaisi = 170 PLN / 920 K s WDC,920.0,CZK,Katovice,Kutaisi
+325,https://www.pelikan.cz/cs/akcni-letenka/LCC-287?a_aid=6fef337b,Katovice - Kutaisi = kalend termn,,CZK,Katovice,Kutaisi
+326,https://wizzair.com/cs-cz#/booking/select-flight/PRG/NAP/2023-08-31/2023-09-07/1/0/0,Praha - Neapol = 940 K s WDC,940.0,CZK,Praha,Neapol
+327,https://www.pelikan.cz/cs/akcni-letenka/LCC-1467?a_aid=6fef337b,Praha - Neapol = kalend termn,,CZK,Praha,Neapol
+328,https://www.ryanair.com/cz/cs/booking/home/NUE/IBZ/2023-07-24/2023-07-31/1/0/0/0,Norimberk - Ibiza = 52 EUR / 1 240 K,1240.0,CZK,Norimberk,Ibiza
+329,https://www.pelikan.cz/cs/akcni-letenka/LCC-1559?a_aid=6fef337b,Norimberk - Ibiza = kalend termn,,CZK,Norimberk,Ibiza
+330,http://www.volotea.com/en/flight-offers/prague/nantes/,Praha - Nantes = 58 EUR / 1 390 K,1390.0,CZK,Praha,Nantes
+331,https://www.pelikan.cz/cs/akcni-letenka/LCC-412?a_aid=6fef337b,Praha - Nantes = kalend termn,,CZK,Praha,Nantes
+332,https://www.ryanair.com/cz/cs/booking/home/BTS/MLA/2023-10-09/2023-10-14/1/0/0/0,Bratislava - Malta = 50 EUR / 1 190 K,1190.0,CZK,Bratislava,Malta
+333,https://www.pelikan.cz/cs/akcni-letenka/LCC-238?a_aid=6fef337b,Bratislava - Malta = kalend termn,,CZK,Bratislava,Malta
+334,https://wizzair.com/cs-cz#/booking/select-flight/PRG/CTA/2023-11-09/2023-11-16/1/0/0,Praha - Catania = 820 K s WDC,820.0,CZK,Praha,Catania
+335,https://www.pelikan.cz/cs/akcni-letenka/LCC-1452?a_aid=6fef337b,Praha - Catania = kalend termn,,CZK,Praha,Catania
+336,https://www.ryanair.com/cz/cs/booking/home/VIE/DBV/2023-09-18/2023-09-25/1/0/0/0,Vde - Dubrovnk = 40 EUR / 960 K,960.0,CZK,Vde,Dubrovnk
+337,https://www.pelikan.cz/cs/akcni-letenka/LCC-1086?a_aid=6fef337b,Vde - Dubrovnk = kalend termn,,CZK,Vde,Dubrovnk
+338,https://www.pelikan.cz/cs/akcni-letenka/G-14600?a_aid=6fef337b,Mnichov - Las Vegas = 10 590 K,10590.0,CZK,Mnichov,Las Vegas
+339,https://www.pelikan.cz/cs/akcni-letenka/G-14671?a_aid=6fef337b,Berln - New York = 8 990 K,8990.0,CZK,Berln,New York
+340,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 9 490 K,9490.0,CZK,Mnichov,New York
+341,https://www.pelikan.cz/cs/akcni-letenka/G-14840?a_aid=6fef337b,Mnichov - Honolulu = 18 790 K,18790.0,CZK,Mnichov,Honolulu
+342,https://www.pelikan.cz/cs/akcni-letenka/G-14599?a_aid=6fef337b,Praha - Funchal = 4 490 K,4490.0,CZK,Praha,Funchal
+343,https://www.pelikan.cz/cs/akcni-letenka/G-15143?a_aid=6fef337b,Vde - Funchal = 4 690 K,4690.0,CZK,Vde,Funchal
+344,https://www.pelikan.cz/cs/akcni-letenka/G-15039?a_aid=6fef337b,Praha - Funchal = 5 290 K,5290.0,CZK,Praha,Funchal
+345,https://www.pelikan.cz/cs/akcni-letenka/G-14700?a_aid=6fef337b,Praha - Faro = 3 990 K,3990.0,CZK,Praha,Faro
+346,https://www.pelikan.cz/cs/akcni-letenka/G-14369?a_aid=6fef337b,Praha - Faro = 4 290 K,4290.0,CZK,Praha,Faro
+347,https://www.pelikan.cz/cs/akcni-letenka/G-14848?a_aid=6fef337b,Praha - Porto = 4 990 K,4990.0,CZK,Praha,Porto
+348,https://www.easyjet.com/deeplink?lang=CS&dep=PRG&dest=GVA&dd=2023-11-01&rd=2023-11-05&apax=1,Praha - eneva = 1 398 K,1398.0,CZK,Praha,eneva
+349,https://www.pelikan.cz/cs/akcni-letenka/LCC-1014?a_aid=6fef337b,Praha - eneva = kalend termn,,CZK,Praha,eneva
+350,https://www.ryanair.com/cz/cs/booking/home/BTS/KUN/2023-09-20/2023-09-27/1/0/0/0,Bratislava - Kaunas = 31 EUR / 740 K,740.0,CZK,Bratislava,Kaunas
+351,https://www.pelikan.cz/cs/akcni-letenka/LCC-1629?a_aid=6fef337b,Bratislava - Kaunas = kalend termn,,CZK,Bratislava,Kaunas
+352,https://www.pelikan.cz/cs/akcni-letenka/G-14781?a_aid=6fef337b,Mnichov - San Francisco = 10 890 K,10890.0,CZK,Mnichov,San Francisco
+353,https://www.ryanair.com/cz/cs/booking/home/VIE/ARN/2023-09-09/2023-09-12/1/0/0/0,Vde - Stockholm = 35 EUR / 840 K,840.0,CZK,Vde,Stockholm
+354,https://www.pelikan.cz/cs/akcni-letenka/LCC-1495?a_aid=6fef337b,Vde - Stockholm = kalend termn,,CZK,Vde,Stockholm
+355,https://wizzair.com/#/booking/select-flight/VIE/NCE/2023-09-09/2023-09-12/1/0/0,Vde - Nice = 25 EUR / 600 K s WDC,600.0,CZK,Vde,Nice
+356,https://www.pelikan.cz/cs/akcni-letenka/LCC-219?a_aid=6fef337b,Vde - Nice = kalend termn,,CZK,Vde,Nice
+357,https://wizzair.com/cs-cz#/booking/select-flight/PRG/VCE/2023-08-09/2023-08-16/1/0/0,Praha - Bentky = 700 K s WDC,700.0,CZK,Praha,Bentky
+358,https://www.pelikan.cz/cs/akcni-letenka/LCC-1508?a_aid=6fef337b,Praha - Bentky = kalend termn,,CZK,Praha,Bentky
+359,https://wizzair.com/#/booking/select-flight/VIE/PRN/2023-09-09/2023-09-16/1/0/0,Vde - Pritina = 20 EUR / 480 K s WDC,480.0,CZK,Vde,Pritina
+360,https://www.pelikan.cz/cs/akcni-letenka/LCC-1036?a_aid=6fef337b,Vde - Pritina = kalend termn,,CZK,Vde,Pritina
+361,https://www.ryanair.com/cz/cs/booking/home/BTS/SOF/2023-08-06/2023-08-08/1/0/0/0,Bratislava - Sofie = 36 EUR / 860 K,860.0,CZK,Bratislava,Sofie
+362,https://www.pelikan.cz/cs/akcni-letenka/LCC-1524?a_aid=6fef337b,Bratislava - Sofie = kalend termn,,CZK,Bratislava,Sofie
+363,https://www.ryanair.com/cz/cs/booking/home/PRG/PSA/2023-06-21/2023-06-28/1/0/0/0,Praha - Pisa = 969 K,969.0,CZK,Praha,Pisa
+364,https://www.pelikan.cz/cs/akcni-letenka/LCC-441?a_aid=6fef337b,Praha - Pisa = kalend termn,,CZK,Praha,Pisa
+365,https://www.pelikan.cz/cs/akcni-letenka/G-15081?a_aid=6fef337b,Praha - Marrke = 3 890 K,3890.0,CZK,Praha,Marrke
+366,https://www.pelikan.cz/cs/akcni-letenka/G-14813?a_aid=6fef337b,Praha - Tunis = 4 290 K,4290.0,CZK,Praha,Tunis
+367,https://www.pelikan.cz/cs/akcni-letenka/G-15100?a_aid=6fef337b,Praha - Alr = 3 490 K,3490.0,CZK,Praha,Alr
+368,https://www.pelikan.cz/cs/akcni-letenka/G-14352?a_aid=6fef337b,Mnichov - Anchorage = 11 990 K,11990.0,CZK,Mnichov,Anchorage
+369,https://www.pelikan.cz/cs/akcni-letenka/G-14563?a_aid=6fef337b,Frankfurt - Anchorage = 12 490 K,12490.0,CZK,Frankfurt,Anchorage
+370,https://www.pelikan.cz/cs/akcni-letenka/G-14564?a_aid=6fef337b,Drany - Anchorage = 12 790 K,12790.0,CZK,Drany,Anchorage
+371,https://www.ryanair.com/cz/cs/booking/home/BRQ/BGY/2023-07-28/2023-08-04/1/0/0/0,Brno - Bergamo = 987 K,987.0,CZK,Brno,Bergamo
+372,https://www.pelikan.cz/cs/akcni-letenka/LCC-275?a_aid=6fef337b,Brno - Bergamo = kalend termn,,CZK,Brno,Bergamo
+373,https://wizzair.com/#/booking/select-flight/KTW/MMX/2023-08-18/2023-08-21/1/0/0,Katovice - Malm = 128 PLN / 700 K,700.0,CZK,Katovice,Malm
+374,https://www.pelikan.cz/cs/akcni-letenka/LCC-871?a_aid=6fef337b,Katovice - Malm = kalend termn,,CZK,Katovice,Malm
+375,https://www.vueling.com/en/book-your-flight/price-calendar,Praha - Pa = 55 EUR / 1 320 K,1320.0,CZK,Praha,Pa
+376,https://www.pelikan.cz/cs/akcni-letenka/LCC-1498?a_aid=6fef337b,Praha - Pa = kalend termn,,CZK,Praha,Pa
+377,https://wizzair.com/cs-cz#/booking/select-flight/PRG/VAR/2023-06-19/2023-06-26/1/0/0,Praha - Varna = 1 020 K s WDC,1020.0,CZK,Praha,Varna
+378,https://www.pelikan.cz/cs/akcni-letenka/LCC-1297?a_aid=6fef337b,Praha - Varna = kalend termn,,CZK,Praha,Varna
+379,https://www.easyjet.com/deeplink?lang=CS&dep=PRG&dest=BSL&dd=2023-10-02&rd=2023-10-04&apax=1,Praha - Basilej = 1 066 K,1066.0,CZK,Praha,Basilej
+380,https://www.pelikan.cz/cs/akcni-letenka/LCC-432?a_aid=6fef337b,Praha - Basilej = kalend termn,,CZK,Praha,Basilej
+381,https://www.pelikan.cz/cs/akcni-letenka/G-15150?a_aid=6fef337b,Praha - Gran Canaria = 4 790 K,4790.0,CZK,Praha,Gran Canaria
+382,https://www.pelikan.cz/cs/akcni-letenka/G-15129?a_aid=6fef337b,Vde - Zanzibar = 11 990 K,11990.0,CZK,Vde,Zanzibar
+383,https://www.ryanair.com/cz/cs/booking/home/WRO/BLL/2023-08-09/2023-08-13/1/0/0/0,Vratislav - Billund = 150 PLN / 810 K,810.0,CZK,Vratislav,Billund
+384,https://www.pelikan.cz/cs/akcni-letenka/LCC-1131?a_aid=6fef337b,Vratislav - Billund = kalend termn,,CZK,Vratislav,Billund
+385,https://www.pelikan.cz/cs/akcni-letenka/G-15145?a_aid=6fef337b,Budape - Okinawa = 12 790 K,12790.0,CZK,Budape,Okinawa
+386,https://www.pelikan.cz/cs/akcni-letenka/G-15149?a_aid=6fef337b,Budape - Fukuoka = 12 790 K,12790.0,CZK,Budape,Fukuoka
+387,https://www.pelikan.cz/cs/akcni-letenka/G-15147?a_aid=6fef337b,Budape - Nagoya = 12 990 K,12990.0,CZK,Budape,Nagoya
+388,https://www.pelikan.cz/cs/akcni-letenka/G-15146?a_aid=6fef337b,Budape - Osaka = 12 990 K,12990.0,CZK,Budape,Osaka
+389,https://www.pelikan.cz/cs/akcni-letenka/G-15148?a_aid=6fef337b,Budape - Tokio = 12 990 K,12990.0,CZK,Budape,Tokio
+390,https://www.pelikan.cz/cs/akcni-letenka/G-15122?a_aid=6fef337b,Budape - Auckland = 15 990 K,15990.0,CZK,Budape,Auckland
+391,https://www.pelikan.cz/cs/akcni-letenka/G-15124?a_aid=6fef337b,Budape - Melbourne = 17 990 K,17990.0,CZK,Budape,Melbourne
+392,https://www.pelikan.cz/cs/akcni-letenka/G-15123?a_aid=6fef337b,Budape - Sydney = 17 490 K,17490.0,CZK,Budape,Sydney
+393,https://www.pelikan.cz/cs/akcni-letenka/G-15031?a_aid=6fef337b,Praha - New York = 10 290 K,10290.0,CZK,Praha,New York
+394,https://www.ryanair.com/cz/cs/booking/home/PRG/GOT/2023-06-28/2023-07-05/1/0/0/0,Praha - Gteborg = 806 K,806.0,CZK,Praha,Gteborg
+395,https://www.pelikan.cz/cs/akcni-letenka/LCC-421?a_aid=6fef337b,Praha - Gteborg = kalend termn,,CZK,Praha,Gteborg
+396,https://www.pelikan.cz/cs/akcni-letenka/G-14813?a_aid=6fef337b,Praha - Tunis = 4 290 K,4290.0,CZK,Praha,Tunis
+397,https://www.pelikan.cz/cs/akcni-letenka/G-15100?a_aid=6fef337b,Praha - Alr = 3 490 K,3490.0,CZK,Praha,Alr
+398,https://www.pelikan.cz/cs/akcni-letenka/G-15133?a_aid=6fef337b,Krakov - Male = 12 490 K,12490.0,CZK,Krakov,Male
+399,https://www.pelikan.cz/cs/akcni-letenka/G-15137?a_aid=6fef337b,Praha - Male = 15 490 K,15490.0,CZK,Praha,Male
+400,https://www.pelikan.cz/cs/akcni-letenka/G-15131?a_aid=6fef337b,Krakov - Colombo = 10 990 K,10990.0,CZK,Krakov,Colombo
+401,https://www.pelikan.cz/cs/akcni-letenka/G-15132?a_aid=6fef337b,Krakov - Colombo = 10 990 K,10990.0,CZK,Krakov,Colombo
+402,https://www.pelikan.cz/cs/akcni-letenka/G-15135?a_aid=6fef337b,Praha - Colombo = 13 990 K,13990.0,CZK,Praha,Colombo
+403,https://www.pelikan.cz/cs/akcni-letenka/G-14818?a_aid=6fef337b,Vde - Guam = 19 490 K,19490.0,CZK,Vde,Guam
+404,https://wizzair.com/#/booking/select-flight/PRG/FCO/2023-08-16/2023-08-23/1/0/0,Praha - m = 700 K s WDC,700.0,CZK,Praha,m
+405,https://www.pelikan.cz/cs/akcni-letenka/LCC-1453?a_aid=6fef337b,Praha - m = kalend termn,,CZK,Praha,m
+406,https://www.pelikan.cz/cs/akcni-letenka/G-14471?a_aid=6fef337b,Berln - Filadelfie = 8 790 K,8790.0,CZK,Berln,Filadelfie
+407,https://www.pelikan.cz/cs/akcni-letenka/G-14671?a_aid=6fef337b,Berln - New York = 8 990 K,8990.0,CZK,Berln,New York
+408,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 9 490 K,9490.0,CZK,Mnichov,New York
+409,https://www.pelikan.cz/cs/akcni-letenka/G-14600?a_aid=6fef337b,Mnichov - Las Vegas = 10 590 K,10590.0,CZK,Mnichov,Las Vegas
+410,https://www.ryanair.com/cz/cs/booking/home/VIE/ZAD/2023-07-18/2023-07-26/1/0/0/0,Vde - Zadar = 38 EUR / 900 K,900.0,CZK,Vde,Zadar
+411,https://www.pelikan.cz/cs/akcni-letenka/LCC-1119?a_aid=6fef337b,Vde - Zadar = kalend termn,,CZK,Vde,Zadar
+412,https://www.pelikan.cz/cs/akcni-letenka/G-15131?a_aid=6fef337b,Krakov - Colombo = 10 990 K,10990.0,CZK,Krakov,Colombo
+413,https://www.pelikan.cz/cs/akcni-letenka/G-15132?a_aid=6fef337b,Krakov - Colombo = 10 990 K,10990.0,CZK,Krakov,Colombo
+414,https://www.pelikan.cz/cs/akcni-letenka/G-15135?a_aid=6fef337b,Praha - Colombo = 13 990 K,13990.0,CZK,Praha,Colombo
+415,https://wizzair.com/#/booking/select-flight/NUE/SBZ/2023-07-06/2023-07-13/1/0/0,Norimberk - Sibiu = 28 EUR / 670 K s WDC,670.0,CZK,Norimberk,Sibiu
+416,https://www.pelikan.cz/cs/akcni-letenka/G-14671?a_aid=6fef337b,Berln - New York = 8 990 K,8990.0,CZK,Berln,New York
+417,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 9 490 K,9490.0,CZK,Mnichov,New York
+418,https://www.pelikan.cz/cs/akcni-letenka/G-14600?a_aid=6fef337b,Mnichov - Las Vegas = 10 590 K,10590.0,CZK,Mnichov,Las Vegas
+419,https://wizzair.com/cs-cz#/booking/select-flight/PRG/MXP/2023-07-21/2023-07-25/1/0/0,Praha - Milno = 480 K s WDC,480.0,CZK,Praha,Milno
+420,https://www.pelikan.cz/cs/akcni-letenka/LCC-1528?a_aid=6fef337b,Praha - Milno = kalend termn,,CZK,Praha,Milno
+421,https://www.ryanair.com/cz/cs/booking/home/VIE/CFU/2023-06-15/2023-06-22/1/0/0/0,Vde - Korfu = 48 EUR / 1 150 K,1150.0,CZK,Vde,Korfu
+422,https://www.pelikan.cz/cs/akcni-letenka/LCC-577?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+423,https://wizzair.com/#/booking/select-flight/KTW/CDT/2023-09-03/2023-09-10/1/0/0,Katovice - Castelln = 170 PLN / 900 K s WDC,900.0,CZK,Katovice,Castelln
+424,https://www.pelikan.cz/cs/akcni-letenka/LCC-1686?a_aid=6fef337b,Katovice - Castelln = kalend termn,,CZK,Katovice,Castelln
+425,https://www.pelikan.cz/cs/akcni-letenka/G-15122?a_aid=6fef337b,Budape - Auckland = 15 990 K,15990.0,CZK,Budape,Auckland
+426,https://www.pelikan.cz/cs/akcni-letenka/G-15124?a_aid=6fef337b,Budape - Melbourne = 17 990 K,17990.0,CZK,Budape,Melbourne
+427,https://www.pelikan.cz/cs/akcni-letenka/G-15123?a_aid=6fef337b,Budape - Sydney = 17 490 K,17490.0,CZK,Budape,Sydney
+428,https://wizzair.com/cs-cz#/booking/select-flight/VIE/ZTH/2023-06-14/2023-06-21/1/0/0,Vde - Zakynthos = 50 EUR / 1 190 K s WDC,1190.0,CZK,Vde,Zakynthos
+429,https://www.pelikan.cz/cs/akcni-letenka/LCC-1261?a_aid=6fef337b,Vde - Zakynthos = kalend termn,,CZK,Vde,Zakynthos
+430,https://www.ryanair.com/cz/cs/booking/home/PRG/KRK/2023-06-13/2023-06-15/1/0/0/0,Praha - Krakov = 780 K,780.0,CZK,Praha,Krakov
+431,https://www.pelikan.cz/cs/akcni-letenka/LCC-436?a_aid=6fef337b,Praha - Krakov = kalend termn,,CZK,Praha,Krakov
+432,https://wizzair.com/cs-cz/#/booking/select-flight/KRK/KEF/2023-06-11/2023-06-18/1/0/0,Krakov - Reykjavk = 260 PLN / 1 380 K s WDC,1380.0,CZK,Krakov,Reykjavk
+433,https://www.pelikan.cz/cs/akcni-letenka/LCC-928?a_aid=6fef337b,Krakov - Reykjavk = kalend termn,,CZK,Krakov,Reykjavk
+434,https://www.ryanair.com/cz/cs/booking/home/PRG/CPH/2023-09-21/2023-09-25/1/0/0/0,Praha - Koda = 978 K,978.0,CZK,Praha,Koda
+435,https://www.pelikan.cz/cs/akcni-letenka/LCC-391?a_aid=6fef337b,Praha - Koda = kalend termn,,CZK,Praha,Koda
+436,https://wizzair.com/#/booking/select-flight/KRK/SVG/2023-08-22/2023-08-29/1/0/0,Krakov - Stavanger = 140 PLN / 750 K s WDC,750.0,CZK,Krakov,Stavanger
+437,https://www.pelikan.cz/cs/akcni-letenka/LCC-1050?a_aid=6fef337b,Krakov - Stavanger = kalend termn,,CZK,Krakov,Stavanger
+438,https://www.ryanair.com/cz/cs/booking/home/PRG/TRN/2023-06-17/2023-06-24/1/0/0/0,Praha - Turn = 972 K,972.0,CZK,Praha,Turn
+439,https://www.pelikan.cz/cs/akcni-letenka/LCC-1569?a_aid=6fef337b,Praha - Turn = kalend termn,,CZK,Praha,Turn
+440,https://www.pelikan.cz/cs/akcni-letenka/G-15100?a_aid=6fef337b,Praha - Alr = 3 490 K,3490.0,CZK,Praha,Alr
+441,https://www.pelikan.cz/cs/akcni-letenka/G-14813?a_aid=6fef337b,Praha - Tunis = 4 290 K,4290.0,CZK,Praha,Tunis
+442,https://wizzair.com/cs-cz#/booking/select-flight/VIE/DBV/2023-08-02/2023-08-11/1/0/0,Vde - Dubrovnk = 30 EUR / 710 K s WDC,710.0,CZK,Vde,Dubrovnk
+443,https://www.pelikan.cz/cs/akcni-letenka/LCC-1462?a_aid=6fef337b,Vde - Dubrovnk = kalend termn,,CZK,Vde,Dubrovnk
+444,https://www.pelikan.cz/cs/akcni-letenka/G-15097?a_aid=6fef337b,Mnichov - Entebbe = 9 790 K,9790.0,CZK,Mnichov,Entebbe
+445,https://www.pelikan.cz/cs/akcni-letenka/G-15098?a_aid=6fef337b,Mnichov - Entebbe = 10 490 K,10490.0,CZK,Mnichov,Entebbe
+446,https://www.pelikan.cz/cs/akcni-letenka/G-14464?a_aid=6fef337b,Berln - Seattle = 9 990 K,9990.0,CZK,Berln,Seattle
+447,https://www.ryanair.com/cz/cs/booking/home/NUE/DUB/2023-07-06/2023-07-13/1/0/0/0,Norimberk - Dublin = 39 EUR / 930 K,930.0,CZK,Norimberk,Dublin
+448,https://www.pelikan.cz/cs/akcni-letenka/LCC-1586?a_aid=6fef337b,Norimberk - Dublin = kalend termn,,CZK,Norimberk,Dublin
+449,https://wizzair.com/#/booking/select-flight/VIE/SPU/2023-07-12/2023-07-19/1/0/0,Vde - Split = 35 EUR / 840 K s WDC,840.0,CZK,Vde,Split
+450,https://www.pelikan.cz/cs/akcni-letenka/LCC-1463?a_aid=6fef337b,Vde - Split = kalend termn,,CZK,Vde,Split
+451,https://wizzair.com/#/booking/select-flight/KTW/BGO/2023-08-22/2023-08-29/1/0/0,Katovice - Bergen = 98 PLN / 520 K s WDC,520.0,CZK,Katovice,Bergen
+452,https://www.pelikan.cz/cs/akcni-letenka/LCC-232?a_aid=6fef337b,Katovice - Bergen = kalend termn,,CZK,Katovice,Bergen
+453,https://www.ryanair.com/cz/cs/booking/home/BRQ/STN/2023-06-16/2023-06-19/1/0/0/0,Brno - Londn = 852 K,852.0,CZK,Brno,Londn
+454,https://www.pelikan.cz/cs/akcni-letenka/LCC-439?a_aid=6fef337b,Brno - Londn = kalend termn,,CZK,Brno,Londn
+455,https://wizzair.com/cs-cz#/booking/select-flight/VIE/TGD/2023-06-26/2023-07-03/1/0/0,Vde - Podgorica = 35 EUR / 840 K s WDC,840.0,CZK,Vde,Podgorica
+456,https://www.pelikan.cz/cs/akcni-letenka/LCC-1181?a_aid=6fef337b,Vde - Podgorica = kalend termn,,CZK,Vde,Podgorica
+457,https://wizzair.com/cs-cz#/booking/select-flight/PRG/NAP/2023-09-05/2023-09-12/1/0/0,Praha - Neapol = 700 K s WDC,700.0,CZK,Praha,Neapol
+458,https://www.pelikan.cz/cs/akcni-letenka/LCC-1467?a_aid=6fef337b,Praha - Neapol = kalend termn,,CZK,Praha,Neapol
+459,https://www.pelikan.cz/cs/akcni-letenka/G-15090?a_aid=6fef337b,Vde - anghaj = 11 990 K,11990.0,CZK,Vde,anghaj
+460,https://wizzair.com/#/booking/select-flight/VIE/OHD/2023-06-16/2023-06-23/1/0/0,Vde - Ochrid = 20 EUR / 480 K s WDC,480.0,CZK,Vde,Ochrid
+461,https://www.pelikan.cz/cs/akcni-letenka/LCC-177?a_aid=6fef337b,Vde - Ochrid = kalend termn,,CZK,Vde,Ochrid
+462,https://www.pelikan.cz/cs/akcni-letenka/G-15079?a_aid=6fef337b,Praha - Gran Canaria = 3 690 K,3690.0,CZK,Praha,Gran Canaria
+463,https://www.pelikan.cz/cs/akcni-letenka/G-15078?a_aid=6fef337b,Praha - Tenerife = 3 690 K,3690.0,CZK,Praha,Tenerife
+464,https://www.pelikan.cz/cs/akcni-letenka/G-14599?a_aid=6fef337b,Praha - Funchal = 4 490 K,4490.0,CZK,Praha,Funchal
+465,https://www.pelikan.cz/cs/akcni-letenka/G-15039?a_aid=6fef337b,Praha - Funchal = 5 290 K,5290.0,CZK,Praha,Funchal
+466,https://www.ryanair.com/cz/cs/booking/home/PRG/BOD/2023-06-07/2023-06-14/1/0/0/0,Praha - Bordeaux = 852 K,852.0,CZK,Praha,Bordeaux
+467,https://www.pelikan.cz/cs/akcni-letenka/LCC-949?a_aid=6fef337b,Praha - Bordeaux = kalend termn,,CZK,Praha,Bordeaux
+468,https://www.pelikan.cz/cs/akcni-letenka/G-15092?a_aid=6fef337b,Vde - Bangkok = 12 120 K,12120.0,CZK,Vde,Bangkok
+469,https://www.pelikan.cz/cs/akcni-letenka/G-15093?a_aid=6fef337b,Vde - Bangkok = 11 390 K,11390.0,CZK,Vde,Bangkok
+470,https://www.pelikan.cz/cs/akcni-letenka/G-14633?a_aid=6fef337b,Berln - Boston = 9 990 K,9990.0,CZK,Berln,Boston
+471,https://www.pelikan.cz/cs/akcni-letenka/G-14464?a_aid=6fef337b,Berln - Seattle = 9 990 K,9990.0,CZK,Berln,Seattle
+472,https://www.pelikan.cz/cs/akcni-letenka/G-14555?a_aid=6fef337b,Berln - Los Angeles = 10 990 K,10990.0,CZK,Berln,Los Angeles
+473,https://www.pelikan.cz/cs/akcni-letenka/G-14837?a_aid=6fef337b,Mnichov - Los Angeles = 10 790 K,10790.0,CZK,Mnichov,Los Angeles
+474,https://www.pelikan.cz/cs/akcni-letenka/G-15061?a_aid=6fef337b,Berln - Miami = 9 590 K,9590.0,CZK,Berln,Miami
+475,https://www.pelikan.cz/cs/akcni-letenka/G-14835?a_aid=6fef337b,Mnichov - Miami = 9 790 K,9790.0,CZK,Mnichov,Miami
+476,https://www.pelikan.cz/cs/akcni-letenka/G-14755?a_aid=6fef337b,Berln - Key West = 10 990 K,10990.0,CZK,Berln,Key West
+477,https://wizzair.com/cs-cz/#/booking/select-flight/KTW/TLV/2023-06-10/2023-06-14/1/0/0,Katovice - Tel Aviv = 150 PLN / 790 K s WDC,790.0,CZK,Katovice,Tel Aviv
+478,https://www.pelikan.cz/cs/akcni-letenka/LCC-883?a_aid=6fef337b,Katovice - Tel Aviv = kalend termn,,CZK,Katovice,Tel Aviv
+479,https://wizzair.com/cs-cz#/booking/select-flight/VIE/BOJ/2023-06-20/2023-06-27/1/0/0,Vde - Burgas = 33 EUR / 790 K s WDC,790.0,CZK,Vde,Burgas
+480,https://www.pelikan.cz/cs/akcni-letenka/LCC-1266?a_aid=6fef337b,Vde - Burgas = kalend termn,,CZK,Vde,Burgas
+481,https://www.pelikan.cz/cs/akcni-letenka/G-14564?a_aid=6fef337b,Drany - Anchorage = 13 990 K,13990.0,CZK,Drany,Anchorage
+482,https://www.pelikan.cz/cs/akcni-letenka/G-14563?a_aid=6fef337b,Frankfurt - Anchorage = 13 790 K,13790.0,CZK,Frankfurt,Anchorage
+483,https://www.pelikan.cz/cs/akcni-letenka/G-14352?a_aid=6fef337b,Mnichov - Anchorage = 13 790 K,13790.0,CZK,Mnichov,Anchorage
+484,https://www.ryanair.com/cz/cs/booking/home/VIE/ZAD/2023-07-16/2023-07-26/1/0/0/0,Vde - Zadar = 38 EUR / 910 K,910.0,CZK,Vde,Zadar
+485,https://www.pelikan.cz/cs/akcni-letenka/LCC-1119?a_aid=6fef337b,Vde - Zadar = kalend termn,,CZK,Vde,Zadar
+486,https://www.pelikan.cz/cs/akcni-letenka/G-14844?a_aid=6fef337b,Berln - Vancouver = 11 290 K,11290.0,CZK,Berln,Vancouver
+487,https://www.ryanair.com/cz/cs/booking/home/VIE/CFU/2023-06-15/2023-06-22/1/0/0/0,Vde - Korfu = 44 EUR / 1 050 K,1050.0,CZK,Vde,Korfu
+488,https://www.pelikan.cz/cs/akcni-letenka/LCC-577?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+489,https://www.pelikan.cz/cs/akcni-letenka/G-14653?a_aid=6fef337b,Vde - New York = 9 790 K,9790.0,CZK,Vde,New York
+490,https://www.pelikan.cz/cs/akcni-letenka/G-14809?a_aid=6fef337b,Vde - Soul = 11 590 K,11590.0,CZK,Vde,Soul
+491,https://www.ryanair.com/cz/cs/booking/home/BTS/SOF/2023-06-13/2023-06-20/1/0/0/0,Bratislava - Sofie = 30 EUR / 720 K,720.0,CZK,Bratislava,Sofie
+492,https://www.pelikan.cz/cs/akcni-letenka/LCC-1524?a_aid=6fef337b,Bratislava - Sofie = kalend termn,,CZK,Bratislava,Sofie
+493,https://www.ryanair.com/cz/cs/booking/home/NUE/GRO/2023-07-12/2023-07-18/1/0/0/0,Norimberk - Girona = 42 EUR / 1 000 K,1000.0,CZK,Norimberk,Girona
+494,https://www.pelikan.cz/cs/akcni-letenka/LCC-1572?a_aid=6fef337b,Norimberk - Girona = kalend termn,,CZK,Norimberk,Girona
+495,https://wizzair.com/cs-cz#/booking/select-flight/PRG/VCE/2023-07-12/2023-07-19/1/0/0,Praha - Bentky = 700 K s WDC,700.0,CZK,Praha,Bentky
+496,https://www.pelikan.cz/cs/akcni-letenka/LCC-1508?a_aid=6fef337b,Praha - Bentky = kalend termn,,CZK,Praha,Bentky
+497,https://wizzair.com/#/booking/select-flight/WRO/KUT/2023-06-07/2023-06-14/1/0/0,Vratislav - Kutaisi = 180 PLN / 950 K s WDC,950.0,CZK,Vratislav,Kutaisi
+498,https://www.pelikan.cz/cs/akcni-letenka/LCC-287?a_aid=6fef337b,Vratislav - Kutaisi = kalend termn,,CZK,Vratislav,Kutaisi
+499,https://www.pelikan.cz/cs/akcni-letenka/G-15076?a_aid=6fef337b,Vde - Kilimandro = 12 990 K,12990.0,CZK,Vde,Kilimandro
+500,https://www.pelikan.cz/cs/akcni-letenka/G-14365?a_aid=6fef337b,Vde - Kilimandro = 12 990 K,12990.0,CZK,Vde,Kilimandro
+501,https://wizzair.com/cs-cz#/booking/select-flight/VIE/BIO/2023-06-20/2023-06-27/1/0/0,Vde - Bilbao = 40 EUR / 950 K s WDC,950.0,CZK,Vde,Bilbao
+502,https://www.pelikan.cz/cs/akcni-letenka/LCC-1656?a_aid=6fef337b,Vde - Bilbao = kalend termn,,CZK,Vde,Bilbao
+503,https://www.pelikan.cz/cs/akcni-letenka/G-13938?a_aid=6fef337b,Ostrava - Varava = 1 390 K,1390.0,CZK,Ostrava,Varava
+504,https://www.pelikan.cz/cs/akcni-letenka/G-14148?a_aid=6fef337b,Ostrava - Gdask = 2 090 K,2090.0,CZK,Ostrava,Gdask
+505,https://www.pelikan.cz/cs/akcni-letenka/G-14495?a_aid=6fef337b,Ostrava - eneva = 2 990 K,2990.0,CZK,Ostrava,eneva
+506,https://www.pelikan.cz/cs/akcni-letenka/G-15058?a_aid=6fef337b,Ostrava - Curych = 2 990 K,2990.0,CZK,Ostrava,Curych
+507,https://www.pelikan.cz/cs/akcni-letenka/G-14149?a_aid=6fef337b,Ostrava - Barcelona = 3 490 K,3490.0,CZK,Ostrava,Barcelona
+508,https://www.pelikan.cz/cs/akcni-letenka/G-14493?a_aid=6fef337b,Ostrava - Madrid = 3 390 K,3390.0,CZK,Ostrava,Madrid
+509,https://www.pelikan.cz/cs/akcni-letenka/G-15051?a_aid=6fef337b,Ostrava - Stockholm = 2 890 K,2890.0,CZK,Ostrava,Stockholm
+510,https://www.pelikan.cz/cs/akcni-letenka/G-15052?a_aid=6fef337b,Ostrava - Gteborg = 2 890 K,2890.0,CZK,Ostrava,Gteborg
+511,https://www.pelikan.cz/cs/akcni-letenka/G-15050?a_aid=6fef337b,Ostrava - Billund = 2 890 K,2890.0,CZK,Ostrava,Billund
+512,https://www.pelikan.cz/cs/akcni-letenka/G-14490?a_aid=6fef337b,Ostrava - Oslo = 2 890 K,2890.0,CZK,Ostrava,Oslo
+513,https://www.pelikan.cz/cs/akcni-letenka/G-15080?a_aid=6fef337b,Budape - Windhoek = 11 990 K,11990.0,CZK,Budape,Windhoek
+514,https://www.pelikan.cz/cs/akcni-letenka/G-15066?a_aid=6fef337b,Praha - Khira = 4 990 K,4990.0,CZK,Praha,Khira
+515,https://www.pelikan.cz/cs/akcni-letenka/G-15067?a_aid=6fef337b,Praha - Bejrt = 4 390 K,4390.0,CZK,Praha,Bejrt
+516,https://www.pelikan.cz/cs/akcni-letenka/G-15070?a_aid=6fef337b,Praha - Tel Aviv = 4 590 K,4590.0,CZK,Praha,Tel Aviv
+517,https://www.pelikan.cz/cs/akcni-letenka/G-15075?a_aid=6fef337b,Praha - Tunis = 5 790 K,5790.0,CZK,Praha,Tunis
+518,https://www.pelikan.cz/cs/akcni-letenka/G-15074?a_aid=6fef337b,Praha - Jerevan = 4 390 K,4390.0,CZK,Praha,Jerevan
+519,https://www.pelikan.cz/cs/akcni-letenka/G-15072?a_aid=6fef337b,Praha - Istanbul = 3 990 K,3990.0,CZK,Praha,Istanbul
+520,https://www.pelikan.cz/cs/akcni-letenka/G-15073?a_aid=6fef337b,Praha - Istanbul = 4 490 K,4490.0,CZK,Praha,Istanbul
+521,https://www.pelikan.cz/cs/akcni-letenka/G-15069?a_aid=6fef337b,Praha - Athny = 2 790 K,2790.0,CZK,Praha,Athny
+522,https://www.pelikan.cz/cs/akcni-letenka/G-14645?a_aid=6fef337b,Praha - Athny = 4 190 K,4190.0,CZK,Praha,Athny
+523,https://www.ryanair.com/cz/cs/booking/home/PRG/BOD/2023-06-07/2023-06-14/1/0/0/0,Praha - Bordeaux = 995 K,995.0,CZK,Praha,Bordeaux
+524,https://www.pelikan.cz/cs/akcni-letenka/LCC-949?a_aid=6fef337b,Praha - Bordeaux = kalend termn,,CZK,Praha,Bordeaux
+525,https://www.ryanair.com/cz/cs/booking/home/VIE/ARN/2023-06-03/2023-06-06/1/0/0/0,Vde - Stockholm = 41 EUR / 980 K,980.0,CZK,Vde,Stockholm
+526,https://www.pelikan.cz/cs/akcni-letenka/LCC-1495?a_aid=6fef337b,Vde - Stockholm = kalend termn,,CZK,Vde,Stockholm
+527,https://www.pelikan.cz/cs/akcni-letenka/G-14278?a_aid=6fef337b,Mnichov - Male = 11 990 K,11990.0,CZK,Mnichov,Male
+528,https://www.ryanair.com/cz/cs/booking/home/VIE/CTA/2023-05-30/2023-06-07/1/0/0/0,Vde - Catania = 39 EUR / 930 K,930.0,CZK,Vde,Catania
+529,https://www.pelikan.cz/cs/akcni-letenka/LCC-1089?a_aid=6fef337b,Vde - Catania = kalend termn,,CZK,Vde,Catania
+530,https://www.pelikan.cz/cs/akcni-letenka/G-14565?a_aid=6fef337b,Ostrava - Baku = 6 790 K,6790.0,CZK,Ostrava,Baku
+531,https://www.ryanair.com/cz/cs/booking/home/BTS/ZAG/2023-07-08/2023-07-11/1/0/0/0,Bratislava - Zheb = 30 EUR / 720 K,720.0,CZK,Bratislava,Zheb
+532,https://www.pelikan.cz/cs/akcni-letenka/LCC-1525?a_aid=6fef337b,Bratislava - Zheb = kalend termn,,CZK,Bratislava,Zheb
+533,https://www.pelikan.cz/cs/akcni-letenka/G-15036?a_aid=6fef337b,Praha - ard = 8 390 K,8390.0,CZK,Praha,ard
+534,https://www.pelikan.cz/cs/akcni-letenka/G-14776?a_aid=6fef337b,Praha - Muscat = 7 290 K,7290.0,CZK,Praha,Muscat
+535,https://www.pelikan.cz/cs/akcni-letenka/G-15035?a_aid=6fef337b,Vde - Muscat = 7 290 K,7290.0,CZK,Vde,Muscat
+536,https://www.pelikan.cz/cs/akcni-letenka/G-15065?a_aid=6fef337b,Berln - Mexico City = 10 990 K,10990.0,CZK,Berln,Mexico City
+537,https://www.pelikan.cz/cs/akcni-letenka/G-14536?a_aid=6fef337b,Mnichov - Mexico City = 11 490 K,11490.0,CZK,Mnichov,Mexico City
+538,https://www.pelikan.cz/cs/akcni-letenka/G-14489?a_aid=6fef337b,Ostrava - Dill = 9 990 K,9990.0,CZK,Ostrava,Dill
+539,https://wizzair.com/#/booking/select-flight/BTS/SKP/2023-06-14/2023-06-21/1/0/0,Bratislava - Skopje = 26 EUR / 620 K s WDC,620.0,CZK,Bratislava,Skopje
+540,https://www.pelikan.cz/cs/akcni-letenka/LCC-217?a_aid=6fef337b,Bratislava - Skopje = kalend termn,,CZK,Bratislava,Skopje
+541,https://www.pelikan.cz/cs/akcni-letenka/G-15061?a_aid=6fef337b,Berln - Miami = 9 590 K,9590.0,CZK,Berln,Miami
+542,https://www.pelikan.cz/cs/akcni-letenka/G-14835?a_aid=6fef337b,Mnichov - Miami = 9 790 K,9790.0,CZK,Mnichov,Miami
+543,https://www.pelikan.cz/cs/akcni-letenka/G-14755?a_aid=6fef337b,Berln - Key West = 11 990 K,11990.0,CZK,Berln,Key West
+544,https://www.pelikan.cz/cs/akcni-letenka/G-14464?a_aid=6fef337b,Berln - Seattle = 9 990 K,9990.0,CZK,Berln,Seattle
+545,https://www.pelikan.cz/cs/akcni-letenka/G-14633?a_aid=6fef337b,Berln - Boston = 10 990 K,10990.0,CZK,Berln,Boston
+546,https://www.pelikan.cz/cs/akcni-letenka/G-14555?a_aid=6fef337b,Berln - Los Angeles = 10 990 K,10990.0,CZK,Berln,Los Angeles
+547,https://www.pelikan.cz/cs/akcni-letenka/G-15062?a_aid=6fef337b,Vde - San Jose = 11 790 K,11790.0,CZK,Vde,San Jose
+548,https://www.pelikan.cz/cs/akcni-letenka/G-15063?a_aid=6fef337b,Vde - San Jose = 12 490 K,12490.0,CZK,Vde,San Jose
+549,https://www.pelikan.cz/cs/akcni-letenka/G-14505?a_aid=6fef337b,Ostrava - Toronto = 9 990 K,9990.0,CZK,Ostrava,Toronto
+550,https://www.pelikan.cz/cs/akcni-letenka/G-14207?a_aid=6fef337b,Ostrava - Miami = 12 990 K,12990.0,CZK,Ostrava,Miami
+551,https://www.pelikan.cz/cs/akcni-letenka/G-14159?a_aid=6fef337b,Ostrava - Chicago = 10 990 K,10990.0,CZK,Ostrava,Chicago
+552,https://www.pelikan.cz/cs/akcni-letenka/G-14158?a_aid=6fef337b,Ostrava - New York = 10 990 K,10990.0,CZK,Ostrava,New York
+553,https://www.pelikan.cz/cs/akcni-letenka/G-14206?a_aid=6fef337b,Ostrava - New York = 10 990 K,10990.0,CZK,Ostrava,New York
+554,https://www.pelikan.cz/cs/akcni-letenka/G-14208?a_aid=6fef337b,Ostrava - Los Angeles = 12 990 K,12990.0,CZK,Ostrava,Los Angeles
+555,https://www.ryanair.com/cz/cs/booking/home/PRG/RHO/2023-05-31/2023-06-03/1/0/0/0,Praha - Rhodos = 1 547 K,1547.0,CZK,Praha,Rhodos
+556,https://www.pelikan.cz/cs/akcni-letenka/LCC-1105?a_aid=6fef337b,Praha - Rhodos = kalend termn,,CZK,Praha,Rhodos
+557,https://www.pelikan.cz/cs/akcni-letenka/G-14776?a_aid=6fef337b,Praha - Muscat = 7 290 K,7290.0,CZK,Praha,Muscat
+558,https://www.pelikan.cz/cs/akcni-letenka/G-15035?a_aid=6fef337b,Vde - Muscat = 7 290 K,7290.0,CZK,Vde,Muscat
+559,https://www.ryanair.com/cz/cs/booking/home/PRG/CRL/2023-06-16/2023-06-21/1/0/0/0,Praha - Charleroi = 978 K,978.0,CZK,Praha,Charleroi
+560,https://www.pelikan.cz/cs/akcni-letenka/LCC-426?a_aid=6fef337b,Praha - Charleroi = kalend termn,,CZK,Praha,Charleroi
+561,https://www.pelikan.cz/cs/akcni-letenka/G-15033?a_aid=6fef337b,Praha - Dubaj = 7 990 K,7990.0,CZK,Praha,Dubaj
+562,https://www.pelikan.cz/cs/akcni-letenka/G-14469?a_aid=6fef337b,Praha - Dubaj = 8 990 K (min. 2 osoby),8990.0,CZK,Praha,Dubaj
+563,https://www.pelikan.cz/cs/akcni-letenka/G-14356?a_aid=6fef337b,Praha - Dubaj = 9 290 K,9290.0,CZK,Praha,Dubaj
+564,https://www.pelikan.cz/cs/akcni-letenka/G-14609?a_aid=6fef337b,Praha - Dubaj = 9 990 K,9990.0,CZK,Praha,Dubaj
+565,https://wizzair.com/cs-cz#/booking/select-flight/PRG/NAP/2023-08-10/2023-08-24/1/0/0,Praha - Neapol = 700 K s WDC,700.0,CZK,Praha,Neapol
+566,https://www.pelikan.cz/cs/akcni-letenka/LCC-1467?a_aid=6fef337b,Praha - Neapol = kalend termn,,CZK,Praha,Neapol
+567,https://www.ryanair.com/cz/cs/booking/home/BRQ/BGY/2023-06-12/2023-06-16/1/0/0/0,Brno - Bergamo = 729 K,729.0,CZK,Brno,Bergamo
+568,https://www.pelikan.cz/cs/akcni-letenka/LCC-275?a_aid=6fef337b,Brno - Bergamo = kalend termn,,CZK,Brno,Bergamo
+569,https://www.pelikan.cz/cs/akcni-letenka/G-14808?a_aid=6fef337b,Vde - Johannesburg = 10 790 K,10790.0,CZK,Vde,Johannesburg
+570,https://www.ryanair.com/cz/cs/booking/home/PRG/BOD/2023-05-27/2023-05-31/1/0/0/0,Praha - Bordeaux = 828 K,828.0,CZK,Praha,Bordeaux
+571,https://www.pelikan.cz/cs/akcni-letenka/LCC-949?a_aid=6fef337b,Praha - Bordeaux = kalend termn,,CZK,Praha,Bordeaux
+572,https://www.pelikan.cz/cs/akcni-letenka/G-14935?a_aid=6fef337b,Vde - Palermo = 2 390 K,2390.0,CZK,Vde,Palermo
+573,https://www.pelikan.cz/cs/akcni-letenka/G-14931?a_aid=6fef337b,Vde - Bentky = 1 990 K,1990.0,CZK,Vde,Bentky
+574,https://www.pelikan.cz/cs/akcni-letenka/G-14933?a_aid=6fef337b,Vde - Boloa = 2 390 K,2390.0,CZK,Vde,Boloa
+575,https://www.pelikan.cz/cs/akcni-letenka/G-14083?a_aid=6fef337b,Vde - Neapol = 2 590 K,2590.0,CZK,Vde,Neapol
+576,https://www.pelikan.cz/cs/akcni-letenka/G-14939?a_aid=6fef337b,Vde - m = 2 790 K,2790.0,CZK,Vde,m
+577,https://www.pelikan.cz/cs/akcni-letenka/G-14983?a_aid=6fef337b,Vde - Mykonos = 3 590 K,3590.0,CZK,Vde,Mykonos
+578,https://www.pelikan.cz/cs/akcni-letenka/G-14951?a_aid=6fef337b,Vde - Athny = 2 890 K,2890.0,CZK,Vde,Athny
+579,https://www.pelikan.cz/cs/akcni-letenka/G-14954?a_aid=6fef337b,Vde - Solu = 2 790 K,2790.0,CZK,Vde,Solu
+580,https://www.pelikan.cz/cs/akcni-letenka/G-14937?a_aid=6fef337b,Vde - Zadar = 2 590 K,2590.0,CZK,Vde,Zadar
+581,https://www.pelikan.cz/cs/akcni-letenka/G-15003?a_aid=6fef337b,Vde - Split = 3 790 K,3790.0,CZK,Vde,Split
+582,https://www.pelikan.cz/cs/akcni-letenka/G-14405?a_aid=6fef337b,Vde - Dubrovnk = 3 690 K,3690.0,CZK,Vde,Dubrovnk
+583,https://www.pelikan.cz/cs/akcni-letenka/G-14403?a_aid=6fef337b,Vde - Podgorica = 2 990 K,2990.0,CZK,Vde,Podgorica
+584,https://www.pelikan.cz/cs/akcni-letenka/G-14723?a_aid=6fef337b,Vde - Mallorca = 2 490 K,2490.0,CZK,Vde,Mallorca
+585,https://www.pelikan.cz/cs/akcni-letenka/G-14722?a_aid=6fef337b,Vde - Barcelona = 2 790 K,2790.0,CZK,Vde,Barcelona
+586,https://www.pelikan.cz/cs/akcni-letenka/G-14404?a_aid=6fef337b,Vde - Pa = 3 290 K,3290.0,CZK,Vde,Pa
+587,https://www.pelikan.cz/cs/akcni-letenka/G-14402?a_aid=6fef337b,Vde - Nice = 2 790 K,2790.0,CZK,Vde,Nice
+588,https://wizzair.com/cs-cz#/booking/select-flight/VIE/DBV/2023-07-09/2023-07-19/1/0/0,Vde - Dubrovnk = 31 EUR / 740 K s WDC,740.0,CZK,Vde,Dubrovnk
+589,https://www.pelikan.cz/cs/akcni-letenka/LCC-1462?a_aid=6fef337b,Vde - Dubrovnk = kalend termn,,CZK,Vde,Dubrovnk
+590,https://www.ryanair.com/cz/cs/booking/home/VIE/CFU/2023-05-25/2023-06-01/1/0/0/0,Vde - Korfu = 45 EUR / 1 070 K,1070.0,CZK,Vde,Korfu
+591,https://www.pelikan.cz/cs/akcni-letenka/LCC-577?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+592,https://wizzair.com/#/booking/select-flight/VIE/NCE/2023-06-06/2023-06-14/1/0/0,Vde - Nice = 28 EUR / 680 K s WDC,680.0,CZK,Vde,Nice
+593,https://www.pelikan.cz/cs/akcni-letenka/LCC-219?a_aid=6fef337b,Vde - Nice = kalend termn,,CZK,Vde,Nice
+594,https://www.ryanair.com/cz/cs/booking/home/BTS/AHO/2023-05-21/2023-05-29/1/0/0/0,Bratislava - Alghero = 42 EUR / 1 000 K,1000.0,CZK,Bratislava,Alghero
+595,https://www.pelikan.cz/cs/akcni-letenka/LCC-229?a_aid=6fef337b,Bratislava - Alghero = kalend termn,,CZK,Bratislava,Alghero
+596,https://wizzair.com/#/booking/select-flight/KRK/OSL/2023-07-14/2023-07-17/1/0/0,Krakov - Oslo = 98 PLN / 520 K s WDC,520.0,CZK,Krakov,Oslo
+597,https://www.pelikan.cz/cs/akcni-letenka/LCC-266?a_aid=6fef337b,Krakov - Oslo = kalend termn,,CZK,Krakov,Oslo
+598,https://www.ryanair.com/cz/cs/booking/home/BRQ/STN/2023-05-31/2023-06-08/1/0/0/0,Brno - Londn = 710 K,710.0,CZK,Brno,Londn
+599,https://www.pelikan.cz/cs/akcni-letenka/LCC-439?a_aid=6fef337b,Brno - Londn = kalend termn,,CZK,Brno,Londn
+600,https://www.pelikan.cz/cs/akcni-letenka/G-14899?a_aid=6fef337b,Krakov - Muscat = 6 990 K,6990.0,CZK,Krakov,Muscat
+601,https://www.pelikan.cz/cs/akcni-letenka/G-14897?a_aid=6fef337b,Praha - Muscat = 9 490 K,9490.0,CZK,Praha,Muscat
+602,https://www.pelikan.cz/cs/akcni-letenka/G-14866?a_aid=6fef337b,Krakov - Dubaj = 6 690 K,6690.0,CZK,Krakov,Dubaj
+603,https://www.pelikan.cz/cs/akcni-letenka/G-14865?a_aid=6fef337b,Praha - Dubaj = 7 290 K,7290.0,CZK,Praha,Dubaj
+604,https://www.pelikan.cz/cs/akcni-letenka/G-14924?a_aid=6fef337b,Praha - Dubaj = 7 790 K,7790.0,CZK,Praha,Dubaj
+605,https://www.pelikan.cz/cs/akcni-letenka/G-14871?a_aid=6fef337b,Krakov - Sharm El Sheik = 5 490 K,5490.0,CZK,Krakov,Sharm El Sheik
+606,https://www.pelikan.cz/cs/akcni-letenka/G-14869?a_aid=6fef337b,Praha - Sharm El Sheik = 7 390 K,7390.0,CZK,Praha,Sharm El Sheik
+607,https://www.pelikan.cz/cs/akcni-letenka/G-14882?a_aid=6fef337b,Praha - Addis Abeba = 10 990 K,10990.0,CZK,Praha,Addis Abeba
+608,https://www.pelikan.cz/cs/akcni-letenka/G-14892?a_aid=6fef337b,Budape - Nairobi = 9 490 K,9490.0,CZK,Budape,Nairobi
+609,https://www.pelikan.cz/cs/akcni-letenka/G-14526?a_aid=6fef337b,Vde - Nairobi = 11 990 K,11990.0,CZK,Vde,Nairobi
+610,https://www.pelikan.cz/cs/akcni-letenka/G-14884?a_aid=6fef337b,Praha - Nairobi = 12 990 K,12990.0,CZK,Praha,Nairobi
+611,https://www.pelikan.cz/cs/akcni-letenka/G-14888?a_aid=6fef337b,Budape - Zanzibar = 10 990 K,10990.0,CZK,Budape,Zanzibar
+612,https://www.pelikan.cz/cs/akcni-letenka/G-14451?a_aid=6fef337b,Vde - Zanzibar = 12 990 K,12990.0,CZK,Vde,Zanzibar
+613,https://www.pelikan.cz/cs/akcni-letenka/G-14868?a_aid=6fef337b,Praha - Zanzibar = 12 990 K,12990.0,CZK,Praha,Zanzibar
+614,https://www.pelikan.cz/cs/akcni-letenka/G-14822?a_aid=6fef337b,Vde - Entebbe = 12 490 K,12490.0,CZK,Vde,Entebbe
+615,https://www.pelikan.cz/cs/akcni-letenka/G-14908?a_aid=6fef337b,Praha - Entebbe = 12 490 K,12490.0,CZK,Praha,Entebbe
+616,https://www.pelikan.cz/cs/akcni-letenka/G-14881?a_aid=6fef337b,Praha - Kapsk Msto = 12 990 K,12990.0,CZK,Praha,Kapsk Msto
+617,https://www.pelikan.cz/cs/akcni-letenka/G-14926?a_aid=6fef337b,Praha - Johannesburg = 12 990 K,12990.0,CZK,Praha,Johannesburg
+618,https://www.pelikan.cz/cs/akcni-letenka/G-14896?a_aid=6fef337b,Budape - Mah = 12 990 K,12990.0,CZK,Budape,Mah
+619,https://www.pelikan.cz/cs/akcni-letenka/G-14880?a_aid=6fef337b,Praha - Mah = 15 490 K,15490.0,CZK,Praha,Mah
+620,https://wizzair.com/#/booking/select-flight/VIE/SPU/2023-08-02/2023-08-11/1/0/0,Vde - Split = 31 EUR / 750 K s WDC,750.0,CZK,Vde,Split
+621,https://www.pelikan.cz/cs/akcni-letenka/LCC-1463?a_aid=6fef337b,Vde - Split = kalend termn,,CZK,Vde,Split
+622,https://www.ryanair.com/cz/cs/booking/home/BTS/TPS/2023-05-19/2023-05-25/1/0/0/0,Bratislava - Trapani = 40 EUR / 960 K,960.0,CZK,Bratislava,Trapani
+623,https://www.pelikan.cz/cs/akcni-letenka/LCC-1537?a_aid=6fef337b,Bratislava - Trapani = kalend termn,,CZK,Bratislava,Trapani
+624,https://www.ryanair.com/cz/cs/booking/home/VIE/PUY/2023-06-05/2023-06-12/1/0/0/0,Vde - Pula = 30 EUR / 720 K,720.0,CZK,Vde,Pula
+625,https://www.pelikan.cz/cs/akcni-letenka/LCC-1344?a_aid=6fef337b,Vde - Pula = kalend termn,,CZK,Vde,Pula
+626,https://www.ryanair.com/cz/cs/booking/home/PRG/TSF/2023-06-15/2023-06-21/1/0/0/0,Praha - Treviso = 858 K,858.0,CZK,Praha,Treviso
+627,https://www.pelikan.cz/cs/akcni-letenka/LCC-380?a_aid=6fef337b,Praha - Treviso = kalend termn,,CZK,Praha,Treviso
+628,https://wizzair.com/#/booking/select-flight/KTW/KUT/2023-05-27/2023-06-03/1/0/0,Katovice - Kutaisi = 140 PLN / 740 K s WDC,740.0,CZK,Katovice,Kutaisi
+629,https://www.pelikan.cz/cs/akcni-letenka/LCC-287?a_aid=6fef337b,Katovice - Kutaisi = kalend termn,,CZK,Katovice,Kutaisi
+630,https://wizzair.com/#/booking/select-flight/VIE/KFZ/2023-06-13/2023-06-20/1/0/0,Vde - Kuks = 20 EUR / 480 K s WDC,480.0,CZK,Vde,Kuks
+631,https://www.pelikan.cz/cs/akcni-letenka/LCC-1538?a_aid=6fef337b,Vde - Kuks = kalend termn,,CZK,Vde,Kuks
+632,https://wizzair.com/cs-cz/#/booking/select-flight/KTW/TLV/2023-05-26/2023-06-03/1/0/0,Katovice - Tel Aviv = 170 PLN / 900 K s WDC,900.0,CZK,Katovice,Tel Aviv
+633,https://www.pelikan.cz/cs/akcni-letenka/LCC-257?a_aid=6fef337b,Katovice - Tel Aviv = kalend termn,,CZK,Katovice,Tel Aviv
+634,https://wizzair.com/cs-cz#/booking/select-flight/PRG/LCA/2023-06-03/2023-06-13/1/0/0/,Praha - Larnaca = 1 420 K s WDC,1420.0,CZK,Praha,Larnaca
+635,https://www.pelikan.cz/cs/akcni-letenka/LCC-1309?a_aid=6fef337b,Praha - Larnaca = kalend termn,,CZK,Praha,Larnaca
+636,https://www.pelikan.cz/cs/akcni-letenka/G-14882?a_aid=6fef337b,Praha - Addis Abeba = 10 990 K,10990.0,CZK,Praha,Addis Abeba
+637,https://www.pelikan.cz/cs/akcni-letenka/G-14892?a_aid=6fef337b,Budape - Nairobi = 9 490 K,9490.0,CZK,Budape,Nairobi
+638,https://www.pelikan.cz/cs/akcni-letenka/G-14526?a_aid=6fef337b,Vde - Nairobi = 11 990 K,11990.0,CZK,Vde,Nairobi
+639,https://www.pelikan.cz/cs/akcni-letenka/G-14884?a_aid=6fef337b,Praha - Nairobi = 12 990 K,12990.0,CZK,Praha,Nairobi
+640,https://www.pelikan.cz/cs/akcni-letenka/G-14888?a_aid=6fef337b,Budape - Zanzibar = 10 990 K,10990.0,CZK,Budape,Zanzibar
+641,https://www.pelikan.cz/cs/akcni-letenka/G-14451?a_aid=6fef337b,Vde - Zanzibar = 12 990 K,12990.0,CZK,Vde,Zanzibar
+642,https://www.pelikan.cz/cs/akcni-letenka/G-14868?a_aid=6fef337b,Praha - Zanzibar = 12 990 K,12990.0,CZK,Praha,Zanzibar
+643,https://www.pelikan.cz/cs/akcni-letenka/G-14822?a_aid=6fef337b,Vde - Entebbe = 12 490 K,12490.0,CZK,Vde,Entebbe
+644,https://www.pelikan.cz/cs/akcni-letenka/G-14908?a_aid=6fef337b,Praha - Entebbe = 12 490 K,12490.0,CZK,Praha,Entebbe
+645,https://www.pelikan.cz/cs/akcni-letenka/G-14879?a_aid=6fef337b,Praha - Mauricius = 11 990 K,11990.0,CZK,Praha,Mauricius
+646,https://www.ryanair.com/cz/cs/booking/home/VIE/TZL/2023-05-28/2023-05-30/1/0/0/0,Vde - Tuzla = 30 EUR / 710 K,710.0,CZK,Vde,Tuzla
+647,https://www.pelikan.cz/cs/akcni-letenka/LCC-1616?a_aid=6fef337b,Vde - Tuzla = kalend termn,,CZK,Vde,Tuzla
+648,https://wizzair.com/#/booking/select-flight/VIE/AMM/2023-06-12/2023-06-19/1/0/0,Vde - Ammn = 33 EUR / 790 K s WDC,790.0,CZK,Vde,Ammn
+649,https://www.pelikan.cz/cs/akcni-letenka/LCC-1499?a_aid=6fef337b,Vde - Ammn = kalend termn,,CZK,Vde,Ammn
+650,https://www.pelikan.cz/cs/akcni-letenka/G-14866?a_aid=6fef337b,Krakov - Dubaj = 6 690 K,6690.0,CZK,Krakov,Dubaj
+651,https://www.pelikan.cz/cs/akcni-letenka/G-14865?a_aid=6fef337b,Praha - Dubaj = 7 290 K,7290.0,CZK,Praha,Dubaj
+652,https://www.pelikan.cz/cs/akcni-letenka/G-14924?a_aid=6fef337b,Praha - Dubaj = 7 790 K,7790.0,CZK,Praha,Dubaj
+653,https://www.pelikan.cz/cs/akcni-letenka/G-14899?a_aid=6fef337b,Krakov - Muscat = 6 990 K,6990.0,CZK,Krakov,Muscat
+654,https://www.pelikan.cz/cs/akcni-letenka/G-14897?a_aid=6fef337b,Praha - Muscat = 9 490 K,9490.0,CZK,Praha,Muscat
+655,https://www.pelikan.cz/cs/akcni-letenka/G-14871?a_aid=6fef337b,Krakov - Sharm El Sheik = 5 490 K,5490.0,CZK,Krakov,Sharm El Sheik
+656,https://www.pelikan.cz/cs/akcni-letenka/G-14869?a_aid=6fef337b,Praha - Sharm El Sheik = 7 390 K,7390.0,CZK,Praha,Sharm El Sheik
+657,https://wizzair.com/#/booking/select-flight/PRG/FCO/2023-07-05/2023-07-13/1/0/0,Praha - m = 700 K s WDC,700.0,CZK,Praha,m
+658,https://www.pelikan.cz/cs/akcni-letenka/LCC-1453?a_aid=6fef337b,Praha - m = kalend termn,,CZK,Praha,m
+659,https://www.ryanair.com/cz/cs/booking/home/BTS/PMI/2023-05-20/2023-05-24/1/0/0/0,Bratislava - Mallorca = 45 EUR / 1 070 K,1070.0,CZK,Bratislava,Mallorca
+660,https://www.pelikan.cz/cs/akcni-letenka/LCC-252?a_aid=6fef337b,Bratislava - Mallorca = kalend termn,,CZK,Bratislava,Mallorca
+661,https://wizzair.com/#/booking/select-flight/NUE/SBZ/2023-06-15/2023-06-22/1/0/0,Norimberk - Sibiu = 25 EUR / 590 K s WDC,590.0,CZK,Norimberk,Sibiu
+662,https://www.ryanair.com/cz/cs/booking/home/PRG/BGY/2023-06-15/2023-06-21/1/0/0/0,Praha - Bergamo = 858 K,858.0,CZK,Praha,Bergamo
+663,https://www.pelikan.cz/cs/akcni-letenka/LCC-443?a_aid=6fef337b,Praha - Bergamo = kalend termn,,CZK,Praha,Bergamo
+664,https://www.pelikan.cz/cs/akcni-letenka/G-14881?a_aid=6fef337b,Praha - Kapsk Msto = 12 990 K,12990.0,CZK,Praha,Kapsk Msto
+665,https://www.pelikan.cz/cs/akcni-letenka/G-14926?a_aid=6fef337b,Praha - Johannesburg = 12 990 K,12990.0,CZK,Praha,Johannesburg
+666,https://wizzair.com/cs-cz#/booking/select-flight/PRG/VAR/2023-06-12/2023-06-16/1/0/0,Praha - Varna = 900 K s WDC,900.0,CZK,Praha,Varna
+667,https://www.pelikan.cz/cs/akcni-letenka/LCC-1297?a_aid=6fef337b,Praha - Varna = kalend termn,,CZK,Praha,Varna
+668,https://www.pelikan.cz/cs/akcni-letenka/G-14879?a_aid=6fef337b,Praha - Mauricius = 11 990 K,11990.0,CZK,Praha,Mauricius
+669,https://www.pelikan.cz/cs/akcni-letenka/G-14945?a_aid=6fef337b,Krakov - Mauricius = 11 990 K,11990.0,CZK,Krakov,Mauricius
+670,https://www.pelikan.cz/cs/akcni-letenka/G-14896?a_aid=6fef337b,Budape - Mah = 12 990 K,12990.0,CZK,Budape,Mah
+671,https://www.pelikan.cz/cs/akcni-letenka/G-14880?a_aid=6fef337b,Praha - Mah = 15 490 K,15490.0,CZK,Praha,Mah
+672,https://www.pelikan.cz/cs/akcni-letenka/G-14740?a_aid=6fef337b,Praha - Malta = 2 990 K (min. 2 osoby),2990.0,CZK,Praha,Malta
+673,https://www.pelikan.cz/cs/akcni-letenka/G-14396?a_aid=6fef337b,Praha - Malta = 3 290 K,3290.0,CZK,Praha,Malta
+674,https://www.pelikan.cz/cs/akcni-letenka/G-14133?a_aid=6fef337b,Praha - Malta = 5 590 K,5590.0,CZK,Praha,Malta
+675,https://wizzair.com/cs-cz#/booking/select-flight/VIE/TGD/2023-06-11/2023-06-18/1/0/0,Vde - Podgorica = 33 EUR / 780 K s WDC,780.0,CZK,Vde,Podgorica
+676,https://www.pelikan.cz/cs/akcni-letenka/LCC-1181?a_aid=6fef337b,Vde - Podgorica = kalend termn,,CZK,Vde,Podgorica
+677,https://www.ryanair.com/cz/cs/booking/home/PRG/GOT/2023-05-24/2023-05-31/1/0/0/0,Praha - Gteborg = 707 K,707.0,CZK,Praha,Gteborg
+678,https://www.pelikan.cz/cs/akcni-letenka/LCC-421?a_aid=6fef337b,Praha - Gteborg = kalend termn,,CZK,Praha,Gteborg
+679,https://www.pelikan.cz/cs/akcni-letenka/G-14560?a_aid=6fef337b,Mnichov - Roatn = 11 990 K,11990.0,CZK,Mnichov,Roatn
+680,https://www.pelikan.cz/cs/akcni-letenka/G-14910?a_aid=6fef337b,Praha - Cancun = 11 290 K (min. 2 osoby),11290.0,CZK,Praha,Cancun
+681,https://www.pelikan.cz/cs/akcni-letenka/G-14873?a_aid=6fef337b,Praha - Cancun = 11 790 K,11790.0,CZK,Praha,Cancun
+682,https://www.pelikan.cz/cs/akcni-letenka/G-14875?a_aid=6fef337b,Praha - Cancun = 11 990 K,11990.0,CZK,Praha,Cancun
+683,https://www.pelikan.cz/cs/akcni-letenka/G-14890?a_aid=6fef337b,Budape - Mexico City = 12 590 K,12590.0,CZK,Budape,Mexico City
+684,https://www.pelikan.cz/cs/akcni-letenka/G-14898?a_aid=6fef337b,Praha - Mexico City / Cancun - Praha = 11 790 K,11790.0,CZK,Praha,Mexico City / Cancun
+685,https://www.ryanair.com/cz/cs/booking/home/PRG/CPH/2023-06-14/2023-06-20/1/0/0/0,Praha - Koda = 978 K,978.0,CZK,Praha,Koda
+686,https://www.pelikan.cz/cs/akcni-letenka/LCC-391?a_aid=6fef337b,Praha - Koda = kalend termn,,CZK,Praha,Koda
+687,https://wizzair.com/cs-cz#/booking/select-flight/VIE/BIO/2023-06-13/2023-06-20/1/0/0,Vde - Bilbao = 40 EUR / 940 K s WDC,940.0,CZK,Vde,Bilbao
+688,https://www.pelikan.cz/cs/akcni-letenka/LCC-1656?a_aid=6fef337b,Vde - Bilbao = kalend termn,,CZK,Vde,Bilbao
+689,https://www.pelikan.cz/cs/akcni-letenka/G-14559?a_aid=6fef337b,Mnichov - Belize City = 11 990 K,11990.0,CZK,Mnichov,Belize City
+690,https://www.ryanair.com/cz/cs/booking/home/NUE/ZAD/2023-07-02/2023-07-11/1/0/0/0,Norimberk- Zadar = 39 EUR / 920 K,920.0,CZK,Norimberk,Zadar
+691,https://www.pelikan.cz/cs/akcni-letenka/LCC-952?a_aid=6fef337b,Norimberk - Zadar = kalend termn,,CZK,Norimberk,Zadar
+692,https://www.pelikan.cz/cs/akcni-letenka/G-14895?a_aid=6fef337b,Praha - Sao Paulo = 11 990 K,11990.0,CZK,Praha,Sao Paulo
+693,https://www.pelikan.cz/cs/akcni-letenka/G-14894?a_aid=6fef337b,Budape - Sao Paulo = 10 990 K,10990.0,CZK,Budape,Sao Paulo
+694,https://wizzair.com/#/booking/select-flight/PRG/OTP/2023-07-24/2023-07-31/1/0/0,Praha - Bukure = 940 K s WDC,940.0,CZK,Praha,Bukure
+695,https://www.pelikan.cz/cs/akcni-letenka/LCC-1168?a_aid=6fef337b,Praha - Bukure = kalend termn,,CZK,Praha,Bukure
+696,https://www.pelikan.cz/cs/akcni-letenka/G-14885?a_aid=6fef337b,Praha - Los Angeles = 10 490 K,10490.0,CZK,Praha,Los Angeles
+697,https://www.pelikan.cz/cs/akcni-letenka/G-14877?a_aid=6fef337b,Praha - Miami = 11 990 K,11990.0,CZK,Praha,Miami
+698,https://www.ryanair.com/cz/cs/booking/home/BTS/KUN/2023-06-07/2023-06-14/1/0/0/0,Bratislava - Kaunas = 26 EUR / 620 K,620.0,CZK,Bratislava,Kaunas
+699,https://www.pelikan.cz/cs/akcni-letenka/LCC-1629?a_aid=6fef337b,Bratislava - Kaunas = kalend termn,,CZK,Bratislava,Kaunas
+700,"https://www.pelikan.cz/cs/letenky/T:1,P:1000E_0_0,CDF:CPRG,CDT:CDEL,R:1,DD:2024_2_13,DR:2024_2_27/?a_aid=6fef337b",Praha - Dill = 9 061 K,9061.0,CZK,Praha,Dill
+701,"https://www.pelikan.cz/cs/letenky/T:1,P:1000E_0_0,CDF:CBUD,CDT:CDEL,R:1,DD:2024_2_13,DR:2024_2_27/?a_aid=6fef337b",Budape - Dill = 8 580 K,8580.0,CZK,Budape,Dill
+702,https://www.pelikan.cz/cs/akcni-letenka/G-14893?a_aid=6fef337b,Praha - Bombaj = 10 490 K,10490.0,CZK,Praha,Bombaj
+703,https://www.pelikan.cz/cs/akcni-letenka/G-14886?a_aid=6fef337b,Budape - Bombaj = 9 490 K,9490.0,CZK,Budape,Bombaj
+704,https://www.ryanair.com/cz/cs/booking/home/PRG/PSA/2023-06-10/2023-06-17/1/0/0/0,Praha - Pisa = 709 K,709.0,CZK,Praha,Pisa
+705,https://www.pelikan.cz/cs/akcni-letenka/LCC-441?a_aid=6fef337b,Praha - Pisa = kalend termn,,CZK,Praha,Pisa
+706,https://www.ryanair.com/cz/cs/booking/home/BTS/TPS/2023-05-11/2023-05-18/1/0/0/0,Bratislava - Trapani = 40 EUR / 950 K,950.0,CZK,Bratislava,Trapani
+707,https://www.pelikan.cz/cs/akcni-letenka/LCC-1537?a_aid=6fef337b,Bratislava - Trapani = kalend termn,,CZK,Bratislava,Trapani
+708,https://www.pelikan.cz/cs/akcni-letenka/G-14602?a_aid=6fef337b,Mnichov - Guatemala City = 10 990 K,10990.0,CZK,Mnichov,Guatemala City
+709,https://wizzair.com/cs-cz#/booking/select-flight/PRG/MXP/2023-06-15/2023-06-20/1/0/0,Praha - Milno = 480 K s WDC,480.0,CZK,Praha,Milno
+710,https://www.pelikan.cz/cs/akcni-letenka/LCC-1528?a_aid=6fef337b,Praha - Milno = kalend termn,,CZK,Praha,Milno
+711,https://www.pelikan.cz/cs/akcni-letenka/G-14728?a_aid=6fef337b,Praha - Bali = 16 790 K,16790.0,CZK,Praha,Bali
+712,https://www.pelikan.cz/cs/akcni-letenka/G-14738?a_aid=6fef337b,Praha - Bali = 19 490 K,19490.0,CZK,Praha,Bali
+713,https://www.pelikan.cz/cs/akcni-letenka/G-14731?a_aid=6fef337b,Praha - Tokio = 14 990 K,14990.0,CZK,Praha,Tokio
+714,https://www.pelikan.cz/cs/akcni-letenka/G-14730?a_aid=6fef337b,Praha - Manila = 14 590 K,14590.0,CZK,Praha,Manila
+715,https://www.pelikan.cz/cs/akcni-letenka/G-14729?a_aid=6fef337b,Praha - Manila = 14 990 K,14990.0,CZK,Praha,Manila
+716,https://www.pelikan.cz/cs/akcni-letenka/G-14734?a_aid=6fef337b,Praha - Bangkok = 14 990 K,14990.0,CZK,Praha,Bangkok
+717,https://www.pelikan.cz/cs/akcni-letenka/G-14737?a_aid=6fef337b,Praha - Kuala Lumpur = 14 790 K,14790.0,CZK,Praha,Kuala Lumpur
+718,https://www.ryanair.com/cz/cs/booking/home/PRG/KRK/2023-05-17/2023-05-18/1/0/0/0,Praha - Krakov = 730 K,730.0,CZK,Praha,Krakov
+719,https://www.pelikan.cz/cs/akcni-letenka/LCC-436?a_aid=6fef337b,Praha - Krakov = kalend termn,,CZK,Praha,Krakov
+720,https://www.pelikan.cz/cs/akcni-letenka/G-14857?a_aid=6fef337b,Mnichov - San Jose = 12 990 K,12990.0,CZK,Mnichov,San Jose
+721,https://www.pelikan.cz/cs/akcni-letenka/G-14863?a_aid=6fef337b,Drany - New York = 9 290 K,9290.0,CZK,Drany,New York
+722,https://wizzair.com/cs-cz#/booking/select-flight/VIE/DBV/2023-07-19/2023-07-26/1/0/0,Vde - Dubrovnk = 25 EUR / 590 K s WDC,590.0,CZK,Vde,Dubrovnk
+723,https://www.pelikan.cz/cs/akcni-letenka/LCC-1462?a_aid=6fef337b,Vde - Dubrovnk = kalend termn,,CZK,Vde,Dubrovnk
+724,https://www.pelikan.cz/cs/akcni-letenka/G-14858?a_aid=6fef337b,Vde - Male = 12 990 K,12990.0,CZK,Vde,Male
+725,https://www.pelikan.cz/cs/akcni-letenka/G-14725?a_aid=6fef337b,Vde - Bangkok = 13 790 K,13790.0,CZK,Vde,Bangkok
+726,https://www.pelikan.cz/cs/akcni-letenka/G-14726?a_aid=6fef337b,Vde - Mah = 16 790 K,16790.0,CZK,Vde,Mah
+727,https://www.ryanair.com/cz/cs/booking/home/NUE/GRO/2023-06-20/2023-06-27/1/0/0/0,Norimberk - Girona = 40 EUR / 940 K,940.0,CZK,Norimberk,Girona
+728,https://www.pelikan.cz/cs/akcni-letenka/LCC-1572?a_aid=6fef337b,Norimberk - Girona = kalend termn,,CZK,Norimberk,Girona
+729,https://www.pelikan.cz/cs/akcni-letenka/G-14352?a_aid=6fef337b,Mnichov - Anchorage = 13 790 K,13790.0,CZK,Mnichov,Anchorage
+730,https://www.pelikan.cz/cs/akcni-letenka/G-14563?a_aid=6fef337b,Frankfurt - Anchorage = 13 790 K,13790.0,CZK,Frankfurt,Anchorage
+731,https://www.pelikan.cz/cs/akcni-letenka/G-14564?a_aid=6fef337b,Drany - Anchorage = 14 490 K,14490.0,CZK,Drany,Anchorage
+732,https://www.ryanair.com/cz/cs/booking/home/PRG/RMI/2023-05-10/2023-05-17/1/0/0/0,Praha - Rimini = 858 K,858.0,CZK,Praha,Rimini
+733,https://www.pelikan.cz/cs/akcni-letenka/LCC-1627?a_aid=6fef337b,Praha - Rimini = kalend termn,,CZK,Praha,Rimini
+734,https://www.ryanair.com/cz/cs/booking/home/BTS/MAN/2023-06-16/2023-06-19/1/0/0/0,Bratislava - Manchester = 32 EUR / 760 K,760.0,CZK,Bratislava,Manchester
+735,https://www.pelikan.cz/cs/akcni-letenka/LCC-210?a_aid=6fef337b,Bratislava - Manchester = kalend termn,,CZK,Bratislava,Manchester
+736,https://www.pelikan.cz/cs/akcni-letenka/G-14846?a_aid=6fef337b,Praha - Mauricius = 14 990 K,14990.0,CZK,Praha,Mauricius
+737,https://www.ryanair.com/cz/cs/booking/home/NUE/DUB/2023-05-09/2023-05-16/1/0/0/0,Norimberk - Dublin = 35 EUR / 830 K,830.0,CZK,Norimberk,Dublin
+738,https://www.pelikan.cz/cs/akcni-letenka/LCC-1586?a_aid=6fef337b,Norimberk - Dublin = kalend termn,,CZK,Norimberk,Dublin
+739,https://www.ryanair.com/cz/cs/booking/home/PRG/PSA/2023-05-17/2023-05-24/1/0/0/0,Praha - Pisa = 919 K,919.0,CZK,Praha,Pisa
+740,https://www.pelikan.cz/cs/akcni-letenka/LCC-441?a_aid=6fef337b,Praha - Pisa = kalend termn,,CZK,Praha,Pisa
+741,https://wizzair.com/#/booking/select-flight/VIE/OHD/2023-06-21/2023-06-26/1/0/0,Vde - Ochrid = 25 EUR / 590 K s WDC,590.0,CZK,Vde,Ochrid
+742,https://www.pelikan.cz/cs/akcni-letenka/LCC-177?a_aid=6fef337b,Vde - Ochrid = kalend termn,,CZK,Vde,Ochrid
+743,https://www.pelikan.cz/cs/akcni-letenka/G-14464?a_aid=6fef337b,Berln - Seattle = 9 990 K,9990.0,CZK,Berln,Seattle
+744,https://wizzair.com/cs-cz#/booking/select-flight/PRG/VCE/2023-07-14/2023-07-21/1/0/0,Praha - Bentky = 840 K s WDC,840.0,CZK,Praha,Bentky
+745,https://www.pelikan.cz/cs/akcni-letenka/LCC-1508?a_aid=6fef337b,Praha - Bentky = kalend termn,,CZK,Praha,Bentky
+746,https://www.pelikan.cz/cs/akcni-letenka/G-14770?a_aid=6fef337b,Mnichov - Bangkok - Vde = 10 990 K,10990.0,CZK,Mnichov,Bangkok
+747,https://www.ryanair.com/cz/cs/booking/home/VIE/CFU/2023-05-09/2023-05-18/1/0/0/0,Vde - Korfu = 41 EUR / 970 K,970.0,CZK,Vde,Korfu
+748,https://www.pelikan.cz/cs/akcni-letenka/LCC-577?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+749,https://www.ryanair.com/cz/cs/booking/home/OSR/STN/2023-06-14/2023-06-18/1/0/0/0,Ostrava - Londn = 888 K,888.0,CZK,Ostrava,Londn
+750,https://www.pelikan.cz/cs/akcni-letenka/LCC-1138?a_aid=6fef337b,Ostrava - Londn = kalend termn,,CZK,Ostrava,Londn
+751,https://www.pelikan.cz/cs/akcni-letenka/G-14720?a_aid=6fef337b,Mnichov - Cancun = 12 590 K,12590.0,CZK,Mnichov,Cancun
+752,https://www.ryanair.com/cz/cs/booking/home/PRG/TRN/2023-05-31/2023-06-07/1/0/0/0,Praha - Turn = 798 K,798.0,CZK,Praha,Turn
+753,https://www.pelikan.cz/cs/akcni-letenka/LCC-1569?a_aid=6fef337b,Praha - Turn = kalend termn,,CZK,Praha,Turn
+754,https://www.ryanair.com/cz/cs/booking/home/PRG/BOD/2023-05-13/2023-05-24/1/0/0/0,Praha - Bordeaux = 892 K,892.0,CZK,Praha,Bordeaux
+755,https://www.pelikan.cz/cs/akcni-letenka/LCC-949?a_aid=6fef337b,Praha - Bordeaux = kalend termn,,CZK,Praha,Bordeaux
+756,https://www.pelikan.cz/cs/akcni-letenka/G-14688?a_aid=6fef337b,Praha - Sao Miguel = 5 490 K,5490.0,CZK,Praha,Sao Miguel
+757,https://www.pelikan.cz/cs/akcni-letenka/G-14779?a_aid=6fef337b,Praha - Funchal = 3 890 K,3890.0,CZK,Praha,Funchal
+758,https://www.pelikan.cz/cs/akcni-letenka/G-14599?a_aid=6fef337b,Praha - Funchal = 3 990 K,3990.0,CZK,Praha,Funchal
+759,https://www.pelikan.cz/cs/akcni-letenka/G-14398?a_aid=6fef337b,Vde - Funchal = 4 490 K,4490.0,CZK,Vde,Funchal
+760,https://www.pelikan.cz/cs/akcni-letenka/G-14608?a_aid=6fef337b,Vde - Mah = 13 990 K,13990.0,CZK,Vde,Mah
+761,https://wizzair.com/cs-cz#/booking/select-flight/PRG/NAP/2023-07-15/2023-07-20/1/0/0,Praha - Neapol = 940 K s WDC,940.0,CZK,Praha,Neapol
+762,https://www.pelikan.cz/cs/akcni-letenka/LCC-1467?a_aid=6fef337b,Praha - Neapol = kalend termn,,CZK,Praha,Neapol
+763,https://www.pelikan.cz/cs/akcni-letenka/G-14659?a_aid=6fef337b,Praha - Mauricius = 13 790 K,13790.0,CZK,Praha,Mauricius
+764,https://www.pelikan.cz/cs/akcni-letenka/G-14452?a_aid=6fef337b,Praha - Mauricius = 13 990 K,13990.0,CZK,Praha,Mauricius
+765,https://www.pelikan.cz/cs/akcni-letenka/G-14813?a_aid=6fef337b,Praha - Tunis = 4 990 K,4990.0,CZK,Praha,Tunis
+766,https://www.ryanair.com/cz/cs/booking/home/VIE/SUF/2023-05-29/2023-06-08/1/0/0/0,Vde - Lamezia Terme = 38 EUR / 900 K,900.0,CZK,Vde,Lamezia Terme
+767,https://www.pelikan.cz/cs/akcni-letenka/LCC-1088?a_aid=6fef337b,Vde - Lamezia Terme = kalend termn,,CZK,Vde,Lamezia Terme
+768,https://www.pelikan.cz/cs/akcni-letenka/G-14822?a_aid=6fef337b,Vde - Entebbe = 12 490 K,12490.0,CZK,Vde,Entebbe
+769,https://www.pelikan.cz/cs/akcni-letenka/G-14526?a_aid=6fef337b,Vde - Nairobi = 11 990 K,11990.0,CZK,Vde,Nairobi
+770,https://www.pelikan.cz/cs/akcni-letenka/G-14469?a_aid=6fef337b,Praha - Dubaj = 8 990 K (min. 2 osoby),8990.0,CZK,Praha,Dubaj
+771,https://www.pelikan.cz/cs/akcni-letenka/G-14356?a_aid=6fef337b,Praha - Dubaj = 9 390 K,9390.0,CZK,Praha,Dubaj
+772,https://www.pelikan.cz/cs/akcni-letenka/G-14470?a_aid=6fef337b,Praha - Dubaj = 9 790 K (min. 2 osoby),9790.0,CZK,Praha,Dubaj
+773,https://www.pelikan.cz/cs/akcni-letenka/G-14088?a_aid=6fef337b,Praha - Dubaj = 9 990 K,9990.0,CZK,Praha,Dubaj
+774,https://www.ryanair.com/cz/cs/booking/home/VIE/CFU/2023-05-11/2023-05-25/1/0/0/0,Vde - Korfu = 36 EUR / 850 K,850.0,CZK,Vde,Korfu
+775,https://www.pelikan.cz/cs/akcni-letenka/LCC-577?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+776,https://wizzair.com/#/booking/select-flight/VIE/SPU/2023-07-12/2023-07-21/1/0/0,Vde - Split = 31 EUR / 760 K s WDC,760.0,CZK,Vde,Split
+777,https://www.pelikan.cz/cs/akcni-letenka/LCC-1463?a_aid=6fef337b,Vde - Split = kalend termn,,CZK,Vde,Split
+778,https://www.ryanair.com/cz/cs/booking/home/VIE/IBZ/2023-05-09/2023-05-17/1/0/0/0,Vde - Ibiza = 40 EUR / 950 K,950.0,CZK,Vde,Ibiza
+779,https://www.pelikan.cz/cs/akcni-letenka/LCC-212?a_aid=6fef337b,Vde - Ibiza = kalend termn,,CZK,Vde,Ibiza
+780,https://www.pelikan.cz/cs/akcni-letenka/G-14797?a_aid=6fef337b,Praha - Dakar = 9 990 K,9990.0,CZK,Praha,Dakar
+781,https://www.pelikan.cz/cs/akcni-letenka/G-14526?a_aid=6fef337b,Vde - Nairobi = 11 990 K,11990.0,CZK,Vde,Nairobi
+782,https://www.ryanair.com/cz/cs/booking/home/PRG/CPH/2023-05-31/2023-06-07/1/0/0/0,Praha - Koda = 978 K,978.0,CZK,Praha,Koda
+783,https://www.pelikan.cz/cs/akcni-letenka/LCC-391?a_aid=6fef337b,Praha - Koda = kalend termn,,CZK,Praha,Koda
+784,https://www.pelikan.cz/cs/akcni-letenka/G-14776?a_aid=6fef337b,Praha - Muscat = 5 990 K,5990.0,CZK,Praha,Muscat
+785,https://www.pelikan.cz/cs/akcni-letenka/G-14774?a_aid=6fef337b,Vde - Lima = 15 990 K,15990.0,CZK,Vde,Lima
+786,https://www.pelikan.cz/cs/akcni-letenka/G-14806?a_aid=6fef337b,Praha - Lima = 18 490 K,18490.0,CZK,Praha,Lima
+787,https://www.pelikan.cz/cs/akcni-letenka/G-14807?a_aid=6fef337b,Mnichov - Lima = 16 790 K,16790.0,CZK,Mnichov,Lima
+788,https://www.pelikan.cz/cs/akcni-letenka/G-14782?a_aid=6fef337b,Praha - Chicago = 9 990 K,9990.0,CZK,Praha,Chicago
+789,https://www.pelikan.cz/cs/akcni-letenka/G-14780?a_aid=6fef337b,Praha - New York = 9 990 K,9990.0,CZK,Praha,New York
+790,https://www.pelikan.cz/cs/akcni-letenka/G-14784?a_aid=6fef337b,Praha - Miami = 12 490 K,12490.0,CZK,Praha,Miami
+791,https://www.pelikan.cz/cs/akcni-letenka/G-14783?a_aid=6fef337b,Praha - Toronto = 9 990 K,9990.0,CZK,Praha,Toronto
+792,https://www.ryanair.com/cz/cs/booking/home/PRG/BUD/2023-05-16/2023-05-18/1/0/0/0,Praha - Budape = 738 K,738.0,CZK,Praha,Budape
+793,https://www.pelikan.cz/cs/akcni-letenka/LCC-408?a_aid=6fef337b,Praha - Budape = kalend termn,,CZK,Praha,Budape
+794,https://www.pelikan.cz/cs/akcni-letenka/G-14818?a_aid=6fef337b,Vde - Guam = 18 790 K,18790.0,CZK,Vde,Guam
+795,https://www.pelikan.cz/cs/akcni-letenka/G-14467?a_aid=6fef337b,Vde - Guam = 20 790 K,20790.0,CZK,Vde,Guam
+796,https://www.pelikan.cz/cs/akcni-letenka/G-14808?a_aid=6fef337b,Vde - Johannesburg = 10 790 K,10790.0,CZK,Vde,Johannesburg
+797,"https://www.pelikan.cz/cs/letenky/T:1,P:1000E_0_0,CDF:CVIE,CDT:AICN,R:1,DD:2023_5_28,DR:2023_6_10/?a_aid=6fef337b",Vde - Soul = 11 840 K,11840.0,CZK,Vde,Soul
+798,https://www.pelikan.cz/cs/akcni-letenka/G-14809?a_aid=6fef337b,Vde - Soul = 11 590 K,11590.0,CZK,Vde,Soul
+799,https://wizzair.com/#/booking/select-flight/PRG/LTN/2023-06-07/2023-06-11/1/0/0,Praha - Londn = 900 K s WDC,900.0,CZK,Praha,Londn
+800,https://www.pelikan.cz/cs/akcni-letenka/LCC-383?a_aid=6fef337b,Praha - Londn = kalend termn,,CZK,Praha,Londn
+801,https://www.pelikan.cz/cs/akcni-letenka/G-14791?a_aid=6fef337b,Mnichov - Rio de Janeiro = 12 990 K,12990.0,CZK,Mnichov,Rio de Janeiro
+802,https://www.pelikan.cz/cs/akcni-letenka/G-14792?a_aid=6fef337b,Berln - Rio de Janeiro = 12 990 K,12990.0,CZK,Berln,Rio de Janeiro
+803,https://www.pelikan.cz/cs/akcni-letenka/G-14794?a_aid=6fef337b,Vde - Rio de Janeiro = 13 490 K,13490.0,CZK,Vde,Rio de Janeiro
+804,https://www.pelikan.cz/cs/akcni-letenka/G-14793?a_aid=6fef337b,Praha - Rio de Janeiro = 16 290 K,16290.0,CZK,Praha,Rio de Janeiro
+805,https://www.pelikan.cz/cs/akcni-letenka/G-14789?a_aid=6fef337b,Mnichov - Sao Paulo = 12 590 K,12590.0,CZK,Mnichov,Sao Paulo
+806,https://www.pelikan.cz/cs/akcni-letenka/G-14790?a_aid=6fef337b,Berln - Sao Paulo = 12 590 K,12590.0,CZK,Berln,Sao Paulo
+807,https://www.pelikan.cz/cs/akcni-letenka/G-14795?a_aid=6fef337b,Vde - Sao Paulo = 13 490 K,13490.0,CZK,Vde,Sao Paulo
+808,https://www.pelikan.cz/cs/akcni-letenka/G-14788?a_aid=6fef337b,Praha - Sao Paulo = 16 290 K,16290.0,CZK,Praha,Sao Paulo
+809,https://wizzair.com/cs-cz#/booking/select-flight/PRG/VAR/2023-05-25/2023-06-01/1/0/0,Praha - Varna = 860 K s WDC,860.0,CZK,Praha,Varna
+810,https://www.pelikan.cz/cs/akcni-letenka/LCC-1297?a_aid=6fef337b,Praha - Varna = kalend termn,,CZK,Praha,Varna
+811,https://www.pelikan.cz/cs/akcni-letenka/G-14785?a_aid=6fef337b,Mnichov - Miami = 8 990 K,8990.0,CZK,Mnichov,Miami
+812,https://wizzair.com/#/booking/select-flight/PRG/FCO/2023-08-09/2023-08-16/1/0/0,Praha - m = 700 K s WDC,700.0,CZK,Praha,m
+813,https://www.pelikan.cz/cs/akcni-letenka/LCC-1453?a_aid=6fef337b,Praha - m = kalend termn,,CZK,Praha,m
+814,https://www.pelikan.cz/cs/akcni-letenka/G-14786?a_aid=6fef337b,Praha - Tanger = 4 590 K,4590.0,CZK,Praha,Tanger
+815,https://www.pelikan.cz/cs/akcni-letenka/G-14802?a_aid=6fef337b,Vde - Zanzibar = 12 490 K (min. 2 osoby),12490.0,CZK,Vde,Zanzibar
+816,https://www.pelikan.cz/cs/akcni-letenka/G-14451?a_aid=6fef337b,Vde - Zanzibar = 12 990 K,12990.0,CZK,Vde,Zanzibar
+817,https://www.pelikan.cz/cs/akcni-letenka/G-14796?a_aid=6fef337b,Mnichov - Boa Vista = 7 290 K,7290.0,CZK,Mnichov,Boa Vista
+818,https://www.ryanair.com/cz/cs/booking/home/NUE/CAG/2023-05-03/2023-05-10/1/0/0/0,Norimberk - Cagliari = 40 EUR / 950 K,950.0,CZK,Norimberk,Cagliari
+819,https://www.pelikan.cz/cs/akcni-letenka/LCC-1542?a_aid=6fef337b,Norimberk - Cagliari = kalend termn,,CZK,Norimberk,Cagliari
+820,https://www.pelikan.cz/cs/akcni-letenka/G-14804?a_aid=6fef337b,Vde - Bombaj = 11 790 K,11790.0,CZK,Vde,Bombaj
+821,https://www.pelikan.cz/cs/akcni-letenka/G-14453?a_aid=6fef337b,Vde - Dill = 11 790 K,11790.0,CZK,Vde,Dill
+822,https://www.ryanair.com/cz/cs/booking/home/BTS/SKG/2023-05-13/2023-05-20/1/0/0/0,Bratislava - Solu = 34 EUR / 800 K,800.0,CZK,Bratislava,Solu
+823,https://www.pelikan.cz/cs/akcni-letenka/LCC-209?a_aid=6fef337b,Bratislava - Solu = kalend termn,,CZK,Bratislava,Solu
+824,https://www.ryanair.com/cz/cs/booking/home/VIE/PUY/2023-06-12/2023-06-18/1/0/0/0,Vde - Pula = 30 EUR / 710 K,710.0,CZK,Vde,Pula
+825,https://www.pelikan.cz/cs/akcni-letenka/LCC-1344?a_aid=6fef337b,Vde - Pula = kalend termn,,CZK,Vde,Pula
+826,https://www.pelikan.cz/cs/akcni-letenka/G-14594?a_aid=6fef337b,Praha - Tenerife = 3 590 K,3590.0,CZK,Praha,Tenerife
+827,https://wizzair.com/cs-cz/#/booking/select-flight/KTW/TLV/2023-05-22/2023-06-03/1/0/0,Katovice - Tel Aviv = 126 PLN / 650 K s WDC,650.0,CZK,Katovice,Tel Aviv
+828,https://www.pelikan.cz/cs/akcni-letenka/LCC-257?a_aid=6fef337b,Katovice - Tel Aviv = kalend termn,,CZK,Katovice,Tel Aviv
+829,https://www.ryanair.com/cz/cs/booking/home/PRG/TSF/2023-05-24/2023-05-31/1/0/0/0,Praha - Treviso = 858 K,858.0,CZK,Praha,Treviso
+830,https://www.pelikan.cz/cs/akcni-letenka/LCC-380?a_aid=6fef337b,Praha - Treviso = kalend termn,,CZK,Praha,Treviso
+831,https://www.ryanair.com/cz/cs/booking/home/VIE/IBZ/2023-05-03/2023-05-10/1/0/0/0,Vde - Ibiza = 40 EUR / 940 K,940.0,CZK,Vde,Ibiza
+832,https://www.pelikan.cz/cs/akcni-letenka/LCC-212?a_aid=6fef337b,Vde - Ibiza = kalend termn,,CZK,Vde,Ibiza
+833,https://www.pelikan.cz/cs/akcni-letenka/G-14534?a_aid=6fef337b,Mnichov - Cancn = 9 490 K,9490.0,CZK,Mnichov,Cancn
+834,https://www.pelikan.cz/cs/akcni-letenka/G-14775?a_aid=6fef337b,Berln - Cancn = 9 690 K,9690.0,CZK,Berln,Cancn
+835,https://www.pelikan.cz/cs/akcni-letenka/G-14740?a_aid=6fef337b,Praha - Malta = 2 990 K (min. 2 osoby),2990.0,CZK,Praha,Malta
+836,https://www.pelikan.cz/cs/akcni-letenka/G-14396?a_aid=6fef337b,Praha - Malta = 3 290 K,3290.0,CZK,Praha,Malta
+837,https://www.pelikan.cz/cs/akcni-letenka/G-14132?a_aid=6fef337b,Praha - Malta = 3 790 K,3790.0,CZK,Praha,Malta
+838,https://www.pelikan.cz/cs/akcni-letenka/G-14133?a_aid=6fef337b,Praha - Malta = 5 590 K,5590.0,CZK,Praha,Malta
+839,https://www.pelikan.cz/cs/akcni-letenka/G-14696?a_aid=6fef337b,Praha - Malta = 6 490 K,6490.0,CZK,Praha,Malta
+840,https://www.pelikan.cz/cs/akcni-letenka/G-14365?a_aid=6fef337b,Vde - Kilimandro = 12 990 K,12990.0,CZK,Vde,Kilimandro
+841,https://wizzair.com/cs-cz#/booking/select-flight/PRG/NAP/2023-06-20/2023-06-27/1/0/0,Praha - Neapol = 830 K s WDC,830.0,CZK,Praha,Neapol
+842,https://www.pelikan.cz/cs/akcni-letenka/LCC-1467?a_aid=6fef337b,Praha - Neapol = kalend termn,,CZK,Praha,Neapol
+843,https://www.ryanair.com/cz/cs/booking/home/BTS/CFU/2023-04-19/2023-04-27/1/0/0/0,Bratislava - Korfu = 30 EUR / 710 K,710.0,CZK,Bratislava,Korfu
+844,https://www.pelikan.cz/cs/akcni-letenka/LCC-342?a_aid=6fef337b,Bratislava - Korfu = kalend termn,,CZK,Bratislava,Korfu
+845,https://www.pelikan.cz/cs/akcni-letenka/G-14317?a_aid=6fef337b,Mnichov - New York = 8 990 K,8990.0,CZK,Mnichov,New York
+846,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 8 990 K,8990.0,CZK,Mnichov,New York
+847,https://www.pelikan.cz/cs/akcni-letenka/G-14671?a_aid=6fef337b,Berln - New York = 8 590 K,8590.0,CZK,Berln,New York
+848,https://www.pelikan.cz/cs/akcni-letenka/G-14600?a_aid=6fef337b,Mnichov - Las Vegas = 10 590 K,10590.0,CZK,Mnichov,Las Vegas
+849,https://www.pelikan.cz/cs/akcni-letenka/G-14607?a_aid=6fef337b,Mnichov - Filadelfie = 8 990 K,8990.0,CZK,Mnichov,Filadelfie
+850,https://www.pelikan.cz/cs/akcni-letenka/G-14630?a_aid=6fef337b,Mnichov - Austin = 10 590 K,10590.0,CZK,Mnichov,Austin
+851,https://www.pelikan.cz/cs/akcni-letenka/G-14562?a_aid=6fef337b,Mnichov - Bangkok = 12 990 K,12990.0,CZK,Mnichov,Bangkok
+852,https://wizzair.com/cs-cz#/booking/select-flight/PRG/MXP/2023-07-07/2023-07-10/1/0/0,Praha - Milno = 700 K s WDC,700.0,CZK,Praha,Milno
+853,https://www.pelikan.cz/cs/akcni-letenka/LCC-1528?a_aid=6fef337b,Praha - Milno = kalend termn,,CZK,Praha,Milno
+854,https://www.ryanair.com/cz/cs/booking/home/VIE/ARN/2023-05-16/2023-05-24/1/0/0/0,Vde - Stockholm = 26 EUR / 610 K,610.0,CZK,Vde,Stockholm
+855,https://www.pelikan.cz/cs/akcni-letenka/LCC-1495?a_aid=6fef337b,Vde - Stockholm = kalend termn,,CZK,Vde,Stockholm
+856,https://www.ryanair.com/cz/cs/booking/home/BRQ/BGY/2023-05-22/2023-05-26/1/0/0/0,Brno - Bergamo = 717 K,717.0,CZK,Brno,Bergamo
+857,https://www.pelikan.cz/cs/akcni-letenka/LCC-275?a_aid=6fef337b,Brno - Bergamo = kalend termn,,CZK,Brno,Bergamo
+858,https://www.ryanair.com/cz/cs/booking/home/VIE/ZAD/2023-06-13/2023-06-20/1/0/0/0,Vde - Zadar = 34 EUR / 800 K,800.0,CZK,Vde,Zadar
+859,https://www.pelikan.cz/cs/akcni-letenka/LCC-1119?a_aid=6fef337b,Vde - Zadar = kalend termn,,CZK,Vde,Zadar
+860,https://www.ryanair.com/cz/cs/booking/home/NUE/IBZ/2023-04-17/2023-04-24/1/0/0/0,Norimberk - Ibiza = 34 EUR / 800 K,800.0,CZK,Norimberk,Ibiza
+861,https://www.pelikan.cz/cs/akcni-letenka/LCC-1559?a_aid=6fef337b,Norimberk - Ibiza = kalend termn,,CZK,Norimberk,Ibiza
+862,https://www.pelikan.cz/cs/akcni-letenka/G-14534?a_aid=6fef337b,Mnichov - Cancn = 12 390 K,12390.0,CZK,Mnichov,Cancn
+863,https://wizzair.com/#/booking/select-flight/VIE/BCN/2023-05-10/2023-05-17/1/0/0,Vde - Barcelona = 38 EUR / 890 K s WDC,890.0,CZK,Vde,Barcelona
+864,https://www.pelikan.cz/cs/akcni-letenka/LCC-325?a_aid=6fef337b,Vde - Barcelona = kalend termn,,CZK,Vde,Barcelona
+865,https://www.ryanair.com/cz/cs/booking/home/NUE/SUF/2023-04-20/2023-04-24/1/0/0/0,Norimberk - Lamezia Terme = 32 EUR / 750 K,750.0,CZK,Norimberk,Lamezia Terme
+866,https://www.pelikan.cz/cs/akcni-letenka/LCC-1549?a_aid=6fef337b,Norimberk - Lamezia Terme = kalend termn,,CZK,Norimberk,Lamezia Terme
+867,https://www.ryanair.com/cz/cs/booking/home/BTS/DLM/2023-04-17/2023-04-27/1/0/0/0,Bratislava - Dalaman = 32 EUR / 750 K,750.0,CZK,Bratislava,Dalaman
+868,https://www.pelikan.cz/cs/akcni-letenka/LCC-313?a_aid=6fef337b,Bratislava - Dalaman = kalend termn,,CZK,Bratislava,Dalaman
+869,https://www.ryanair.com/cz/cs/booking/home/PRG/PSR/2023-05-23/2023-05-30/1/0/0/0,Praha - Pescara = 978 K,978.0,CZK,Praha,Pescara
+870,https://www.pelikan.cz/cs/akcni-letenka/LCC-420?a_aid=6fef337b,Praha - Pescara = kalend termn,,CZK,Praha,Pescara
+871,https://www.ryanair.com/cz/cs/booking/home/VIE/PFO/2023-05-09/2023-05-16/1/0/0/0,Vde - Paphos = 40 EUR / 950 K,950.0,CZK,Vde,Paphos
+872,https://www.pelikan.cz/cs/akcni-letenka/LCC-1300?a_aid=6fef337b,Vde - Paphos = kalend termn,,CZK,Vde,Paphos
+873,https://www.ryanair.com/cz/cs/booking/home/VIE/RHO/2023-04-17/2023-04-24/1/0/0/0,Vde - Rhodos = 34 EUR / 800 K,800.0,CZK,Vde,Rhodos
+874,https://www.pelikan.cz/cs/akcni-letenka/LCC-573?a_aid=6fef337b,Vde - Rhodos = kalend termn,,CZK,Vde,Rhodos
+875,https://wizzair.com/cs-cz#/booking/select-flight/VIE/TGD/2023-06-11/2023-06-15/1/0/0,Vde - Podgorica = 30 EUR / 710 K s WDC,710.0,CZK,Vde,Podgorica
+876,https://www.pelikan.cz/cs/akcni-letenka/LCC-1181?a_aid=6fef337b,Vde - Podgorica = kalend termn,,CZK,Vde,Podgorica
+877,https://www.ryanair.com/cz/cs/booking/home/PRG/TRN/2023-05-24/2023-05-27/1/0/0/0,Praha - Turn = 930 K,930.0,CZK,Praha,Turn
+878,https://www.pelikan.cz/cs/akcni-letenka/LCC-1569?a_aid=6fef337b,Praha - Turn = kalend termn,,CZK,Praha,Turn
+879,https://www.pelikan.cz/cs/akcni-letenka/G-14747?a_aid=6fef337b,Bentky - Antananarivo = 12 390 K,12390.0,CZK,Bentky,Antananarivo
+880,https://www.pelikan.cz/cs/akcni-letenka/G-14478?a_aid=6fef337b,Vde - Dill = 11 790 K,11790.0,CZK,Vde,Dill
+881,https://www.pelikan.cz/cs/akcni-letenka/G-14150?a_aid=6fef337b,Ostrava - Dill = 11 790 K,11790.0,CZK,Ostrava,Dill
+882,https://wizzair.com/#/booking/select-flight/VIE/PRN/2023-06-15/2023-06-20/1/0/0,Vde - Pritina = 20 EUR / 480 K s WDC,480.0,CZK,Vde,Pritina
+883,https://www.pelikan.cz/cs/akcni-letenka/LCC-1036?a_aid=6fef337b,Vde - Pritina = kalend termn,,CZK,Vde,Pritina
+884,https://wizzair.com/#/booking/select-flight/VIE/NCE/2023-06-19/2023-06-23/1/0/0,Vde - Nice = 20 EUR / 480 K s WDC,480.0,CZK,Vde,Nice
+885,https://www.pelikan.cz/cs/akcni-letenka/LCC-219?a_aid=6fef337b,Vde - Nice = kalend termn,,CZK,Vde,Nice
+886,https://www.ryanair.com/cz/cs/booking/home/PRG/BUD/2023-05-16/2023-05-23/1/0/0/0,Praha - Budape = 738 K,738.0,CZK,Praha,Budape
+887,https://www.pelikan.cz/cs/akcni-letenka/LCC-408?a_aid=6fef337b,Praha - Budape = kalend termn,,CZK,Praha,Budape
+888,https://www.ryanair.com/cz/cs/booking/home/VIE/CFU/2023-05-11/2023-05-18/1/0/0/0,Vde - Korfu = 37 EUR / 870 K,870.0,CZK,Vde,Korfu
+889,https://www.pelikan.cz/cs/akcni-letenka/LCC-577?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
+890,https://wizzair.com/cs-cz#/booking/select-flight/VIE/BIO/2023-06-13/2023-06-17/1/0/0,Vde - Bilbao = 40 EUR / 950 K s WDC,950.0,CZK,Vde,Bilbao
+891,https://www.pelikan.cz/cs/akcni-letenka/LCC-1656?a_aid=6fef337b,Vde - Bilbao = kalend termn,,CZK,Vde,Bilbao
+892,https://www.pelikan.cz/cs/akcni-letenka/G-14563?a_aid=6fef337b,Frankfurt - Anchorage = 13 390 K,13390.0,CZK,Frankfurt,Anchorage
+893,https://www.pelikan.cz/cs/akcni-letenka/G-14564?a_aid=6fef337b,Drany - Anchorage = 14 490 K,14490.0,CZK,Drany,Anchorage
+894,https://www.pelikan.cz/cs/akcni-letenka/G-14352?a_aid=6fef337b,Mnichov - Anchorage = 13 990 K,13990.0,CZK,Mnichov,Anchorage
+895,https://wizzair.com/#/booking/select-flight/PRG/OTP/2023-06-14/2023-06-18/1/0/0,Praha - Bukure = 700 K s WDC,700.0,CZK,Praha,Bukure
+896,https://www.pelikan.cz/cs/akcni-letenka/LCC-1168?a_aid=6fef337b,Praha - Bukure = kalend termn,,CZK,Praha,Bukure
+897,https://www.pelikan.cz/cs/akcni-letenka/G-14599?a_aid=6fef337b,Praha - Funchal = 3 990 K,3990.0,CZK,Praha,Funchal
+898,https://www.pelikan.cz/cs/akcni-letenka/G-14398?a_aid=6fef337b,Praha - Funchal = 4 490 K,4490.0,CZK,Praha,Funchal
+899,https://www.ryanair.com/cz/cs/booking/home/VIE/SKG/2023-05-09/2023-05-17/1/0/0/0,Vde - Solu = 40 EUR / 950 K,950.0,CZK,Vde,Solu
+900,https://www.pelikan.cz/cs/akcni-letenka/LCC-647?a_aid=6fef337b,Vde - Solu = kalend termn,,CZK,Vde,Solu
+901,https://wizzair.com/cs-cz/#/booking/select-flight/KTW/TLV/2023-06-03/2023-06-10/1/0/0,Katovice - Tel Aviv = 140 PLN / 710 K s WDC,710.0,CZK,Katovice,Tel Aviv
+902,https://www.pelikan.cz/cs/akcni-letenka/LCC-257?a_aid=6fef337b,Katovice - Tel Aviv = kalend termn,,CZK,Katovice,Tel Aviv
+903,https://www.pelikan.cz/cs/akcni-letenka/G-14607?a_aid=6fef337b,Mnichov - Filadelfie = 8 990 K,8990.0,CZK,Mnichov,Filadelfie
+904,https://www.pelikan.cz/cs/akcni-letenka/G-14671?a_aid=6fef337b,Berln - New York = 8 590 K,8590.0,CZK,Berln,New York
+905,https://www.pelikan.cz/cs/akcni-letenka/G-14709?a_aid=6fef337b,Mnichov - New York = 8 990 K,8990.0,CZK,Mnichov,New York
+906,https://www.pelikan.cz/cs/akcni-letenka/G-14317?a_aid=6fef337b,Mnichov - New York = 9 390 K,9390.0,CZK,Mnichov,New York
+907,https://www.pelikan.cz/cs/akcni-letenka/G-14600?a_aid=6fef337b,Mnichov - Las Vegas = 10 590 K,10590.0,CZK,Mnichov,Las Vegas
+908,https://www.pelikan.cz/cs/akcni-letenka/G-14630?a_aid=6fef337b,Mnichov - Austin = 10 590 K,10590.0,CZK,Mnichov,Austin
+909,https://wizzair.com/#/booking/select-flight/VIE/SPU/2023-06-19/2023-06-28/1/0/0,Vde - Split = 20 EUR / 470 K s WDC,470.0,CZK,Vde,Split
+910,https://www.pelikan.cz/cs/akcni-letenka/LCC-1463?a_aid=6fef337b,Vde - Split = kalend termn,,CZK,Vde,Split
+911,https://www.pelikan.cz/cs/akcni-letenka/G-14700?a_aid=6fef337b,Praha - Faro = 3 690 K,3690.0,CZK,Praha,Faro
+912,https://www.pelikan.cz/cs/akcni-letenka/G-14369?a_aid=6fef337b,Praha - Faro = 3 790 K,3790.0,CZK,Praha,Faro
+913,https://www.pelikan.cz/cs/akcni-letenka/G-14027?a_aid=6fef337b,Praha - Porto = 3 990 K,3990.0,CZK,Praha,Porto
+914,https://www.pelikan.cz/cs/akcni-letenka/G-14599?a_aid=6fef337b,Praha - Funchal = 3 990 K,3990.0,CZK,Praha,Funchal
+915,https://www.pelikan.cz/cs/akcni-letenka/G-14398?a_aid=6fef337b,Praha - Funchal = 4 490 K,4490.0,CZK,Praha,Funchal
+916,https://www.ryanair.com/cz/cs/booking/home/NUE/GRO/2023-06-27/2023-07-04/1/0/0/0,Norimberk - Girona = 39 EUR / 920 K,920.0,CZK,Norimberk,Girona
+917,https://www.pelikan.cz/cs/akcni-letenka/LCC-1572?a_aid=6fef337b,Norimberk - Girona = kalend termn,,CZK,Norimberk,Girona
+918,https://wizzair.com/#/booking/select-flight/PRG/FCO/2023-06-14/2023-06-21/1/0/0,Praha - m = 700 K s WDC,700.0,CZK,Praha,m
+919,https://www.pelikan.cz/cs/akcni-letenka/LCC-1453?a_aid=6fef337b,Praha - m = kalend termn,,CZK,Praha,m
+920,https://www.ryanair.com/cz/cs/booking/home/VIE/RHO/2023-04-17/2023-04-26/1/0/0/0,Vde - Rhodos = 32 EUR / 760 K,760.0,CZK,Vde,Rhodos
+921,https://www.pelikan.cz/cs/akcni-letenka/LCC-573?a_aid=6fef337b,Vde - Rhodos = kalend termn,,CZK,Vde,Rhodos
+922,https://www.pelikan.cz/cs/akcni-letenka/G-14680?a_aid=6fef337b,Budape - Tchaj-pej = 12 790 K,12790.0,CZK,Budape,Tchaj
+923,https://www.pelikan.cz/cs/akcni-letenka/G-14647?a_aid=6fef337b,Budape - Tokio = 11 990 K,11990.0,CZK,Budape,Tokio
+924,https://www.pelikan.cz/cs/akcni-letenka/G-14651?a_aid=6fef337b,Budape - Tokio = 12 790 K,12790.0,CZK,Budape,Tokio
+925,https://www.pelikan.cz/cs/akcni-letenka/G-14658?a_aid=6fef337b,Budape - Jeju City = 10 990 K,10990.0,CZK,Budape,Jeju City
+926,https://www.pelikan.cz/cs/akcni-letenka/G-14648?a_aid=6fef337b,Budape - Jeju City = 12 790 K,12790.0,CZK,Budape,Jeju City
+927,https://www.pelikan.cz/cs/akcni-letenka/G-14649?a_aid=6fef337b,Budape - Jeju City = 14 490 K,14490.0,CZK,Budape,Jeju City
+928,https://wizzair.com/cs-cz#/booking/select-flight/VIE/DBV/2023-07-19/2023-07-23/1/0/0,Vde - Dubrovnk = 35 EUR / 830 K s WDC,830.0,CZK,Vde,Dubrovnk
+929,https://www.pelikan.cz/cs/akcni-letenka/LCC-1462?a_aid=6fef337b,Vde - Dubrovnk = kalend termn,,CZK,Vde,Dubrovnk
+930,https://www.ryanair.com/cz/cs/booking/home/LEJ/DUB/2023-05-03/2023-05-10/1/0/0/0,Lipsko - Dublin = 34 EUR / 810 K,810.0,CZK,Lipsko,Dublin
+931,https://www.pelikan.cz/cs/akcni-letenka/LCC-1586?a_aid=6fef337b,Lipsko - Dublin = kalend termn,,CZK,Lipsko,Dublin
+932,https://www.ryanair.com/cz/cs/booking/home/BTS/TPS/2023-04-20/2023-04-27/1/0/0/0,Bratislava - Trapani = 34 EUR / 810 K,810.0,CZK,Bratislava,Trapani
+933,https://www.pelikan.cz/cs/akcni-letenka/LCC-1537?a_aid=6fef337b,Bratislava - Trapani = kalend termn,,CZK,Bratislava,Trapani
+934,https://www.ryanair.com/cz/cs/booking/home/PRG/ZAD/2023-04-18/2023-04-25/1/0/0/0,Praha - Zadar = 978 K,978.0,CZK,Praha,Zadar
+935,https://www.pelikan.cz/cs/akcni-letenka/LCC-417?a_aid=6fef337b,Praha - Zadar = kalend termn,,CZK,Praha,Zadar
+936,https://www.ryanair.com/cz/cs/booking/home/VIE/PMI/2023-05-09/2023-05-17/1/0/0/0,Vde - Mallorca = 40 EUR / 950 K,950.0,CZK,Vde,Mallorca
+937,https://www.pelikan.cz/cs/akcni-letenka/LCC-138?a_aid=6fef337b,Vde - Mallorca = kalend termn,,CZK,Vde,Mallorca
+938,https://www.pelikan.cz/cs/akcni-letenka/G-14600?a_aid=6fef337b,Mnichov - Las Vegas - Mnichov = 10 590 K,10590.0,CZK,Mnichov,Las Vegas
+939,https://www.pelikan.cz/cs/akcni-letenka/G-14713?a_aid=6fef337b,Mnichov - Las Vegas / San Francisco - Mnichov = 11 490 K,11490.0,CZK,Mnichov,Las Vegas / San Francisco
+940,https://www.pelikan.cz/cs/akcni-letenka/G-14630?a_aid=6fef337b,Mnichov - Austin - Mnichov = 10 590 K,10590.0,CZK,Mnichov,Austin
+941,https://www.ryanair.com/cz/cs/booking/home/PRG/BGY/2023-05-31/2023-06-07/1/0/0/0,Praha - Bergamo = 798 K,798.0,CZK,Praha,Bergamo
+942,https://www.pelikan.cz/cs/akcni-letenka/LCC-443?a_aid=6fef337b,Praha - Bergamo = kalend termn,,CZK,Praha,Bergamo
+943,https://wizzair.com/cs-cz#/booking/select-flight/PRG/CTA/2023-06-10/2023-06-17/1/0/0,Praha - Catania = 1 028 K s WDC,1028.0,CZK,Praha,Catania
+944,https://www.pelikan.cz/cs/akcni-letenka/LCC-1452?a_aid=6fef337b,Praha - Catania = kalend termn,,CZK,Praha,Catania
+945,https://www.ryanair.com/cz/cs/booking/home/VIE/IBZ/2023-05-09/2023-05-17/1/0/0/0,Vde - Ibiza = 40 EUR / 950 K,950.0,CZK,Vde,Ibiza
+946,https://www.pelikan.cz/cs/akcni-letenka/LCC-212?a_aid=6fef337b,Vde - Ibiza = kalend termn,,CZK,Vde,Ibiza
+947,https://www.pelikan.cz/cs/akcni-letenka/G-14714?a_aid=6fef337b,Mnichov - Panama City = 10 990 K,10990.0,CZK,Mnichov,Panama City
+948,https://www.pelikan.cz/cs/akcni-letenka/G-14715?a_aid=6fef337b,Mnichov - Panama City = 11 590 K,11590.0,CZK,Mnichov,Panama City
+949,https://www.pelikan.cz/cs/akcni-letenka/G-14307?a_aid=6fef337b,Mnichov - Panama City = 11 990 K,11990.0,CZK,Mnichov,Panama City
+950,https://www.pelikan.cz/cs/akcni-letenka/G-14656?a_aid=6fef337b,Mnichov - Managua = 12 590 K,12590.0,CZK,Mnichov,Managua
+951,https://www.pelikan.cz/cs/akcni-letenka/G-14560?a_aid=6fef337b,Mnichov - Roatn = 11 990 K,11990.0,CZK,Mnichov,Roatn
+952,https://www.pelikan.cz/cs/akcni-letenka/G-14559?a_aid=6fef337b,Mnichov - Belize City = 11 990 K,11990.0,CZK,Mnichov,Belize City
+953,https://www.pelikan.cz/cs/akcni-letenka/G-14673?a_aid=6fef337b,Mnichov - San Salvador = 11 790 K,11790.0,CZK,Mnichov,San Salvador
+954,https://www.pelikan.cz/cs/akcni-letenka/G-14602?a_aid=6fef337b,Mnichov - Guatemala City = 11 490 K,11490.0,CZK,Mnichov,Guatemala City
+955,https://www.pelikan.cz/cs/akcni-letenka/G-14467?a_aid=6fef337b,Vde - Guam = 20 790 K,20790.0,CZK,Vde,Guam
+956,https://www.ryanair.com/cz/cs/booking/home/BTS/ZAG/2023-06-24/2023-06-27/1/0/0/0,Bratislava - Zheb = 20 EUR / 480 K,480.0,CZK,Bratislava,Zheb
+957,https://www.pelikan.cz/cs/akcni-letenka/LCC-1525?a_aid=6fef337b,Bratislava - Zheb = kalend termn,,CZK,Bratislava,Zheb
+958,https://wizzair.com/#/booking/select-flight/BTS/SKP/2023-06-16/2023-06-19/1/0/0,Bratislava - Skopje = 20 EUR / 480 K s WDC,480.0,CZK,Bratislava,Skopje
+959,https://www.pelikan.cz/cs/akcni-letenka/LCC-217?a_aid=6fef337b,Bratislava - Skopje = kalend termn,,CZK,Bratislava,Skopje
+960,https://www.ryanair.com/cz/cs/booking/home/VIE/BOJ/2023-05-22/2023-05-29/1/0/0/0,Vde - Burgas = 34 EUR / 800 K,800.0,CZK,Vde,Burgas
+961,https://www.pelikan.cz/cs/akcni-letenka/LCC-1083?a_aid=6fef337b,Vde - Burgas = kalend termn,,CZK,Vde,Burgas
+962,https://www.ryanair.com/cz/cs/booking/home/PRG/KRK/2023-05-10/2023-05-11/1/0/0/0,Praha - Krakov = 738 K,738.0,CZK,Praha,Krakov
+963,https://www.pelikan.cz/cs/akcni-letenka/LCC-436?a_aid=6fef337b,Praha - Krakov = kalend termn,,CZK,Praha,Krakov
+964,https://www.pelikan.cz/cs/akcni-letenka/G-14396?a_aid=6fef337b,Praha - Malta = 3 290 K,3290.0,CZK,Praha,Malta
+965,https://www.pelikan.cz/cs/akcni-letenka/G-14132?a_aid=6fef337b,Praha - Malta = 3 790 K,3790.0,CZK,Praha,Malta
+966,https://www.pelikan.cz/cs/akcni-letenka/G-14697?a_aid=6fef337b,Vde - Malta = 3 790 K,3790.0,CZK,Vde,Malta
+967,https://www.pelikan.cz/cs/akcni-letenka/G-14133?a_aid=6fef337b,Praha - Malta = 5 590 K,5590.0,CZK,Praha,Malta
+968,https://www.pelikan.cz/cs/akcni-letenka/G-14696?a_aid=6fef337b,Praha - Malta = 6 490 K,6490.0,CZK,Praha,Malta
+969,https://wizzair.com/#/booking/select-flight/PRG/OTP/2023-05-12/2023-05-15/1/0/0,Praha - Bukure = 900 K s WDC,900.0,CZK,Praha,Bukure
+970,https://www.pelikan.cz/cs/akcni-letenka/LCC-1168?a_aid=6fef337b,Praha - Bukure = kalend termn,,CZK,Praha,Bukure
+971,https://www.ryanair.com/cz/cs/booking/home/VIE/CFU/2023-04-15/2023-04-20/1/0/0/0,Vde - Korfu = 34 EUR / 810 K,810.0,CZK,Vde,Korfu
+972,https://www.pelikan.cz/cs/akcni-letenka/LCC-577?a_aid=6fef337b,Vde - Korfu = kalend termn,,CZK,Vde,Korfu
