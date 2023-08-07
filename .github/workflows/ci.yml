@@ -1,10 +1,10 @@
-name: test
+name: trave_agency_test
 
 on:
     push:
         branches: [master, main, dev]
     pull_request:
-        branches: [master, main, dev, dev
+        branches: [master, main, dev]
 jobs:
     test:
         runs-on: ubuntu-latest
