@@ -111,7 +111,6 @@ def crawl(spider) -> None:
 
 
 # Web to Bucket
-
 @task(retries=3)
 def fetch() -> dict:
     """ Fetch the data from the URL """
