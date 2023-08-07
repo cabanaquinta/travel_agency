@@ -150,7 +150,6 @@ def upload_to_gcs(path: Path) -> None:
 
 
 # Bucket to BigQuery
-
 @task(retries=3)
 def upload_to_bq(path: Path, method: str = 'append') -> None:
     """ Read files from Bucket and paste them to BigQuery """
