@@ -1,6 +1,7 @@
+from tasks.prefect_tasks import (PARQUET_PATH, clean_data,  # type: ignore
+                                 fetch, save_parquet_file, upload_to_gcs)
+
 from prefect import flow
-from tasks.prefect_tasks import (clean_data, fetch, save_parquet_file,
-                                 upload_to_gcs, PARQUET_PATH)
 
 
 @flow(log_prints=True)

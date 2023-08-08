@@ -1,23 +1,22 @@
 import re
 from datetime import datetime
 from pathlib import Path
-from typing import Union
+from typing import Literal, Optional
 
 import pandas as pd
-import scrapy
-from prefect_gcp import GcpCredentials
-from prefect_gcp.cloud_storage import GcsBucket
-from scrapy.crawler import CrawlerProcess
-from unidecode import unidecode
+import scrapy  # type: ignore
+from prefect_gcp import GcpCredentials  # type: ignore
+from prefect_gcp.cloud_storage import GcsBucket  # type: ignore
+from scrapy.crawler import CrawlerProcess  # type: ignore
+from unidecode import unidecode  # type: ignore
 
 from prefect import task
-
 
 PARQUET_PATH = Path('./travel_data.parquet')
 DESTINATIONS = {}
 
-# Crawler
 
+# Crawler
 def _first_or_second_index(prices: list) -> str:
     """ if the price is in euro and czk, we always want the czk """
     if len(prices) == 1:
@@ -36,15 +35,15 @@ def clean_description(description: str) -> str:
     return description
 
 
-def extract_price(description: str) -> Union[int, None]:
+def extract_price(description: str = '1=2') -> Optional[int]:
     """ Get the price from the dirty string description """
-    prices = description.split('=')[1]
-    prices = prices.split('/')
+    prices_list = description.split('=')[1]
+    prices = prices_list.split('/')
     price = _first_or_second_index(prices).replace(' ', '')
-    price = re.sub('[A-Za-z]|\(|\)', '', price).strip()
-    price = price.split('.')[0] if '.' in price else price
-    price = None if price == '' else int(price)
-    return price
+    price = re.sub('[A-Za-z]|\(|\)', '', price).strip()  # noqa: W605
+    final_price = price.split('.')[0] if '.' in price else price
+    final_price = None if final_price == '' else int(final_price)  # type: ignore
+    return price  # type: ignore
 
 
 def extract_locations(description: str, start_end: str) -> str:
@@ -57,7 +56,7 @@ def extract_locations(description: str, start_end: str) -> str:
     return destination
 
 
-def extract_dates(link: str, start_end: str) -> Union[str, None]:
+def extract_dates(link: str, start_end: str) -> Optional[datetime]:
     """ To Extract the dates from the links that have them """
     date_regex = r'(\d{4}-\d{2}-\d{2})'
     date_format = '%Y-%m-%d'
@@ -81,9 +80,9 @@ class Travelspider(scrapy.Spider):
     def parse(self, response):
         LINKS = []
         TEXTS = []
-        ROWS = response.xpath(
-            "//table/tr[3]/td[2]/div/table[3]//td/table/tr[2]/td[2]//table//td/font//p[contains(., '=')]"
-        )
+        # noflake8
+        PATH = "//table/tr[3]/td[2]/div/table[3]//td/table/tr[2]/td[2]//table//td/font//p[contains(., '=')]"  # noqa: E501
+        ROWS = response.xpath(PATH)
         for row in ROWS:
             text = (
                 row.xpath('string()').get()
@@ -150,9 +149,8 @@ def upload_to_gcs(path: Path) -> None:
 
 
 # Bucket to BigQuery
-
 @task(retries=3)
-def upload_to_bq(path: Path, method: str = 'append') -> None:
+def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'append') -> None:
     """ Read files from Bucket and paste them to BigQuery """
     df = pd.read_parquet(path)
     gcp_credentials = GcpCredentials.load('my-gcp')

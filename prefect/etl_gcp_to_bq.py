@@ -1,5 +1,6 @@
+from tasks.prefect_tasks import PARQUET_PATH, upload_to_bq  # type: ignore
+
 from prefect import flow
-from tasks.prefect_tasks import PARQUET_PATH, upload_to_bq
 
 
 @flow(log_prints=True)
