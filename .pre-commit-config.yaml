@@ -9,19 +9,19 @@ repos:
             entry: poetry run flake8
             language: system
             types: [python]
-            # files: scraper/scraping_data.py
+
           - id: mypy
             name: mypy
-            entry: poetry run mypy
+            entry: poetry run mypy --no-namespace-packages
             language: system
             types: [python]
-            # files: scraper.*
+
           - id: isort
             name: isort
             entry: poetry run isort
             language: system
             types: [python]
-            # files: scraper.*
+
 
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v4.4.0

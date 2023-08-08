@@ -1,9 +1,10 @@
 from etl_gcp_to_bq import etl_gcs_to_bq
 from etl_web_to_gcs import etl_web_to_gcs
-from prefect import get_client
-from prefect.deployments import Deployment
-from prefect_gcp.cloud_run import CloudRunJob
-from prefect_gcp.cloud_storage import GcsBucket
+from prefect_gcp.cloud_run import CloudRunJob  # type: ignore
+from prefect_gcp.cloud_storage import GcsBucket  # type: ignore
+
+from prefect import get_client  # type: ignore
+from prefect.deployments import Deployment  # type: ignore
 
 client = get_client()
 gcs_block = GcsBucket.load('bucket')
@@ -31,5 +32,5 @@ deployment_gcs_to_gcp = Deployment.build_from_flow(
 
 
 if __name__ == '__main__':
-    deployment_web_to_gcs.apply()
-    deployment_gcs_to_gcp.apply()
+    deployment_web_to_gcs.apply()  # type: ignore
+    deployment_gcs_to_gcp.apply()  # type: ignore
