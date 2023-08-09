@@ -1,0 +1,3 @@
+{
+  "etl-web-to-gcs": "etl_web_to_gcs.py:etl_web_to_gcs"
+}

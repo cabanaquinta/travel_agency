@@ -4,11 +4,11 @@ from pathlib import Path
 from typing import Literal, Optional
 
 import pandas as pd
-import scrapy  # type: ignore
-from prefect_gcp import GcpCredentials  # type: ignore
-from prefect_gcp.cloud_storage import GcsBucket  # type: ignore
-from scrapy.crawler import CrawlerProcess  # type: ignore
-from unidecode import unidecode  # type: ignore
+import scrapy
+from prefect_gcp import GcpCredentials
+from prefect_gcp.cloud_storage import GcsBucket
+from scrapy.crawler import CrawlerProcess
+from unidecode import unidecode
 
 from prefect import task
 
