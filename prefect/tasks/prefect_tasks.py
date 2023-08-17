@@ -1,5 +1,5 @@
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Literal, Optional
 
@@ -42,7 +42,7 @@ def extract_price(description: str = '1=2') -> Optional[int]:
     price = _first_or_second_index(prices).replace(' ', '')
     price = re.sub('[A-Za-z]|\(|\)', '', price).strip()  # noqa: W605
     final_price = price.split('.')[0] if '.' in price else price
-    final_price = None if final_price == '' else int(final_price)  # type: ignore
+    final_price = None if final_price == '' else float(final_price)  # type: ignore
     return price  # type: ignore
 
 
@@ -129,7 +129,7 @@ def clean_data(destinations: dict) -> pd.DataFrame:
         lambda row: extract_locations(row, 'end'))
     df['date_from'] = df['link'].apply(lambda row: extract_dates(row, 'start'))
     df['date_to'] = df['link'].apply(lambda row: extract_dates(row, 'end'))
-    df['collected_date'] = datetime.now()
+    df['collected_date'] = datetime.utcnow() + timedelta(hours=2)
     return df
 
 
@@ -149,10 +149,13 @@ def upload_to_gcs(path: Path) -> None:
 
 
 # Bucket to BigQuery
-@task(retries=3)
+# @task(retries=3)
 def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'append') -> None:
     """ Read files from Bucket and paste them to BigQuery """
-    df = pd.read_parquet(path)
+    bucket = GcsBucket.load('bucket')
+    download_file_path = bucket.download_object_to_path(path, path)
+    df = pd.read_parquet(download_file_path)
+    df['price'] = pd.to_numeric(df['price'], downcast='float')
     gcp_credentials = GcpCredentials.load('my-gcp')
     df.to_gbq(
         destination_table='warehouse.master',
