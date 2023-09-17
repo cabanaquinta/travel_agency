@@ -1,1 +1,17 @@
-*/__pycache__/*
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Poetry virtual environment
+.poetry/
+
+# Ignore the generated distribution files
+dist/
+build/
+*.egg-info/
+
+# Ignore local development files
+.env/
+*.log
+
+# Ignore user-specific Poetry configuration
+.poetry-config.toml

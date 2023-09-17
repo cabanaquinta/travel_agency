@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: amazing-thought-394210
+    schema: warehouse
+
+    tables:
+      - name: master
