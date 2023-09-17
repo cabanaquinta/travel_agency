@@ -4,3 +4,4 @@ dbt_packages/
 logs/
 prefect/__pycache__
 */__pycache__/*
+.poetry.lock
