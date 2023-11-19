@@ -181,38 +181,38 @@ def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'app
     return
 
 
-def selenium_scraping(url: str) -> dict:
-    PARSE_DATES = {}
-    DRIVER = webdriver.Chrome(
-        executable_path='/Users/alejandro.perez/Downloads/chromedriver-mac-x64/chromedriver')  # type: ignore
-    DRIVER.get(url)
-    try:
-        # Check if the cookie acceptance element is present
-        cookie_accept_button = DRIVER.find_element(
-            By.XPATH, "//*[@id='ngAppContainer']/div[4]/div/div[3]/button[3]"
-        )
-        # Click the cookie acceptance button
-        cookie_accept_button.click()
+# def selenium_scraping(url: str) -> dict:
+#     PARSE_DATES = {}
+#     DRIVER = webdriver.Chrome(
+#         executable_path='/Users/alejandro.perez/Downloads/chromedriver-mac-x64/chromedriver')  # type: ignore
+#     DRIVER.get(url)
+#     try:
+#         # Check if the cookie acceptance element is present
+#         cookie_accept_button = DRIVER.find_element(
+#             By.XPATH, "//*[@id='ngAppContainer']/div[4]/div/div[3]/button[3]"
+#         )
+#         # Click the cookie acceptance button
+#         cookie_accept_button.click()
 
-    except Exception as e:
-        print('No cookie acceptance element found:', e)
-    try:
-        # Find the element containing the title
-        title_element = DRIVER.find_elements(By.XPATH, "//*[contains(@class,'month-label')]//span")
-        # Extract the text from the element
-        months_years = [(title_element[i].text, title_element[i+1].text) for i in range(0, len(title_element), 2)]
-        number_of_dates = len(months_years)
-        dates_english = [(CZECH_TO_ENGLISH[combination[0].lower()], combination[1]) for combination in months_years]
-        dates_parsed = [(datetime.strptime(f'01 {combination[0]} {combination[1]}', '%d %B %Y')) for combination in dates_english]
-        PARSE_DATES = {
-            'number_of_dates': number_of_dates,
-            'options': dates_parsed
-        }
+#     except Exception as e:
+#         print('No cookie acceptance element found:', e)
+#     try:
+#         # Find the element containing the title
+#         title_element = DRIVER.find_elements(By.XPATH, "//*[contains(@class,'month-label')]//span")
+#         # Extract the text from the element
+#         months_years = [(title_element[i].text, title_element[i+1].text) for i in range(0, len(title_element), 2)]
+#         number_of_dates = len(months_years)
+#         dates_english = [(CZECH_TO_ENGLISH[combination[0].lower()], combination[1]) for combination in months_years]
+#         dates_parsed = [(datetime.strptime(f'01 {combination[0]} {combination[1]}', '%d %B %Y')) for combination in dates_english]
+#         PARSE_DATES = {
+#             'number_of_dates': number_of_dates,
+#             'options': dates_parsed
+#         }
 
-    except Exception as e:
-        print('Error:', e)
-    DRIVER.quit()
-    return PARSE_DATES
+#     except Exception as e:
+#         print('Error:', e)
+#     DRIVER.quit()
+#     return PARSE_DATES
 
 
 @task(retries=3)
@@ -239,7 +239,7 @@ def read_bigquery_table() -> pd.DataFrame:
     return df
 
 
-@task(retries=3)
-def enrich_data(df: pd.DataFrame) -> pd.DataFrame:
-    df['enriched_data_pelikan'] = df['link'].apply(selenium_scraping)
-    return df
+# @task(retries=3)
+# def enrich_data(df: pd.DataFrame) -> pd.DataFrame:
+#     df['enriched_data_pelikan'] = df['link'].apply(selenium_scraping)
+#     return df
