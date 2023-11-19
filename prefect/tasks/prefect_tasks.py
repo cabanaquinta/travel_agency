@@ -8,8 +8,6 @@ import scrapy
 from prefect_gcp import GcpCredentials
 from prefect_gcp.cloud_storage import GcsBucket
 from scrapy.crawler import CrawlerProcess
-from selenium import webdriver
-from selenium.webdriver.common.by import By
 from unidecode import unidecode
 
 from prefect import task
