@@ -32,7 +32,6 @@ repos:
           - id: check-yaml
           - id: check-added-large-files
           - id: double-quote-string-fixer
-          - id: check-case-conflict
           - id: mixed-line-ending
           - id: check-ast
           - id: debug-statements

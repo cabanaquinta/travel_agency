@@ -8,12 +8,28 @@ import scrapy
 from prefect_gcp import GcpCredentials
 from prefect_gcp.cloud_storage import GcsBucket
 from scrapy.crawler import CrawlerProcess
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 from unidecode import unidecode
 
 from prefect import task
 
 PARQUET_PATH = Path('./travel_data.parquet')
 DESTINATIONS = {}
+CZECH_TO_ENGLISH = {
+    'leden': 'January',
+    'únor': 'February',
+    'březen': 'March',
+    'duben': 'April',
+    'květen': 'May',
+    'červen': 'June',
+    'červenec': 'July',
+    'srpen': 'August',
+    'září': 'September',
+    'říjen': 'October',
+    'listopad': 'November',
+    'prosinec': 'December'
+}
 
 
 # Crawler
@@ -124,7 +140,7 @@ def clean_data(destinations: dict) -> pd.DataFrame:
     df['price'] = df['description'].apply(extract_price)
     df['currency'] = 'CZK'
     df['start'] = df['description'].apply(
-        lambda row:  extract_locations(row, 'start'))
+        lambda row: extract_locations(row, 'start'))
     df['end'] = df['description'].apply(
         lambda row: extract_locations(row, 'end'))
     df['date_from'] = df['link'].apply(lambda row: extract_dates(row, 'start'))
@@ -149,7 +165,7 @@ def upload_to_gcs(path: Path) -> None:
 
 
 # Bucket to BigQuery
-# @task(retries=3)
+@task(retries=3)
 def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'append') -> None:
     """ Read files from Bucket and paste them to BigQuery """
     bucket = GcsBucket.load('bucket')
@@ -165,3 +181,67 @@ def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'app
         if_exists=method
     )
     return
+
+
+def selenium_scraping(url: str) -> dict:
+    PARSE_DATES = {}
+    DRIVER = webdriver.Chrome(
+        executable_path='/Users/alejandro.perez/Downloads/chromedriver-mac-x64/chromedriver')  # type: ignore
+    DRIVER.get(url)
+    try:
+        # Check if the cookie acceptance element is present
+        cookie_accept_button = DRIVER.find_element(
+            By.XPATH, "//*[@id='ngAppContainer']/div[4]/div/div[3]/button[3]"
+        )
+        # Click the cookie acceptance button
+        cookie_accept_button.click()
+
+    except Exception as e:
+        print('No cookie acceptance element found:', e)
+    try:
+        # Find the element containing the title
+        title_element = DRIVER.find_elements(By.XPATH, "//*[contains(@class,'month-label')]//span")
+        # Extract the text from the element
+        months_years = [(title_element[i].text, title_element[i+1].text) for i in range(0, len(title_element), 2)]
+        number_of_dates = len(months_years)
+        dates_english = [(CZECH_TO_ENGLISH[combination[0].lower()], combination[1]) for combination in months_years]
+        dates_parsed = [(datetime.strptime(f'01 {combination[0]} {combination[1]}', '%d %B %Y')) for combination in dates_english]
+        PARSE_DATES = {
+            'number_of_dates': number_of_dates,
+            'options': dates_parsed
+        }
+
+    except Exception as e:
+        print('Error:', e)
+    DRIVER.quit()
+    return PARSE_DATES
+
+
+@task(retries=3)
+def read_bigquery_table() -> pd.DataFrame:
+    gcp_credentials = GcpCredentials.load('my-gcp')
+    # with BigQueryWarehouse(gcp_credentials=gcp_credentials) as warehouse:
+    QUERY = (
+        """
+        SELECT
+            link
+        FROM `amazing-thought-394210.warehouse.master`
+        WHERE
+            collected_date >= '2023-09-10'
+            AND link LIKE '%pelikan%'
+        ORDER BY collected_date DESC
+        """
+    )
+    df = pd.read_gbq(
+        query=QUERY,
+        project_id='amazing-thought-394210',
+        credentials=gcp_credentials.get_credentials_from_service_account()
+    )
+    df.drop_duplicates(inplace=True)
+    return df
+
+
+@task(retries=3)
+def enrich_data(df: pd.DataFrame) -> pd.DataFrame:
+    df['enriched_data_pelikan'] = df['link'].apply(selenium_scraping)
+    return df
