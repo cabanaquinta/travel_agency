@@ -1,7 +1,10 @@
-name: test
+name: tests
 
-on: pull_request
-
+on:
+    push:
+        branches: [master, main, dev]
+    pull_request:
+        branches: [master, main, dev]
 jobs:
     test:
         runs-on: ubuntu-latest
@@ -41,12 +44,7 @@ jobs:
               if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
               run: poetry install --no-interaction --no-root
             #----------------------------------------------
-            # install your root project, if required
-            #----------------------------------------------
-            - name: Install project
-              run: poetry install --no-interaction --no-root
-            #----------------------------------------------
             # Testing
             #----------------------------------------------
-            - name: Testin
+            - name: Testing
               run: poetry run pre-commit run --all-files

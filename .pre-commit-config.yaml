@@ -9,19 +9,19 @@ repos:
             entry: poetry run flake8
             language: system
             types: [python]
-            files: my_python_code/fancy_python_code.*
+
           - id: mypy
             name: mypy
-            entry: poetry run mypy
+            entry: poetry run mypy --no-namespace-packages
             language: system
             types: [python]
-            files: my_python_code/fancy_python_code.*
+
           - id: isort
             name: isort
             entry: poetry run isort
             language: system
             types: [python]
-            files: my_python_code/fancy_python_code.*
+
 
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v4.4.0
@@ -32,7 +32,6 @@ repos:
           - id: check-yaml
           - id: check-added-large-files
           - id: double-quote-string-fixer
-          - id: check-case-conflict
           - id: mixed-line-ending
           - id: check-ast
           - id: debug-statements
