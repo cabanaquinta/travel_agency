@@ -7,13 +7,13 @@ import pandas as pd
 # import scrapy
 from prefect_gcp import GcpCredentials
 from prefect_gcp.cloud_storage import GcsBucket
-from scrapy.crawler import CrawlerProcess
+# from scrapy.crawler import CrawlerProcess
 from unidecode import unidecode
 
 from prefect import task
 
 PARQUET_PATH = Path('./travel_data.parquet')
-DESTINATIONS = {}
+DESTINATIONS = {}  # type: ignore
 CZECH_TO_ENGLISH = {
     'leden': 'January',
     'únor': 'February',
@@ -124,11 +124,11 @@ def extract_dates(link: str, start_end: str) -> Optional[datetime]:
 
 
 # Web to Bucket
-@task(retries=3)
-def fetch() -> dict:
-    """ Fetch the data from the URL """
-    crawl(Travelspider)
-    return DESTINATIONS
+# @task(retries=3)
+# def fetch() -> dict:
+#     """ Fetch the data from the URL """
+#     crawl(Travelspider)
+#     return DESTINATIONS
 
 
 @task()

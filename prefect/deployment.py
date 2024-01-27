@@ -1,6 +1,6 @@
 from etl_gcp_to_bq import etl_gcs_to_bq
 from etl_web_to_gcs import etl_web_to_gcs
-from notify import notify
+from notify_japan import notify  # type: ignore
 from prefect_gcp.cloud_run import CloudRunJob
 from prefect_gcp.cloud_storage import GcsBucket
 
@@ -42,4 +42,4 @@ deployment_notify = Deployment.build_from_flow(
 if __name__ == '__main__':
     deployment_web_to_gcs.apply()  # type: ignore
     deployment_gcs_to_gcp.apply()  # type: ignore
-    deployment_notify.apply()
+    deployment_notify.apply()  # type: ignore
