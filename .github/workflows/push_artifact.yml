@@ -2,7 +2,7 @@ name: push_image_to_gcp_artifact_registry
 
 on:
     push:
-        branches: [master, main, dev]
+        branches: [master, main, dev] # Remove DEV from here
     pull_request:
         branches: [master, main, dev]
 
