@@ -1,5 +1,6 @@
 from tasks.prefect_tasks import (PARQUET_PATH, clean_data,  # type: ignore
                                  fetch, save_parquet_file, upload_to_gcs)
+
 from prefect import flow
 
 

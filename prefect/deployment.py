@@ -40,6 +40,6 @@ deployment_notify = Deployment.build_from_flow(
 
 
 if __name__ == '__main__':
-    deployment_web_to_gcs.apply() 
+    deployment_web_to_gcs.apply()  # type: ignore
     deployment_gcs_to_gcp.apply()  # type: ignore
     deployment_notify.apply()  # type: ignore
