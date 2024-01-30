@@ -243,8 +243,7 @@ def create_message(df = pd.DataFrame) -> str:
     message = f"""
     Hi There All New Flights {datetime.today().strftime('%Y-%m-%d')}:
 
-    * {'\n* '.join(df['rows'].tolist())}
-
+    * {chr(10)}{'n* '.join(df['rows'].tolist())}
     """
     return message
 
