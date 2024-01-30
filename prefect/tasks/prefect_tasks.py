@@ -239,12 +239,16 @@ def read_bigquery_table() -> pd.DataFrame:
 
 @task(retries=3)
 def create_message(df = pd.DataFrame) -> str:
-    df['rows'] = df['end'] + ' - ' + df['price'].astype('str') + ' - ' + df['link'] 
-    message = f"""
-    Hi There All New Flights {datetime.today().strftime('%Y-%m-%d')}:
+    if df.shape[0] > 0:
+        new_line = '\n* '
+        df['rows'] = df['start'] + ' - ' + df['end'] + ' - ' + df['price'].astype('str') + ' - ' + df['link'] 
+        message = f"""
+        Hi There All New Flights {datetime.today().strftime('%Y-%m-%d')}:
 
-    * {chr(10)}{'n* '.join(df['rows'].tolist())}
-    """
+        * {new_line.join(df['rows'].tolist())}
+        """
+    else:
+        message = 'Nothing New'
     return message
 
 
