@@ -4,10 +4,10 @@ from pathlib import Path
 from typing import Literal, Optional
 
 import pandas as pd
-# import scrapy
+import scrapy
 from prefect_gcp import GcpCredentials
 from prefect_gcp.cloud_storage import GcsBucket
-# from scrapy.crawler import CrawlerProcess
+from scrapy.crawler import CrawlerProcess
 from unidecode import unidecode
 
 from prefect import task
@@ -84,51 +84,43 @@ def extract_dates(link: str, start_end: str) -> Optional[datetime]:
         return None
 
 
-# class Travelspider(scrapy.Spider):
-#     name = 'travel_agency'
+class Travelspider(scrapy.Spider):
+    name = 'travel_agency'
 
-#     def start_requests(self):
-#         URL = 'http://www.akcniletenky.com/'
-#         yield scrapy.Request(url=URL, callback=self.parse)
+    def start_requests(self):
+        URL = 'http://www.akcniletenky.com/'
+        yield scrapy.Request(url=URL, callback=self.parse)
 
-#     def parse(self, response):
-#         LINKS = []
-#         TEXTS = []
-#         # noflake8
-#         PATH = "//table/tr[3]/td[2]/div/table[3]//td/table/tr[2]/td[2]//table//td/font//p[contains(., '=')]"  # noqa: E501
-#         ROWS = response.xpath(PATH)
-#         for row in ROWS:
-#             text = (
-#                 row.xpath('string()').get()
-        #         .replace('\r', '')
-        #         .replace('\t', '')
-        #         .strip()
-        #     )
-        #     text = text.split('\n')
-        #     text = [clean_description(des) for des in text]
+    def parse(self, response):
+        LINKS = []
+        TEXTS = []
+        # noflake8
+        PATH = "//table/tr[3]/td[2]/div/table[3]//td/table/tr[2]/td[2]//table//td/font//p[contains(., '=')]"  # noqa: E501
+        ROWS = response.xpath(PATH)
+        for row in ROWS:
+            text = (
+                row.xpath('string()').get()
+                .replace('\r', '')
+                .replace('\t', '')
+                .strip()
+            )
+            text = text.split('\n')
+            text = [clean_description(des) for des in text]
 
-        #     link = row.xpath('.//@href').getall()
-        #     if len(text) == len(link):
-        #         LINKS.extend(link)
-        #         TEXTS.extend(text)
+            link = row.xpath('.//@href').getall()
+            if len(text) == len(link):
+                LINKS.extend(link)
+                TEXTS.extend(text)
 
-        # DESTINATIONS['-'] = list(zip(LINKS, TEXTS))
-
-
-# def crawl(spider) -> None:
-#     """ Start the Spider crawling"""
-#     crawler = CrawlerProcess()
-#     crawler.start()
-#     crawler.crawl(spider)
-#     crawler.start(stop_after_crawl=True, install_signal_handlers=False)
+        DESTINATIONS['-'] = list(zip(LINKS, TEXTS))
 
 
-# Web to Bucket
-# @task(retries=3)
-# def fetch() -> dict:
-#     """ Fetch the data from the URL """
-#     crawl(Travelspider)
-#     return DESTINATIONS
+def crawl(spider) -> None:
+    """ Start the Spider crawling"""
+    crawler = CrawlerProcess()
+    crawler.start()
+    crawler.crawl(spider)
+    crawler.start(stop_after_crawl=True, install_signal_handlers=False)
 
 
 @task()
