@@ -123,13 +123,6 @@ def crawl(spider) -> None:
     crawler.start(stop_after_crawl=True, install_signal_handlers=False)
 
 
-@task(retries=3)
-def fetch() -> dict:
-    """ Fetch the data from the URL """
-    crawl(Travelspider)
-    return DESTINATIONS
-
-
 @task()
 def clean_data(destinations: dict) -> pd.DataFrame:
     """ Clean the data and return the DF """
