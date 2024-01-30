@@ -123,6 +123,13 @@ def crawl(spider) -> None:
     crawler.start(stop_after_crawl=True, install_signal_handlers=False)
 
 
+@task(retries=3)
+def fetch() -> dict:
+    """ Fetch the data from the URL """
+    crawl(Travelspider)
+    return DESTINATIONS
+
+
 @task()
 def clean_data(destinations: dict) -> pd.DataFrame:
     """ Clean the data and return the DF """
@@ -210,15 +217,14 @@ def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'app
 @task(retries=3)
 def read_bigquery_table() -> pd.DataFrame:
     gcp_credentials = GcpCredentials.load('my-gcp')
-    # with BigQueryWarehouse(gcp_credentials=gcp_credentials) as warehouse:
     QUERY = (
-        """
+        f"""
         SELECT
-            link
-        FROM `amazing-thought-394210.warehouse.master`
+            master.*
+        FROM `amazing-thought-394210.warehouse.master` as master
         WHERE
-            collected_date >= '2023-09-10'
-            AND link LIKE '%pelikan%'
+            master.collected_date >= (Select MAX(collected_date) from `amazing-thought-394210.warehouse.master`)
+            AND master.end in ('Tokio', 'Marrakech', 'Agadir')
         ORDER BY collected_date DESC
         """
     )
@@ -229,6 +235,18 @@ def read_bigquery_table() -> pd.DataFrame:
     )
     df.drop_duplicates(inplace=True)
     return df
+
+
+@task(retries=3)
+def create_message(df = pd.DataFrame) -> str:
+    df['rows'] = df['end'] + ' - ' + df['price'].astype('str') + ' - ' + df['link'] 
+    message = f"""
+    Hi There All New Flights {datetime.today().strftime('%Y-%m-%d')}:
+
+    * {'\n* '.join(df['rows'].tolist())}
+
+    """
+    return message
 
 
 # @task(retries=3)
