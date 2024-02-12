@@ -220,12 +220,19 @@ def read_bigquery_table() -> pd.DataFrame:
     QUERY = (
         f"""
         SELECT
-            master.*
+            master.start,
+            master.end,
+            master.price,
+            master.link,
+            COUNT(DISTINCT master.link)
         FROM `amazing-thought-394210.warehouse.master` as master
         WHERE
             master.collected_date >= (Select MAX(collected_date) from `amazing-thought-394210.warehouse.master`)
             AND master.end in ('Tokio', 'Marrakech', 'Agadir')
-        ORDER BY collected_date DESC
+        GROUP BY 
+            1, 2, 3, 4
+        HAVING
+            COUNT(DISTINCT master.link) = 1
         """
     )
     df = pd.read_gbq(
