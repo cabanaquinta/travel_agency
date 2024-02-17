@@ -218,21 +218,33 @@ def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'app
 def read_bigquery_table() -> pd.DataFrame:
     gcp_credentials = GcpCredentials.load('my-gcp')
     QUERY = (
-        f"""
+        """
+        WITH checker as (
+        SELECT
+            master.link,
+            count(*)
+        FROM
+            `amazing-thought-394210.warehouse.master` as master
+        WHERE
+            master.collected_date > cast('2024-02-01 00:00:00' as timestamp)
+            and master.end in (
+                'Tokio', 'Marrakech', 'Agadir', 'Madrid',
+                'Colombo', 'Rio de Janeiro', 'Bali', 'Jakarta'
+            )
+        GROUP BY
+            1
+        HAVING
+            count(*) = 1)
         SELECT
             master.start,
             master.end,
             master.price,
-            master.link,
-            COUNT(DISTINCT master.link)
-        FROM `amazing-thought-394210.warehouse.master` as master
-        WHERE
-            master.collected_date >= (Select MAX(collected_date) from `amazing-thought-394210.warehouse.master`)
-            AND master.end in ('Tokio', 'Marrakech', 'Agadir')
-        GROUP BY 
-            1, 2, 3, 4
-        HAVING
-            COUNT(DISTINCT master.link) = 1
+            master.link
+        FROM
+            `amazing-thought-394210.warehouse.master` as master
+        JOIN
+            checker on checker.link = master.link
+
         """
     )
     df = pd.read_gbq(
@@ -245,10 +257,10 @@ def read_bigquery_table() -> pd.DataFrame:
 
 
 @task(retries=3)
-def create_message(df = pd.DataFrame) -> str:
+def create_message(df=pd.DataFrame) -> str:
     if df.shape[0] > 0:
         new_line = '\n* '
-        df['rows'] = df['start'] + ' - ' + df['end'] + ' - ' + df['price'].astype('str') + ' - ' + df['link'] 
+        df['rows'] = df['start'] + ' - ' + df['end'] + ' - ' + df['price'].astype('str') + ' - ' + df['link']
         message = f"""
         Hi There All New Flights {datetime.today().strftime('%Y-%m-%d')}:
 
