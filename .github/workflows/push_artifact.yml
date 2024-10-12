@@ -34,23 +34,6 @@ jobs:
                 docker build -t europe-west6-docker.pkg.dev/amazing-thought-394210/test/$IMAGE_NAME:2.6.5-python3.10 .
                 docker push europe-west6-docker.pkg.dev/amazing-thought-394210/test/$IMAGE_NAME:2.6.5-python3.10
 
-        # -
-        #     name: install Python 3.10
-        #     uses: actions/setup-python@v4
-        #     with:
-        #         python-version: '3.10'
-        # -
-        #     name: Install Prefect and Prefect GCP
-        #     run: |
-        #         python -m pip install --upgrade pip
-        #         pip install prefect prefect_gcp unidecode scrapy pandas
-        # -
-        #     name: Prefect Auth
-        #     uses: PrefectHQ/actions-prefect-auth@v1
-        #     with:
-        #         prefect-api-key: ${{ secrets.PREFECT_API_KEY }}
-        #         prefect-workspace: alexroperez3gmailcom/travel-agency
-        # -
-        #     name: Push Flows to Prefect Cloud
-        #     run: |
-        #         python ./prefect/deployment.py
+                #----------------------------------------------
+                    # TODO DO PREFECT DEPLOYMENT AUTOMATICALLY
+                #----------------------------------------------

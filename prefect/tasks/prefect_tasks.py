@@ -122,6 +122,12 @@ def crawl(spider) -> None:
     crawler.crawl(spider)
     crawler.start(stop_after_crawl=True, install_signal_handlers=False)
 
+@task(retries=3)
+def fetch() -> dict:
+    """ Fetch the data from the URL """
+    crawl(Travelspider)
+    return DESTINATIONS
+
 
 @task()
 def clean_data(destinations: dict) -> pd.DataFrame:
@@ -210,16 +216,35 @@ def upload_to_bq(path: Path, method: Literal['fail', 'replace', 'append'] = 'app
 @task(retries=3)
 def read_bigquery_table() -> pd.DataFrame:
     gcp_credentials = GcpCredentials.load('my-gcp')
-    # with BigQueryWarehouse(gcp_credentials=gcp_credentials) as warehouse:
     QUERY = (
         """
+        WITH checker as (
         SELECT
-            link
-        FROM `amazing-thought-394210.warehouse.master`
+            master.link,
+            count(*)
+        FROM
+            `amazing-thought-394210.warehouse.master` as master
         WHERE
-            collected_date >= '2023-09-10'
-            AND link LIKE '%pelikan%'
-        ORDER BY collected_date DESC
+            master.collected_date > cast('2024-02-01 00:00:00' as timestamp)
+            and master.end in (
+                'Tokio', 'Marrakech', 'Agadir', 'Madrid',
+                'Colombo', 'Rio de Janeiro', 'Bali', 'Jakarta',
+                'Marrákeš', 'Hanoj'
+            )
+        GROUP BY
+            1
+        HAVING
+            count(*) = 1)
+        SELECT
+            master.start,
+            master.end,
+            master.price,
+            master.link
+        FROM
+            `amazing-thought-394210.warehouse.master` as master
+        JOIN
+            checker on checker.link = master.link
+
         """
     )
     df = pd.read_gbq(
@@ -229,6 +254,21 @@ def read_bigquery_table() -> pd.DataFrame:
     )
     df.drop_duplicates(inplace=True)
     return df
+
+
+@task(retries=3)
+def create_message(df=pd.DataFrame) -> str:
+    if df.shape[0] > 0:
+        new_line = '\n* '
+        df['rows'] = df['start'] + ' - ' + df['end'] + ' - ' + df['price'].astype('str') + ' - ' + df['link']
+        message = f"""
+        Hi There All New Flights {datetime.today().strftime('%Y-%m-%d')}:
+
+        * {new_line.join(df['rows'].tolist())}
+        """
+    else:
+        message = 'Nothing New'
+    return message
 
 
 # @task(retries=3)
