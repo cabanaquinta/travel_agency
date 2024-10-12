@@ -122,12 +122,6 @@ def crawl(spider) -> None:
     crawler.crawl(spider)
     crawler.start(stop_after_crawl=True, install_signal_handlers=False)
 
-@task(retries=3)
-def fetch() -> dict:
-    """ Fetch the data from the URL """
-    crawl(Travelspider)
-    return DESTINATIONS
-
 
 @task(retries=3)
 def fetch() -> dict:
