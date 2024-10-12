@@ -229,7 +229,8 @@ def read_bigquery_table() -> pd.DataFrame:
             master.collected_date > cast('2024-02-01 00:00:00' as timestamp)
             and master.end in (
                 'Tokio', 'Marrakech', 'Agadir', 'Madrid',
-                'Colombo', 'Rio de Janeiro', 'Bali', 'Jakarta'
+                'Colombo', 'Rio de Janeiro', 'Bali', 'Jakarta',
+                'Marrákeš', 'Hanoj'
             )
         GROUP BY
             1
